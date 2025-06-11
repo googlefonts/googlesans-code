@@ -14,4 +14,4 @@ The “Google Sans Code” trademark may not be incorporated as part of your com
 
 The “Google Sans Code” trademark should not be combined with other trademarks, terms, or source identifiers, and may not be modified without permission.
 
-For example, Modified Versions of the Font Software may use the Google mark in a Github repo fork that is used to contribute a Pull Request to the [github.com/googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code)) repo.
+For example, Modified Versions of the Font Software may use the Google mark in a Github repo fork that is used to contribute a Pull Request to the [github.com/googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) repo.
