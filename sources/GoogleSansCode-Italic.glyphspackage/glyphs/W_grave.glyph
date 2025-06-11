@@ -1,0 +1,58 @@
+{
+glyphname = Wgrave;
+layers = (
+{
+layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (664,387);
+ref = gravecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (662,385);
+ref = gravecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (656,380);
+ref = gravecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (654,378);
+ref = gravecomb;
+}
+);
+width = 1200;
+}
+);
+unicode = 7808;
+}

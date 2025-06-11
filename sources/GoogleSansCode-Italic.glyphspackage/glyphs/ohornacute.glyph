@@ -1,0 +1,79 @@
+{
+glyphname = ohornacute;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = ohornacute.ss02;
+}
+);
+};
+layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
+shapes = (
+{
+ref = ohorn.alt;
+},
+{
+pos = (541,16);
+ref = acutecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+ref = ohornacute.ss02;
+}
+);
+};
+layerId = m006;
+shapes = (
+{
+ref = ohorn.alt;
+},
+{
+pos = (540,17);
+ref = acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
+shapes = (
+{
+ref = ohorn.alt;
+},
+{
+pos = (510,19);
+ref = acutecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+ref = ohornacute.ss02;
+}
+);
+};
+layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
+shapes = (
+{
+ref = ohorn.alt;
+},
+{
+pos = (510,20);
+ref = acutecomb;
+}
+);
+width = 1200;
+}
+);
+unicode = 7899;
+}

@@ -1,0 +1,128 @@
+name: Build from Glyphs
+
+on:
+  push:
+    branches: [main]
+    tags: ["*"]
+  pull_request:
+    types: [opened, synchronize, reopened]
+  release:
+    # A release, pre-release, or draft of a release was published
+    types: [published]
+  
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10
+    steps:
+    - name: Checkout ${{ github.head_ref || github.ref_name }}
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.head_ref || github.ref_name }}
+    - name: Create folder
+      run: |
+        mkdir -p fonts/variable
+    - name: Install cargo-binstall
+      uses: cargo-bins/cargo-binstall@v1.12.4
+    - name: Use cargo-binstall to grab precompiled fontc
+      run: cargo binstall fontc@0.2.0
+    - name: Build upright font
+      run: fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[wght].ttf
+    - name: Build italic font
+      run: fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[wght].ttf
+    - name: Generate artifact name
+      id: zip-name
+      uses: alpha-tango-kilo/gha-artifact-name@v1
+      with:
+        repo-name: Google Sans Code
+        overrides: |
+          build-test: build
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ steps.zip-name.outputs.artifact-name }}
+        path: |
+          fonts/
+    outputs:
+      artifact-name: ${{ steps.zip-name.outputs.artifact-name }}
+  tests:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 30
+    needs:
+    - build
+    steps:
+    - name: Checkout ${{ github.head_ref || github.ref_name }}
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.head_ref || github.ref_name }}
+    - name: Download built fonts
+      uses: actions/download-artifact@v4
+      with:
+        name: ${{ needs.build.outputs.artifact-name }}
+        path: build
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version-file: .github/python-version.txt
+        cache: pip
+    - name: OpenType Sanitizer checks
+      uses: f-actions/opentype-sanitizer@v3
+      with:
+        path: build/**/*.ttf
+    - name: Shaperglot report
+      run: |
+        echo "::group::Set up venv"
+        python -m venv shaperglot-venv
+        shaperglot-venv/bin/pip install --upgrade shaperglot
+        echo "::endgroup::"
+        shaperglot-venv/bin/shaperglot report build/variable/GoogleSansCode[wght].ttf
+    - name: Run Fontbakery
+      id: fontbakery
+      run: make test
+    - name: Upload Fontbakery report(s)
+      uses: actions/upload-artifact@v4
+      # Always upload reports (even during a pipeline fail), so long as Fontbakery completed
+      if: ${{ !cancelled() && (steps.fontbakery.conclusion == 'success' || steps.fontbakery.conclusion == 'failure') }}
+      with:
+        name: Fontbakery reports
+        path: out/fontbakery
+  release:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 5
+    needs:
+    - build
+    - tests
+    # Only run on a GitHub release
+    if: github.event_name == 'release'
+    permissions:
+      # Needed for svenstaro/upload-release-action
+      contents: write
+    steps:
+    - name: Checkout ${{ github.head_ref || github.ref_name }}
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.head_ref || github.ref_name }}
+    - name: Download built fonts
+      uses: actions/download-artifact@v4
+      with:
+        name: ${{ needs.build.outputs.artifact-name }}
+        path: ${{ needs.build.outputs.artifact-name }}
+    - name: Bundle license
+      run: |
+        cp OFL.txt "${{ needs.build.outputs.artifact-name }}"
+    - name: Create release archive
+      run: |
+        release_zip_name="GoogleSansCode-${GITHUB_REF#refs/*/}.zip"
+        echo "RELEASE_ZIP_NAME=$release_zip_name" >> "$GITHUB_ENV"
+        cd "${{ needs.build.outputs.artifact-name }}" && zip "../$release_zip_name" OFL.txt **/*.ttf
+    - name: Upload binaries to release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: ${{ env.RELEASE_ZIP_NAME }}
+        asset_name: ${{ env.RELEASE_ZIP_NAME }}
+        tag: ${{ github.ref }}
+        overwrite: true
+        body: >
+          Production ready fonts.
+          See [CHANGELOG.md](https://github.com/googlefonts/googlesans-code/blob/main/CHANGELOG.md) for changes

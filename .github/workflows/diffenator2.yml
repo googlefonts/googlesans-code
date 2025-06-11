@@ -1,0 +1,95 @@
+name: Diffenate builds
+
+on:
+  workflow_dispatch:
+    inputs:
+      before:
+        description: The 'before' git reference (tag, branch, or commit)
+        required: true
+      after:
+        description: The 'after' git reference (tag, branch, or commit)
+        required: true
+
+jobs:
+  build-before:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10
+    steps:
+    - name: Checkout ${{ inputs.before }}
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ inputs.before }}
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version-file: .github/python-version.txt
+        cache: pip
+    - name: Setup venv
+      run: make setup
+    - name: Build fonts
+      run: source .venv/bin/activate && make build
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: Before VFs (${{ inputs.before }})
+        path: fonts/variable
+  build-after:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10
+    steps:
+    - name: Checkout ${{ inputs.after }}
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ inputs.after }}
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version-file: .github/python-version.txt
+        cache: pip
+    - name: Setup venv
+      run: make setup
+    - name: Build fonts
+      run: source .venv/bin/activate && make build
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: After VFs (${{ inputs.after }})
+        path: fonts/variable
+  diffenate:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 60
+    needs:
+    - build-before
+    - build-after
+    steps:
+    - name: Checkout python-version.txt from main
+      uses: actions/checkout@v4
+      with:
+        sparse-checkout: .github/python-version.txt
+    - name: Download before fonts
+      uses: actions/download-artifact@v3
+      with:
+        name: Before VFs (${{ inputs.before }})
+        path: before
+    - name: Download after fonts
+      uses: actions/download-artifact@v3
+      with:
+        name: After VFs (${{ inputs.after }})
+        path: after
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version-file: .github/python-version.txt
+        cache: pip
+    - name: Install diffenator2
+      run: pip install --upgrade diffenator2
+    - name: Run diffenator2
+      run: |
+        mkdir -p diffenator_report
+        diffenator2 diff --fonts-before before/*.ttf --fonts-after after/*.ttf \
+          --out diffenator_report
+    - name: Upload diffenator report
+      uses: actions/upload-artifact@v3
+      with:
+        name: Diffenator2 report (${{ inputs.before }} vs ${{ inputs.after }})
+        path: diffenator_report

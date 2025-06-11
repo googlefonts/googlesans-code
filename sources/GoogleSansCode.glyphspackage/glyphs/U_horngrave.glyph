@@ -1,0 +1,132 @@
+{
+glyphname = Uhorngrave;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(778,-30,o),
+(944,147,o),
+(944,401,cs),
+(944,1394,l),
+(839,1336,l),
+(903,1336,ls),
+(1047,1336,o),
+(1174,1415,o),
+(1174,1539,cs),
+(1174,1590,o),
+(1160,1637,o),
+(1134,1688,c),
+(977,1617,l),
+(996,1581,o),
+(1004,1552,o),
+(1004,1523,cs),
+(1004,1464,o),
+(962,1432,o),
+(884,1432,cs),
+(798,1432,l),
+(798,411,ls),
+(798,226,o),
+(698,110,o),
+(530,110,cs),
+(362,110,o),
+(262,226,o),
+(262,411,cs),
+(262,1432,l),
+(116,1432,l),
+(116,401,ls),
+(116,147,o),
+(282,-30,o),
+(530,-30,cs)
+);
+},
+{
+pos = (580,403);
+ref = gravecomb;
+},
+{
+pos = (580,403);
+ref = gravecomb;
+}
+);
+};
+layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (580,403);
+ref = gravecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (532,402);
+ref = gravecomb;
+}
+);
+};
+layerId = "68A78E10-2392-4B34-B44D-B6A5B48D0FD1";
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (572,402);
+ref = gravecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (536,399);
+ref = gravecomb;
+}
+);
+};
+layerId = "50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0";
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (546,399);
+ref = gravecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (537,398);
+ref = gravecomb;
+}
+);
+};
+layerId = "D010C1AA-6BDD-4F06-9849-880CC2F29E88";
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (537,398);
+ref = gravecomb;
+}
+);
+width = 1200;
+}
+);
+unicode = 7914;
+}

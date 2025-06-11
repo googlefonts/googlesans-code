@@ -1,0 +1,2504 @@
+{
+.appVersion = "3414";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+classes = (
+{
+code = "dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb
+";
+name = latn_CombiningTopAccents;
+},
+{
+code = "gravecomb acutecomb tildecomb hookabovecomb
+";
+name = latn_CombiningTopAccents_Viet;
+},
+{
+code = "commaaccentcomb cedillacomb ogonekcomb
+";
+name = latn_CombiningNonTopAccents;
+},
+{
+code = "dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb
+";
+name = latn_CombiningTopAccents_stack_DFLT;
+},
+{
+code = "zero one two three four five six seven eight nine
+";
+name = latn_Numerals_DFLT;
+}
+);
+customParameters = (
+{
+name = isFixedPitch;
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Don't use Production Names";
+value = 0;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2,
+3,
+4,
+5,
+6,
+29,
+31,
+33,
+37,
+38,
+43,
+44,
+45
+);
+},
+{
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+NULL,
+CR,
+space,
+nbspace,
+dottedCircle,
+exclam,
+numbersign,
+dollar,
+percent,
+ampersand,
+quotesingle,
+parenleft,
+parenright,
+asterisk,
+plus,
+comma,
+hyphen,
+period,
+slash,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+colon,
+semicolon,
+less,
+equal,
+greater,
+question,
+at,
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+bracketleft,
+backslash,
+bracketright,
+asciicircum,
+underscore,
+grave,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+braceleft,
+bar,
+brokenbar,
+braceright,
+asciitilde,
+quotedbl,
+copyright,
+registered,
+trademark,
+minus,
+plusminus,
+multiply,
+divide,
+divisionslash,
+fraction,
+quoteleft,
+quoteright,
+quotedblleft,
+quotedblright,
+rightArrow,
+leftArrow,
+upArrow,
+downArrow,
+rightwardsDoubleArrow,
+proportion,
+lessequal,
+greaterequal,
+g.ss01,
+ellipsis,
+blackSquare,
+whiteSquare,
+blackSmallSquare,
+whiteSmallSquare,
+filledRect,
+upBlackTriangle,
+rightBlackPointer,
+downBlackTriangle,
+leftBlackPointer,
+blackDiamond,
+fisheye,
+lozenge,
+whiteCircle,
+blackCircle,
+inverseWhiteCircle,
+boxLightHorizontal,
+boxHeavyHorizontal,
+boxLightVertical,
+boxHeavyVertical,
+boxLightTripleDashHorizontal,
+boxHeavyTripleDashHorizontal,
+boxLightTripleDashVertical,
+boxHeavyTripleDashVertical,
+boxLightQuadrupleDashHorizontal,
+boxHeavyQuadrupleDashHorizontal,
+boxLightQuadrupleDashVertical,
+boxHeavyQuadrupleDashVertical,
+boxLightDownAndRight,
+boxDownLightAndRightHeavy,
+boxDownHeavyAndRightLight,
+boxHeavyDownAndRight,
+boxLightDownAndLeft,
+boxDownLightAndLeftHeavy,
+boxDownHeavyAndLeftLight,
+boxHeavyDownAndLeft,
+boxLightUpAndRight,
+boxUpLightAndRightHeavy,
+boxUpHeavyAndRightLight,
+boxHeavyUpAndRight,
+boxLightUpAndLeft,
+boxUpLightAndLeftHeavy,
+boxUpHeavyAndLeftLight,
+boxHeavyUpAndLeft,
+boxLightVerticalAndRight,
+boxVerticalLightAndRightHeavy,
+boxUpHeavyAndRightDownLight,
+boxDownHeavyAndRightUpLight,
+boxVerticalHeavyAndRightLight,
+boxDownLightAndRightUpHeavy,
+boxUpLightAndRightDownHeavy,
+boxHeavyVerticalAndRight,
+boxLightVerticalAndLeft,
+boxVerticalLightAndLeftHeavy,
+boxUpHeavyAndLeftDownLight,
+boxDownHeavyAndLeftUpLight,
+boxVerticalHeavyAndLeftLight,
+boxDownLightAndLeftUpHeavy,
+boxUpLightAndLeftDownHeavy,
+boxHeavyVerticalAndLeft,
+boxLightDownAndHorizontal,
+boxLeftHeavyAndRightDownLight,
+boxRightHeavyAndLeftDownLight,
+boxDownLightAndHorizontalHeavy,
+boxDownHeavyAndHorizontalLight,
+boxRightLightAndLeftDownHeavy,
+boxLeftLightAndRightDownHeavy,
+boxHeavyDownAndHorizontal,
+boxLightUpAndHorizontal,
+boxLeftHeavyAndRightUpLight,
+boxRightHeavyAndLeftUpLight,
+boxUpLightAndHorizontalHeavy,
+boxUpHeavyAndHorizontalLight,
+boxRightLightAndLeftUpHeavy,
+boxLeftLightAndRightUpHeavy,
+boxHeavyUpAndHorizontal,
+boxLightVerticalAndHorizontal,
+boxLeftHeavyAndRightVerticalLight,
+boxRightHeavyAndLeftVerticalLight,
+boxVerticalLightAndHorizontalHeavy,
+boxUpHeavyAndDownHorizontalLight,
+boxDownHeavyAndUpHorizontalLight,
+boxVerticalHeavyAndHorizontalLight,
+boxLeftUpHeavyAndRightDownLight,
+boxRightUpHeavyAndLeftDownLight,
+boxLeftDownHeavyAndRightUpLight,
+boxRightDownHeavyAndLeftUpLight,
+boxDownLightAndUpHorizontalHeavy,
+boxUpLightAndDownHorizontalHeavy,
+boxRightLightAndLeftVerticalHeavy,
+boxLeftLightAndRightVerticalHeavy,
+boxHeavyVerticalAndHorizontal,
+boxLightDoubleDashHorizontal,
+boxHeavyDoubleDashHorizontal,
+boxLightDoubleDashVertical,
+boxHeavyDoubleDashVertical,
+boxDoubleHorizontal,
+boxDoubleVertical,
+boxDownSingleAndRightDouble,
+boxDownDoubleAndRightSingle,
+boxDoubleDownAndRight,
+boxDownSingleAndLeftDouble,
+boxDownDoubleAndLeftSingle,
+boxDoubleDownAndLeft,
+boxUpSingleAndRightDouble,
+boxUpDoubleAndRightSingle,
+boxDoubleUpAndRight,
+boxUpSingleAndLeftDouble,
+boxUpDoubleAndLeftSingle,
+boxDoubleUpAndLeft,
+boxVerticalSingleAndRightDouble,
+boxVerticalDoubleAndRightSingle,
+boxDoubleVerticalAndRight,
+boxVerticalSingleAndLeftDouble,
+boxVerticalDoubleAndLeftSingle,
+boxDoubleVerticalAndLeft,
+boxDownSingleAndHorizontalDouble,
+boxDownDoubleAndHorizontalSingle,
+boxDoubleDownAndHorizontal,
+boxUpSingleAndHorizontalDouble,
+boxUpDoubleAndHorizontalSingle,
+boxDoubleUpAndHorizontal,
+boxVerticalSingleAndHorizontalDouble,
+boxVerticalDoubleAndHorizontalSingle,
+boxDoubleVerticalAndHorizontal,
+boxLightArcDownAndRight,
+boxLightArcDownAndLeft,
+boxLightArcUpAndLeft,
+boxLightArcUpAndRight,
+boxLightDiagonalUpperRightToLowerLeft,
+boxLightDiagonalUpperLeftToLowerRight,
+boxLightDiagonalCross,
+boxLightLeft,
+boxLightUp,
+boxLightRight,
+boxLightDown,
+boxHeavyLeft,
+boxHeavyUp,
+boxHeavyRight,
+boxHeavyDown,
+boxLightLeftAndHeavyRight,
+boxLightUpAndHeavyDown,
+boxHeavyLeftAndLightRight,
+boxHeavyUpAndLightDown,
+upperHalfBlock,
+lowerOneEighthBlock,
+lowerOneQuarterBlock,
+lowerThreeEighthsBlock,
+lowerHalfBlock,
+lowerFiveEighthsBlock,
+lowerThreeQuartersBlock,
+lowerSevenEighthsBlock,
+fullBlock,
+leftSevenEighthsBlock,
+leftThreeQuartersBlock,
+leftFiveEighthsBlock,
+leftBlock,
+leftThreeEighthsBlock,
+leftOneQuarterBlock,
+leftOneEighthBlock,
+rightBlock,
+shadelight,
+shademedium,
+shadedark,
+upperOneEighthBlock,
+rightOneEighthBlock,
+lowerLeftBlock,
+lowerRightBlock,
+upperLeftBlock,
+upperLeftAndLowerLeftAndLowerRightBlock,
+upperLeftAndLowerRightBlock,
+upperLeftAndUpperRightAndLowerLeftBlock,
+upperLeftAndUpperRightAndLowerRightBlock,
+upperRightBlock,
+upperRightAndLowerLeftBlock,
+upperRightAndLowerLeftAndLowerRightBlock,
+Agrave,
+Aacute,
+Acircumflex,
+Atilde,
+Amacron,
+Adieresis,
+Aring,
+AE,
+AEacute,
+Abreve,
+Aogonek,
+Adotbelow,
+Ahookabove,
+Acircumflexacute,
+Acircumflexgrave,
+Acircumflexhookabove,
+Acircumflextilde,
+Acircumflexdotbelow,
+Abreveacute,
+Abrevegrave,
+Abrevehookabove,
+Abrevetilde,
+Abrevedotbelow,
+Bhook,
+Ccedilla,
+Cacute,
+Cdotaccent,
+Ccaron,
+Dcaron,
+Dcroat,
+Dhook,
+DZcaron,
+Dzcaron,
+Egrave,
+Eacute,
+Ecircumflex,
+Edieresis,
+Emacron,
+Edotaccent,
+Eogonek,
+Ecaron,
+Edotbelow,
+Ehookabove,
+Etilde,
+Ecircumflexacute,
+Ecircumflexgrave,
+Ecircumflexhookabove,
+Ecircumflextilde,
+Ecircumflexdotbelow,
+Eth,
+Eng,
+Eng.loclNSM,
+Gbreve,
+Gdotaccent,
+Gcommaaccent,
+Hbar,
+Igrave,
+Iacute,
+Icircumflex,
+Imacron,
+Idieresis,
+Iogonek,
+Idotaccent,
+IJ,
+IJacute,
+Itilde,
+Ihookabove,
+Idotbelow,
+Kcommaaccent,
+Khook,
+Lacute,
+Lcaron,
+Lcommaaccent,
+Lslash,
+Ldot,
+LJ,
+Lj,
+Ngrave,
+Ntilde,
+Nacute,
+Ndotaccent,
+Ncaron,
+Ncommaaccent,
+NJ,
+Nj,
+Ograve,
+Oacute,
+Ocircumflex,
+Otilde,
+Omacron,
+Odieresis,
+Oslash,
+Ohungarumlaut,
+Oogonek,
+OE,
+Odotbelow,
+Ohookabove,
+Ocircumflexacute,
+Ocircumflexgrave,
+Ocircumflexhookabove,
+Ocircumflextilde,
+Ocircumflexdotbelow,
+Ohorn,
+Ohornacute,
+Ohorngrave,
+Ohornhookabove,
+Ohorntilde,
+Ohorndotbelow,
+Racute,
+Rcaron,
+Sacute,
+Scedilla,
+Scaron,
+Scommaaccent,
+Sdotbelow,
+Germandbls,
+Schwa,
+Tcedilla,
+Tcaron,
+Tcommaaccent,
+Thorn,
+Ugrave,
+Uacute,
+Ucircumflex,
+Udieresis,
+Umacron,
+Uring,
+Uhungarumlaut,
+Uogonek,
+Utilde,
+Udotbelow,
+Uhookabove,
+Uhorn,
+Uhornacute,
+Uhorngrave,
+Uhornhookabove,
+Uhorntilde,
+Uhorndotbelow,
+Wgrave,
+Wacute,
+Wcircumflex,
+Wdieresis,
+Ygrave,
+Yacute,
+Ycircumflex,
+Ydieresis,
+Ydotbelow,
+Yhookabove,
+Ytilde,
+Yhook,
+Zacute,
+Zdotaccent,
+Zcaron,
+agrave,
+aacute,
+acircumflex,
+atilde,
+amacron,
+adieresis,
+aring,
+ae,
+aeacute,
+abreve,
+aogonek,
+adotbelow,
+ahookabove,
+acircumflexacute,
+acircumflexgrave,
+acircumflexhookabove,
+acircumflextilde,
+acircumflexdotbelow,
+abreveacute,
+abrevegrave,
+abrevehookabove,
+abrevetilde,
+abrevedotbelow,
+bhook,
+ccedilla,
+cacute,
+cdotaccent,
+ccaron,
+dcaron,
+dcroat,
+dhook,
+dzcaron,
+egrave,
+eacute,
+ecircumflex,
+edieresis,
+emacron,
+edotaccent,
+eogonek,
+ecaron,
+edotbelow,
+ehookabove,
+etilde,
+ecircumflexacute,
+ecircumflexgrave,
+ecircumflexhookabove,
+ecircumflextilde,
+ecircumflexdotbelow,
+eth,
+eng,
+gbreve,
+gdotaccent,
+gcommaaccent,
+hbar,
+igrave,
+iacute,
+icircumflex,
+imacron,
+idieresis,
+iogonek,
+idotless,
+ij,
+ijacute,
+itilde,
+ihookabove,
+idotbelow,
+jdotless,
+kcommaaccent,
+khook,
+kgreenlandic,
+lacute,
+lcaron,
+lcommaaccent,
+lslash,
+ldot,
+lj,
+ngrave,
+ntilde,
+nacute,
+ndotaccent,
+ncaron,
+ncommaaccent,
+napostrophe,
+nj,
+ograve,
+oacute,
+ocircumflex,
+otilde,
+omacron,
+odieresis,
+oslash,
+ohungarumlaut,
+oogonek,
+oe,
+odotbelow,
+ohookabove,
+ocircumflexacute,
+ocircumflexgrave,
+ocircumflexhookabove,
+ocircumflextilde,
+ocircumflexdotbelow,
+ohorn,
+ohornacute,
+ohorngrave,
+ohornhookabove,
+ohorntilde,
+ohorndotbelow,
+racute,
+rcaron,
+germandbls,
+sacute,
+scedilla,
+scaron,
+longs,
+scommaaccent,
+sdotbelow,
+schwa,
+tcedilla,
+tcaron,
+tcommaaccent,
+thorn,
+ugrave,
+uacute,
+ucircumflex,
+udieresis,
+umacron,
+uring,
+uhungarumlaut,
+uogonek,
+utilde,
+udotbelow,
+uhookabove,
+uhorn,
+uhornacute,
+uhorngrave,
+uhornhookabove,
+uhorntilde,
+uhorndotbelow,
+wgrave,
+wacute,
+wcircumflex,
+wdieresis,
+ygrave,
+yacute,
+ycircumflex,
+ydieresis,
+ydotbelow,
+yhookabove,
+ytilde,
+yhook,
+zacute,
+zdotaccent,
+zcaron,
+gravecomb,
+acutecomb,
+circumflexcomb,
+tildecomb,
+macroncomb,
+brevecomb,
+dotaccentcomb,
+dieresiscomb,
+ringcomb,
+hungarumlautcomb,
+caroncomb,
+commaaccentcomb,
+cedillacomb,
+ogonekcomb,
+verticallinebelowcomb,
+hookabovecomb,
+commaturnedabovecomb,
+horncomb,
+dotbelowcomb,
+periodcentered,
+apostrophemod,
+circumflexcomb_gravecomb,
+circumflexcomb_acutecomb,
+circumflexcomb_tildecomb,
+circumflexcomb_hookabovecomb,
+brevecomb_gravecomb,
+brevecomb_acutecomb,
+brevecomb_tildecomb,
+brevecomb_hookabovecomb,
+commaturnedmod,
+dieresis,
+dotaccent,
+grave,
+acute,
+hungarumlaut,
+circumflex,
+caron,
+breve,
+ring,
+tilde,
+macron,
+cedilla,
+ogonek,
+exclamdown,
+questiondown,
+dong,
+Ohorn.alt,
+Uhorn.alt,
+Uhorn.alt02,
+ohorn.alt,
+uhorn.alt,
+ordfeminine,
+ordmasculine,
+onesuperior,
+twosuperior,
+threesuperior,
+foursuperior,
+onehalf,
+onequarter,
+threequarters,
+cent,
+euro,
+sterling,
+yen,
+currency,
+quotesinglbase,
+quotedblbase,
+bullet,
+endash,
+emdash,
+guillemetleft,
+guillemetright,
+guilsinglleft,
+guilsinglright,
+paragraph,
+section,
+minute,
+second,
+degree,
+logicalnot,
+micro,
+optionKey,
+propellor,
+replacementCharacter
+);
+},
+{
+name = "Variable Font Origin";
+value = "68A78E10-2392-4B34-B44D-B6A5B48D0FD1";
+},
+{
+name = "Export Mac Name Table Entries";
+value = 0;
+},
+{
+name = codePageRanges;
+value = (
+"1252",
+"1258"
+);
+},
+{
+name = "gasp Table";
+value = {
+"65535" = 15;
+};
+}
+);
+date = "2025-03-31 23:28:34 +0000";
+familyName = "Google Sans Code";
+featurePrefixes = (
+{
+code = "languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+languagesystem latn NLD;
+languagesystem latn ROM;
+languagesystem latn LSM;
+languagesystem latn ISM;
+";
+name = languagesystem;
+},
+{
+code = "table STAT {
+    # Elided fallback name
+    ElidedFallbackName {
+        name \"Regular\";
+    };
+
+    # Design axes
+    DesignAxis wght 0 {
+        name \"Weight\";
+    };
+    DesignAxis ital 1 {
+        name \"Italic\";
+    };
+
+    # Axis values: Weight
+    AxisValue {
+        name \"Light\";
+        location wght 300;
+    };
+    AxisValue {
+        flag ElidableAxisValueName;
+        name \"Regular\";
+        location wght 400 700;
+    };
+    AxisValue {
+        name \"Medium\";
+        location wght 500;
+    };
+    AxisValue {
+        name \"SemiBold\";
+        location wght 600;
+    };
+    AxisValue {
+        name \"Bold\";
+        location wght 700;
+    };
+    AxisValue {
+        name \"ExtraBold\";
+        location wght 800;
+    };
+
+    # Axis values: Italic
+    AxisValue {
+        flag ElidableAxisValueName;
+        name \"Roman\";
+        location ital 0 1;
+    };
+} STAT;";
+name = STAT;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature ss01;
+";
+tag = aalt;
+},
+{
+code = "script latn;
+
+lookup ccmp_latn_decomposeLowercaseIJ {
+	sub i' @latn_CombiningTopAccents by idotless;
+	sub j' @latn_CombiningTopAccents by jdotless;
+} ccmp_latn_decomposeLowercaseIJ;
+
+lookup ccmp_latn_vietnameseComposeSingle {
+	sub A dotbelowcomb by Adotbelow;
+	sub A hookabovecomb by Ahookabove;
+	sub E dotbelowcomb by Edotbelow;
+	sub E hookabovecomb by Ehookabove;
+	sub E tildecomb by Etilde;
+	sub I tildecomb by Itilde;
+	sub I hookabovecomb by Ihookabove;
+	sub I dotbelowcomb by Idotbelow;
+	sub O dotbelowcomb by Odotbelow;
+	sub O hookabovecomb by Ohookabove;
+	sub O horncomb by Ohorn;
+	sub U tildecomb by Utilde;
+	sub U dotbelowcomb by Udotbelow;
+	sub U hookabovecomb by Uhookabove;
+	sub U horncomb by Uhorn;
+	sub Y dotbelowcomb by Ydotbelow;
+	sub Y hookabovecomb by Yhookabove;
+	sub Y tildecomb by Ytilde;
+	sub a dotbelowcomb by adotbelow;
+	sub a hookabovecomb by ahookabove;
+	sub e dotbelowcomb by edotbelow;
+	sub e hookabovecomb by ehookabove;
+	sub e tildecomb by etilde;
+	sub idotless tildecomb by itilde;
+	sub idotless hookabovecomb by ihookabove;
+	sub i dotbelowcomb by idotbelow;
+	sub o dotbelowcomb by odotbelow;
+	sub o hookabovecomb by ohookabove;
+	sub o horncomb by ohorn;
+	sub u tildecomb by utilde;
+	sub u dotbelowcomb by udotbelow;
+	sub u hookabovecomb by uhookabove;
+	sub u horncomb by uhorn;
+	sub y dotbelowcomb by ydotbelow;
+	sub y hookabovecomb by yhookabove;
+	sub y tildecomb by ytilde;
+} ccmp_latn_vietnameseComposeSingle;
+
+lookup ccmp_latn_vietnameseComposeAltHorn {
+	sub Ohorn' @latn_CombiningTopAccents_Viet by Ohorn.alt;
+	sub Uhorn' @latn_CombiningTopAccents_Viet by Uhorn.alt;
+	sub ohorn' @latn_CombiningTopAccents_Viet by ohorn.alt;
+	sub uhorn' @latn_CombiningTopAccents_Viet by uhorn.alt;
+} ccmp_latn_vietnameseComposeAltHorn;
+
+lookup ccmp_latn_vietnameseComposeStacking {
+	sub Acircumflex acutecomb by Acircumflexacute;
+	sub Acircumflex gravecomb by Acircumflexgrave;
+	sub Acircumflex hookabovecomb by Acircumflexhookabove;
+	sub Acircumflex tildecomb by Acircumflextilde;
+	sub Acircumflex dotbelowcomb by Acircumflexdotbelow;
+	sub Abreve acutecomb by Abreveacute;
+	sub Abreve gravecomb by Abrevegrave;
+	sub Abreve hookabovecomb by Abrevehookabove;
+	sub Abreve tildecomb by Abrevetilde;
+	sub Abreve dotbelowcomb by Abrevedotbelow;
+	sub Ecircumflex acutecomb by Ecircumflexacute;
+	sub Ecircumflex gravecomb by Ecircumflexgrave;
+	sub Ecircumflex hookabovecomb by Ecircumflexhookabove;
+	sub Ecircumflex tildecomb by Ecircumflextilde;
+	sub Ecircumflex dotbelowcomb by Ecircumflexdotbelow;
+	sub Ocircumflex acutecomb by Ocircumflexacute;
+	sub Ocircumflex gravecomb by Ocircumflexgrave;
+	sub Ocircumflex hookabovecomb by Ocircumflexhookabove;
+	sub Ocircumflex tildecomb by Ocircumflextilde;
+	sub Ocircumflex dotbelowcomb by Ocircumflexdotbelow;
+	sub Ohorn.alt acutecomb by Ohornacute;
+	sub Ohorn.alt gravecomb by Ohorngrave;
+	sub Ohorn.alt hookabovecomb by Ohornhookabove;
+	sub Ohorn.alt tildecomb by Ohorntilde;
+	sub Ohorn dotbelowcomb by Ohorndotbelow;
+	sub Uhorn.alt acutecomb by Uhornacute;
+	sub Uhorn.alt gravecomb by Uhorngrave;
+	sub Uhorn.alt hookabovecomb by Uhornhookabove;
+	sub Uhorn.alt tildecomb by Uhorntilde;
+	sub Uhorn dotbelowcomb by Uhorndotbelow;
+	sub acircumflex acutecomb by acircumflexacute;
+	sub acircumflex gravecomb by acircumflexgrave;
+	sub acircumflex hookabovecomb by acircumflexhookabove;
+	sub acircumflex tildecomb by acircumflextilde;
+	sub acircumflex dotbelowcomb by acircumflexdotbelow;
+	sub abreve acutecomb by abreveacute;
+	sub abreve gravecomb by abrevegrave;
+	sub abreve hookabovecomb by abrevehookabove;
+	sub abreve tildecomb by abrevetilde;
+	sub abreve dotbelowcomb by abrevedotbelow;
+	sub ecircumflex acutecomb by ecircumflexacute;
+	sub ecircumflex gravecomb by ecircumflexgrave;
+	sub ecircumflex hookabovecomb by ecircumflexhookabove;
+	sub ecircumflex tildecomb by ecircumflextilde;
+	sub ecircumflex dotbelowcomb by ecircumflexdotbelow;
+	sub ocircumflex acutecomb by ocircumflexacute;
+	sub ocircumflex gravecomb by ocircumflexgrave;
+	sub ocircumflex hookabovecomb by ocircumflexhookabove;
+	sub ocircumflex tildecomb by ocircumflextilde;
+	sub ocircumflex dotbelowcomb by ocircumflexdotbelow;
+	sub ohorn.alt acutecomb by ohornacute;
+	sub ohorn.alt gravecomb by ohorngrave;
+	sub ohorn.alt hookabovecomb by ohornhookabove;
+	sub ohorn.alt tildecomb by ohorntilde;
+	sub ohorn dotbelowcomb by ohorndotbelow;
+	sub uhorn.alt acutecomb by uhornacute;
+	sub uhorn.alt gravecomb by uhorngrave;
+	sub uhorn.alt hookabovecomb by uhornhookabove;
+	sub uhorn.alt tildecomb by uhorntilde;
+	sub uhorn dotbelowcomb by uhorndotbelow;
+} ccmp_latn_vietnameseComposeStacking;
+
+lookup ccmp_latn_catalanRecompose {
+	sub L' periodcentered' [L l] by Ldot;
+	sub l' periodcentered' l by ldot;
+} ccmp_latn_catalanRecompose;
+";
+tag = ccmp;
+},
+{
+code = "script latn;
+
+language NLD;
+lookup locl_latn_NLD_IJ {
+	sub i j by ij;
+	sub I J by IJ;
+	sub iacute j by ijacute;
+	sub Iacute J by IJacute;
+} locl_latn_NLD_IJ;
+
+language ROM;
+lookup locl_latn_ROM_commaaccent {
+	sub Scedilla by Scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_ROM_commaaccent;
+
+language LSM; #Lule Sami
+lookup locl_latn_LSM_ISM_Eng {
+	sub Eng by Eng.loclNSM;
+} locl_latn_LSM_ISM_Eng;
+
+language ISM; #Inari Sami
+lookup locl_latn_LSM_ISM_Eng;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub g by g.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate Single-storey Lowercase G";
+}
+);
+tag = ss01;
+}
+);
+fontMaster = (
+{
+axesValues = (
+300
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1932;
+},
+{
+name = typoDescender;
+value = -572;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1932;
+},
+{
+name = hheaDescender;
+value = -572;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2377;
+},
+{
+name = winDescent;
+value = 930;
+},
+{
+name = underlineThickness;
+value = 168;
+},
+{
+name = underlinePosition;
+value = -320;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
+},
+{
+name = weightClass;
+value = 300;
+},
+{
+name = strikeoutPosition;
+value = 612;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (0,1462);
+},
+{
+locked = 1;
+pos = (0,626);
+},
+{
+locked = 1;
+pos = (0,1090);
+},
+{
+locked = 1;
+pos = (0,166);
+},
+{
+locked = 1;
+pos = (0,258);
+},
+{
+locked = 1;
+name = "Android yMax limit";
+pos = (0,1896);
+},
+{
+locked = 1;
+name = "Android yMin limit";
+pos = (0,-608);
+},
+{
+locked = 1;
+name = Comb_Mark_bottom;
+pos = (0,1163);
+},
+{
+locked = 1;
+name = Comb_Mark_top;
+pos = (0,1695);
+},
+{
+locked = 1;
+name = "Base of Tittle";
+pos = (0,1289);
+},
+{
+locked = 1;
+pos = (0,-440);
+}
+);
+iconName = Light;
+id = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
+metricValues = (
+{
+over = 30;
+pos = 1460;
+},
+{
+over = 30;
+pos = 1432;
+},
+{
+over = 30;
+pos = 1045;
+},
+{
+over = -30;
+},
+{
+over = -30;
+pos = -436;
+},
+{
+}
+);
+name = Light;
+userData = {
+GSOffsetHorizontal = 10;
+GSOffsetVertical = 10;
+};
+},
+{
+axesValues = (
+400
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1932;
+},
+{
+name = typoDescender;
+value = -572;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1932;
+},
+{
+name = hheaDescender;
+value = -572;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2377;
+},
+{
+name = winDescent;
+value = 930;
+},
+{
+name = underlineThickness;
+value = 168;
+},
+{
+name = underlinePosition;
+value = -320;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+},
+{
+name = weightClass;
+value = 400;
+},
+{
+name = strikeoutPosition;
+value = 612;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (0,1464);
+},
+{
+locked = 1;
+pos = (0,1492);
+},
+{
+locked = 1;
+pos = (0,626);
+},
+{
+locked = 1;
+pos = (0,1134);
+},
+{
+locked = 1;
+pos = (0,1944);
+},
+{
+locked = 1;
+pos = (0,-656);
+},
+{
+locked = 1;
+name = "Base of Tittle";
+pos = (0,1278);
+}
+);
+id = "68A78E10-2392-4B34-B44D-B6A5B48D0FD1";
+metricValues = (
+{
+over = 32;
+pos = 1460;
+},
+{
+over = 32;
+pos = 1432;
+},
+{
+over = 32;
+pos = 1047;
+},
+{
+over = -32;
+},
+{
+over = -32;
+pos = -436;
+},
+{
+}
+);
+name = Regular;
+},
+{
+axesValues = (
+700
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1932;
+},
+{
+name = typoDescender;
+value = -572;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1932;
+},
+{
+name = hheaDescender;
+value = -572;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2377;
+},
+{
+name = winDescent;
+value = 930;
+},
+{
+name = underlineThickness;
+value = 168;
+},
+{
+name = underlinePosition;
+value = -320;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+},
+{
+name = weightClass;
+value = 700;
+},
+{
+name = strikeoutPosition;
+value = 612;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (0,1466);
+},
+{
+locked = 1;
+pos = (0,1494);
+},
+{
+locked = 1;
+pos = (0,646);
+},
+{
+locked = 1;
+pos = (0,-656);
+},
+{
+locked = 1;
+pos = (0,1944);
+},
+{
+locked = 1;
+name = "Base of Tittle";
+pos = (0,1246);
+}
+);
+iconName = SemiBold;
+id = "50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0";
+metricValues = (
+{
+over = 34;
+pos = 1460;
+},
+{
+over = 34;
+pos = 1432;
+},
+{
+over = 34;
+pos = 1052;
+},
+{
+over = -34;
+},
+{
+over = -34;
+pos = -436;
+},
+{
+}
+);
+name = Bold;
+},
+{
+axesValues = (
+800
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1932;
+},
+{
+name = typoDescender;
+value = -572;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1932;
+},
+{
+name = hheaDescender;
+value = -572;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2377;
+},
+{
+name = winDescent;
+value = 930;
+},
+{
+name = underlineThickness;
+value = 168;
+},
+{
+name = underlinePosition;
+value = -320;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+},
+{
+name = weightClass;
+value = 800;
+},
+{
+name = strikeoutPosition;
+value = 612;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (0,1460);
+},
+{
+locked = 1;
+pos = (0,1494);
+},
+{
+locked = 1;
+pos = (0,645);
+},
+{
+locked = 1;
+pos = (0,1300);
+},
+{
+locked = 1;
+pos = (0,136);
+},
+{
+locked = 1;
+pos = (0,1296);
+},
+{
+locked = 1;
+pos = (0,318);
+},
+{
+locked = 1;
+pos = (0,1114);
+},
+{
+locked = 1;
+pos = (0,1896);
+},
+{
+locked = 1;
+pos = (0,-608);
+},
+{
+locked = 1;
+name = Comb_Mark_bottom;
+pos = (0,1260);
+},
+{
+locked = 1;
+name = Comb_Mark_top;
+pos = (0,1644);
+},
+{
+locked = 1;
+pos = (0,1768);
+},
+{
+locked = 1;
+name = "Base of Tittle";
+pos = (0,1235);
+},
+{
+locked = 1;
+pos = (0,-451);
+}
+);
+iconName = Bold;
+id = "D010C1AA-6BDD-4F06-9849-880CC2F29E88";
+metricValues = (
+{
+over = 35;
+pos = 1460;
+},
+{
+over = 35;
+pos = 1432;
+},
+{
+over = 35;
+pos = 1054;
+},
+{
+over = -35;
+},
+{
+over = -35;
+pos = -436;
+},
+{
+}
+);
+name = ExtraBold;
+userData = {
+GSOffsetHorizontal = 10;
+GSOffsetVertical = 10;
+};
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = "Export STAT Table";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+ExtraBold
+);
+},
+{
+name = panose;
+value = (
+2,
+11,
+5,
+9,
+3,
+5,
+2,
+4,
+2,
+4
+);
+}
+);
+name = Regular;
+properties = (
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Google Sans Code";
+}
+);
+},
+{
+key = preferredSubfamilyNames;
+values = (
+{
+language = dflt;
+value = Regular;
+}
+);
+},
+{
+key = variationsPostScriptNamePrefix;
+value = GoogleSansCode;
+}
+);
+type = variable;
+},
+{
+axesValues = (
+300
+);
+customParameters = (
+{
+name = "Style Name as STAT entry";
+value = wght;
+},
+{
+name = panose;
+value = (
+2,
+11,
+3,
+9,
+3,
+5,
+2,
+4,
+2,
+4
+);
+}
+);
+instanceInterpolations = {
+"B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B" = 1;
+};
+name = Light;
+properties = (
+{
+key = variablePostscriptFontName;
+value = "GoogleSansCode-Light";
+}
+);
+weightClass = 300;
+},
+{
+axesValues = (
+400
+);
+customParameters = (
+{
+name = "Style Name as STAT entry";
+value = wght;
+},
+{
+name = "Elidable STAT Axis Value Name";
+value = wght;
+},
+{
+name = panose;
+value = (
+2,
+11,
+5,
+9,
+3,
+5,
+2,
+4,
+2,
+4
+);
+}
+);
+instanceInterpolations = {
+"68A78E10-2392-4B34-B44D-B6A5B48D0FD1" = 1;
+};
+name = Regular;
+properties = (
+{
+key = variablePostscriptFontName;
+value = "GoogleSansCode-Regular";
+}
+);
+},
+{
+axesValues = (
+500
+);
+customParameters = (
+{
+name = "Style Name as STAT entry";
+value = wght;
+},
+{
+name = panose;
+value = (
+2,
+11,
+6,
+9,
+3,
+5,
+2,
+4,
+2,
+4
+);
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
+);
+instanceInterpolations = {
+"50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0" = 0.33333;
+"68A78E10-2392-4B34-B44D-B6A5B48D0FD1" = 0.66667;
+};
+name = Medium;
+properties = (
+{
+key = variablePostscriptFontName;
+value = "GoogleSansCode-Medium";
+}
+);
+weightClass = 500;
+},
+{
+axesValues = (
+600
+);
+customParameters = (
+{
+name = "Style Name as STAT entry";
+value = wght;
+},
+{
+name = panose;
+value = (
+2,
+11,
+7,
+9,
+3,
+5,
+2,
+4,
+2,
+4
+);
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
+instanceInterpolations = {
+"50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0" = 0.66667;
+"68A78E10-2392-4B34-B44D-B6A5B48D0FD1" = 0.33333;
+};
+name = SemiBold;
+properties = (
+{
+key = variablePostscriptFontName;
+value = "GoogleSansCode-SemiBold";
+}
+);
+weightClass = 600;
+},
+{
+axesValues = (
+700
+);
+customParameters = (
+{
+name = "Style Name as STAT entry";
+value = wght;
+},
+{
+name = panose;
+value = (
+2,
+11,
+8,
+9,
+3,
+5,
+2,
+4,
+2,
+4
+);
+}
+);
+instanceInterpolations = {
+"50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0" = 1;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+properties = (
+{
+key = variablePostscriptFontName;
+value = "GoogleSansCode-Bold";
+}
+);
+weightClass = 700;
+},
+{
+axesValues = (
+800
+);
+customParameters = (
+{
+name = "Style Name as STAT entry";
+value = wght;
+},
+{
+name = panose;
+value = (
+2,
+11,
+9,
+9,
+3,
+5,
+2,
+4,
+2,
+4
+);
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
+instanceInterpolations = {
+"D010C1AA-6BDD-4F06-9849-880CC2F29E88" = 1;
+};
+name = ExtraBold;
+properties = (
+{
+key = variablePostscriptFontName;
+value = "GoogleSansCode-ExtraBold";
+}
+);
+weightClass = 800;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Google Sans Code Authors";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Google LLC";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://design.google";
+},
+{
+key = trademarks;
+values = (
+{
+language = dflt;
+value = "“Google”, “Google Sans” and “Google Sans Code” are trademarks of Google LLC.";
+}
+);
+},
+{
+key = vendorID;
+value = GOOG;
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 2000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"2D1C241B-E6AD-41FB-985B-55D4E5F84943" = {
+HH = "365";
+HV = "408";
+OH = "374";
+OV = "421";
+nV = "398";
+oH = "324";
+oV = "404";
+tH = "298";
+};
+"3F54275B-4FE2-47D8-B7E8-114063A95998" = {
+HH = "286";
+HV = "304";
+OH = "288";
+OV = "308";
+};
+"3FC95AE1-19AB-496F-875C-3FB1D5823AFA" = {
+HH = "87";
+HV = "90";
+OH = "82";
+OV = "93";
+nV = "88";
+oH = "79";
+oV = "90";
+tH = "82";
+};
+"41B1B64A-62E2-4CAB-B8D0-FC7DABC36D1C" = {
+HH = "91";
+HV = "92";
+OH = "84";
+OV = "94";
+nV = "90";
+oH = "81";
+oV = "92";
+tH = "84";
+};
+"4296CD9C-54F3-4369-8782-4D8C9C978D13" = {
+HH = "384";
+HV = "428";
+OH = "403";
+OV = "435";
+nV = "419";
+oH = "348";
+oV = "436";
+tH = "308";
+};
+"4E9450AD-4DA0-48A5-A0CB-218DDC04B72A" = {
+HH = "162";
+HV = "170";
+OH = "162";
+OV = "170";
+};
+"4EAE7F17-0A08-4443-B85C-52E72D924BBD" = {
+HH = "78";
+HV = "86";
+OH = "76";
+OV = "88";
+nV = "84";
+oH = "76";
+oV = "86";
+tH = "77";
+};
+"50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0" = {
+HH = "289";
+HV = "309";
+OH = "290";
+OV = "310";
+};
+"5DA06E3F-B65C-4341-B330-53F50D9F2964" = {
+HH = "216";
+HV = "243";
+OH = "215";
+OV = "250";
+nV = "237";
+oH = "202";
+oV = "244";
+tH = "195";
+};
+"68A78E10-2392-4B34-B44D-B6A5B48D0FD1" = {
+HH = "174";
+HV = "186";
+OH = "176";
+OV = "188";
+};
+"6A2D3F3D-4D0C-49C5-BF2C-27EB1AFA58EB" = {
+HH = "290";
+HV = "312";
+OH = "290";
+OV = "312";
+};
+"7642B3F7-CC9A-4756-B0DA-61F75CFC20A9" = {
+HH = "190";
+HV = "210";
+OH = "196";
+OV = "214";
+};
+"7C224297-46A4-408E-BDB1-99237B4DCB3A" = {
+HH = "184";
+HV = "200";
+OH = "180";
+OV = "205";
+nV = "195";
+oH = "172";
+oV = "199";
+tH = "168";
+};
+"7ED4B341-A37B-4DEE-8334-0DF71EE2D955" = {
+HH = "87";
+HV = "90";
+OH = "82";
+OV = "93";
+nV = "88";
+oH = "79";
+oV = "90";
+tH = "82";
+};
+"AA600D03-8064-48D6-9688-B5065330793C" = {
+HH = "204";
+HV = "225";
+OH = "200";
+OV = "230";
+nV = "220";
+oH = "190";
+oV = "225";
+tH = "195";
+};
+"C039F33B-FD0A-4FB6-BD1B-15CEA12E972E" = {
+HH = "384";
+HV = "442";
+OH = "390";
+OV = "455";
+nV = "432";
+oH = "354";
+oV = "445";
+tH = "319";
+};
+"C2BA2B2A-76E0-4627-B638-B0CC7B22E341" = {
+HH = "91";
+HV = "92";
+OH = "84";
+OV = "94";
+nV = "90";
+oH = "81";
+oV = "92";
+tH = "84";
+};
+"C6E6A82E-5529-473D-BA0B-E088A1B2D63E" = {
+HH = "197";
+HV = "217";
+OH = "200";
+OV = "230";
+nV = "211";
+oH = "190";
+oV = "217";
+tH = "186";
+};
+m001 = {
+HH = "78";
+HV = "86";
+OH = "76";
+OV = "88";
+nV = "84";
+oH = "76";
+oV = "86";
+tH = "77";
+};
+};
+GSDontShowVersionAlert = 1;
+UFO.lib = {
+public.openTypeCategories = {
+A = base;
+AE = base;
+B = base;
+C = base;
+D = base;
+E = base;
+F = base;
+G = base;
+H = base;
+I = base;
+J = base;
+K = base;
+L = base;
+M = base;
+N = base;
+O = base;
+P = base;
+Q = base;
+R = base;
+S = base;
+T = base;
+Thorn = base;
+U = base;
+V = base;
+W = base;
+X = base;
+Y = base;
+Z = base;
+a = base;
+a.alt = base;
+acutecomb = mark;
+ae = base;
+b = base;
+brevecomb = mark;
+c = base;
+caroncomb = mark;
+caroncomb.alt = mark;
+cedillacomb = mark;
+circumflexcomb = mark;
+commaaccentcomb = mark;
+commaturnedabovecomb = mark;
+d = base;
+dieresiscomb = mark;
+dotaccentcomb = mark;
+e = base;
+eth = base;
+f = base;
+g = base;
+g.alt = base;
+germandbls = base;
+gravecomb = mark;
+h = base;
+hungarumlautcomb = mark;
+i = base;
+idotless = base;
+jdotless = base;
+k = base;
+l = base;
+m = base;
+macroncomb = mark;
+n = base;
+o = base;
+ogonekcomb = mark;
+p = base;
+q = base;
+r = base;
+ringcomb = mark;
+s = base;
+t = base;
+thorn = base;
+tildecomb = mark;
+u = base;
+uni25CC = base;
+v = base;
+w = base;
+x = base;
+y = base;
+z = base;
+};
+public.postscriptNames = {
+Acaron = uni01CD;
+"Eth-bar" = Ethbar;
+Gcommaaccent = uni0122;
+Germandbls = uni1E9E;
+"H-bar" = Hbar;
+Kcommaaccent = uni0136;
+Lcommaaccent = uni013B;
+Ncommaaccent = uni0145;
+"Oslash-bar" = Oslashbar;
+Rcommaaccent = uni0156;
+Scommaaccent = uni0218;
+Tcedilla = uni0162;
+Tcommaaccent = uni021A;
+acaron = uni01CE;
+acaron.alt = uni01CE.alt;
+brevecomb = uni0306;
+caroncomb = uni030C;
+caroncomb.alt = uni030C.alt;
+cedillacomb = uni0327;
+circumflexcomb = uni0302;
+commaaccentcomb = uni0326;
+commaturnedabovecomb = uni0312;
+"diagonalbarl-lc" = diagonalbarllc;
+dieresiscomb = uni0308;
+"dot-composite" = dotcomposite;
+"dot-composite-top" = dotcompositetop;
+dotaccentcomb = uni0307;
+eightsubscript = uni2088;
+eightsuperscript = uni2078;
+emspace = uni2003;
+enspace = uni2002;
+"exclam-bottom" = exclambottom;
+"exclam-top" = exclamtop;
+fivesubscript = uni2085;
+fivesuperscript = uni2075;
+fourperemspace = uni2005;
+foursubscript = uni2084;
+foursuperior = uni2074;
+foursuperscript = uni2074;
+gcommaaccent = uni0123;
+gcommaaccent.alt = uni0123.alt;
+"greaterequal-stroke" = greaterequalstroke;
+guillemetleft = guillemotleft;
+guillemetright = guillemotright;
+hairspace = uni200A;
+hungarumlautcomb = uni030B;
+idotless = dotlessi;
+jdotless = uni0237;
+kcommaaccent = uni0137;
+lcommaaccent = uni013C;
+macroncomb = uni0304;
+micro = uni00B5;
+mu = uni03BC;
+ncommaaccent = uni0146;
+ninesubscript = uni2089;
+ninesuperscript = uni2079;
+"notequal-slash" = notequalslash;
+ogonekcomb = uni0328;
+onesubscript = uni2081;
+onesuperior = uni00B9;
+"oslash-bar" = oslashbar;
+"question-bottom" = questionbottom;
+"question-top" = questiontop;
+rcommaaccent = uni0157;
+ringcomb = uni030A;
+scommaaccent = uni0219;
+sevensubscript = uni2087;
+sevensuperscript = uni2077;
+sixperemspace = uni2006;
+sixsubscript = uni2086;
+sixsuperscript = uni2076;
+softhyphen = uni00AD;
+tcedilla = uni0163;
+tcommaaccent = uni021B;
+thinspace = uni2009;
+threeperemspace = uni2004;
+threesubscript = uni2083;
+threesuperior = uni00B3;
+twosubscript = uni2082;
+twosuperior = uni00B2;
+zerosubscript = uni2080;
+zerosuperscript = uni2070;
+zerowidthspace = uni200B;
+};
+};
+UFOFormat = 3;
+UFOLayerName = foreground;
+com.eweracs.HTLSManager.fontRules = {
+Letter = {
+161c12cfb25b4e4f95787e1e4f2bdcea = {
+case = 2;
+filter = "";
+referenceGlyph = x;
+subcategory = Any;
+value = "1";
+};
+31375694df57481a849d3a442ef361bc = {
+case = 4;
+filter = .sups;
+referenceGlyph = m.sups;
+subcategory = Any;
+value = "0.7";
+};
+3fa7bd70c45e42a1a7d51eccd1875236 = {
+case = 1;
+filter = "";
+referenceGlyph = H;
+subcategory = Any;
+value = "1.25";
+};
+4627ea45293e493cbaabec26c67e53e6 = {
+case = 0;
+filter = "";
+referenceGlyph = devaHeight;
+subcategory = Ligature;
+value = "1";
+};
+b9c402f2f71441e3a4ddaea2964855ec = {
+case = 0;
+filter = "";
+referenceGlyph = devaHeight;
+subcategory = Other;
+value = "1";
+};
+c71c85a5c0d5448695994c825987c183 = {
+case = 3;
+filter = "";
+referenceGlyph = h.sc;
+subcategory = Any;
+value = "1.1";
+};
+};
+Mark = {
+35bf43087cc149e6813faa99f547ecc1 = {
+case = 0;
+filter = "";
+referenceGlyph = "";
+subcategory = Any;
+value = "1";
+};
+};
+Number = {
+2c90545af2a9452c898a17c799839dcc = {
+case = 0;
+filter = .osf;
+referenceGlyph = zero.osf;
+subcategory = "Decimal Digit";
+value = "1.2";
+};
+3494c71aac1446b08a5e884c024c05f4 = {
+case = 0;
+filter = .dnom;
+referenceGlyph = "";
+subcategory = Any;
+value = "0.8";
+};
+554519522cd048c994fedb94f2000ace = {
+case = 0;
+filter = .numr;
+referenceGlyph = "";
+subcategory = Any;
+value = "0.8";
+};
+7d510b13b2fb4fe68c5051dea33bc019 = {
+case = 0;
+filter = superior;
+referenceGlyph = "";
+subcategory = Any;
+value = "0.8";
+};
+7e2e82070f7d474e9550f1725ce6d753 = {
+case = 0;
+filter = "";
+referenceGlyph = one;
+subcategory = "Decimal Digit";
+value = "1.2";
+};
+80eadacfe1c140ef84c016460d9e54f5 = {
+case = 0;
+filter = .inferior;
+referenceGlyph = "";
+subcategory = Any;
+value = "0.8";
+};
+da93648c117b4d0a95c3ae787392f8fb = {
+case = 4;
+filter = "";
+referenceGlyph = "";
+subcategory = Fraction;
+value = "1.3";
+};
+};
+Punctuation = {
+05428b6cb4d1445c874b33614851cdfd = {
+case = 0;
+filter = "";
+referenceGlyph = "";
+subcategory = Other;
+value = "1.4";
+};
+3e66a5134bfe425e9235010e7d4bebe1 = {
+case = 0;
+filter = "";
+referenceGlyph = "";
+subcategory = Parenthesis;
+value = "1.2";
+};
+4483cf4211b749ebbe285930057d5aa7 = {
+case = 0;
+filter = slash;
+referenceGlyph = "";
+subcategory = Any;
+value = "1";
+};
+63deb24ed7b34f83bae1dc0276b478d7 = {
+case = 0;
+filter = "";
+referenceGlyph = "";
+subcategory = Quote;
+value = "1.2";
+};
+82f6be890db9400d89e8dc8dc3812595 = {
+case = 0;
+filter = "";
+referenceGlyph = "";
+subcategory = Dash;
+value = "1";
+};
+f84a77b420494e48a54651af4122cf17 = {
+case = 0;
+filter = "";
+referenceGlyph = "";
+subcategory = Any;
+value = "1.2";
+};
+};
+Separator = {
+};
+Symbol = {
+b16a8ccbea5e423e93b9418f7a0e0642 = {
+case = 0;
+filter = "";
+referenceGlyph = "";
+subcategory = Currency;
+value = "1.6";
+};
+c0cd946d3ca249ddad6c4fe58cf9d285 = {
+case = 0;
+filter = "";
+referenceGlyph = "";
+subcategory = Any;
+value = "1.5";
+};
+};
+};
+};
+versionMajor = 6;
+versionMinor = 0;
+}

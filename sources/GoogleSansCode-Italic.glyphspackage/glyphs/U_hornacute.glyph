@@ -1,0 +1,58 @@
+{
+glyphname = Uhornacute;
+layers = (
+{
+layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (568,403);
+ref = acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (566,402);
+ref = acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (539,399);
+ref = acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (541,398);
+ref = acutecomb;
+}
+);
+width = 1200;
+}
+);
+unicode = 7912;
+}

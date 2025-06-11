@@ -1,0 +1,66 @@
+{
+glyphname = blackDiamond;
+layers = (
+{
+layerId = "68A78E10-2392-4B34-B44D-B6A5B48D0FD1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1120,716,l),
+(600,1236,l),
+(80,716,l),
+(600,196,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1116,716,l),
+(600,1232,l),
+(84,716,l),
+(600,200,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1132,716,l),
+(600,1248,l),
+(68,716,l),
+(600,184,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "D010C1AA-6BDD-4F06-9849-880CC2F29E88";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1136,716,l),
+(600,1252,l),
+(64,716,l),
+(600,180,l)
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 9670;
+}

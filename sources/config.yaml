@@ -1,0 +1,9 @@
+sources:
+  - GoogleSansCode.glyphspackage
+  - GoogleSansCode-Italic.glyphspackage
+familyName: Google Sans Code
+
+buildVariable: true
+buildStatic: false
+buildTTF: true
+buildOTF: false
