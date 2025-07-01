@@ -67,12 +67,12 @@ jobs:
       with:
         sparse-checkout: .github/python-version.txt
     - name: Download before fonts
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: Before VFs (${{ inputs.before }})
         path: before
     - name: Download after fonts
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: After VFs (${{ inputs.after }})
         path: after
