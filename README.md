@@ -1,9 +1,12 @@
 # Google Sans Code
 
 ### In Memory of Chris Simpkins
+
 Dedicated to the memory of Chris Simpkins, whose enthusiasm and efforts were foundational to this project.
 
 ## About
+
+![Sample image](documentation/article/google-sans-code-sample.png)
 
 Google Sans Code is a fixed-width font family, designed to bring clarity, readability, and a bit of Google's distinctive brand character to code. Stemming from Google's brand type design aesthetic and developed for products like Gemini and Android Studio, it ensures each character remains distinct, even at small sizes. Moreover, it's finely tuned for the unique typographic demands of programming language syntax.
 
