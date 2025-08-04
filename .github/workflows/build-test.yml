@@ -23,7 +23,7 @@ jobs:
       run: |
         mkdir -p fonts/variable
     - name: Install cargo-binstall
-      uses: cargo-bins/cargo-binstall@v1.14.1
+      uses: cargo-bins/cargo-binstall@v1.14.3
     - name: Use cargo-binstall to grab precompiled fontc
       run: cargo binstall fontc@0.2.0
     - name: Build upright font
