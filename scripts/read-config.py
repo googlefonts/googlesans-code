@@ -15,43 +15,66 @@
 # limitations under the License.
 
 import argparse
-import os
+from pathlib import Path
 import re
 import sys
 
-parser = argparse.ArgumentParser()
-group = parser.add_mutually_exclusive_group(required=True)
-group.add_argument("--sources", action="store_true")
-group.add_argument("--family", action="store_true")
-args = parser.parse_args()
 
-with open(os.path.join("sources", "config.yaml")) as config:
-    data = config.read()
-
-if args.family:
-    m = re.search(r"(?m)^familyName: (.*)", data)
-    if m:
-        print(m[1])
-        sys.exit(0)
-    else:
-        print("Could not determine family name from config file!")
+def read_config_file(path: Path) -> str:
+    try:
+        return path.read_text()
+    except Exception as e:
+        print(f"Error reading config file {path}: {e}", file=sys.stderr)
         sys.exit(1)
 
-toggle = False
-sources = []
-for line in data.splitlines():
-    if re.match("^sources:", line):
-        toggle = True
-        continue
-    if toggle:
-        m = re.match(r"^\s*-\s*(.*)", line)
-        if m:
-            sources.append("sources/" + m[1])
+def extract_family_name(data: str) -> str | None:
+    match = re.search(r"(?m)^familyName:\s*(.*)", data)
+    return match.group(1).strip() if match else None
+
+def extract_sources(data: str) -> list[str]:
+    sources = []
+    lines = data.splitlines()
+    inside_sources = False
+
+    for line in lines:
+        if re.match(r"^sources:\s*$", line):
+            inside_sources = True
+            continue
+        if inside_sources:
+            match = re.match(r"^\s*-\s*(.+)", line)
+            if match:
+                sources.append(match.group(1).strip())
+            else:
+                break
+    return sources
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Parse config.yaml for family name or sources.")
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--sources", action="store_true", help="Print sources list")
+    group.add_argument("--family", action="store_true", help="Print family name")
+    args = parser.parse_args()
+
+    config_path = Path("sources") / "config.yaml"
+    data = read_config_file(config_path)
+
+    if args.family:
+        family_name = extract_family_name(data)
+        if family_name:
+            print(family_name)
+            return 0
         else:
-            toggle = False
-if sources:
-    print(" ".join(sources))
-    sys.exit(0)
-else:
-    print("Could not determine sources from config file!")
-    sys.exit(1)
+            print("Could not determine family name from config file!", file=sys.stderr)
+            return 1
+
+    sources = extract_sources(data)
+    if sources:
+        sources_with_prefix = [str(Path("sources") / src) for src in sources]
+        print(" ".join(sources_with_prefix))
+        return 0
+    else:
+        print("Could not determine sources from config file!", file=sys.stderr)
+        return 1
+
+if __name__ == "__main__":
+    sys.exit(main())
