@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 10
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         ref: ${{ github.head_ref || github.ref_name }}
     - name: Create folder
@@ -52,7 +52,7 @@ jobs:
     - build
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         ref: ${{ github.head_ref || github.ref_name }}
     - name: Download built fonts
@@ -99,7 +99,7 @@ jobs:
       contents: write
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         ref: ${{ github.head_ref || github.ref_name }}
     - name: Download built fonts
