@@ -100,7 +100,7 @@ filelock==3.17.0
     # via youseedee
 font-v==2.1.0
     # via gftools
-fontbakery[beautifulsoup4,googlefonts,googlefontsalwayslatest,shaperglot]==1.0.0
+fontbakery[beautifulsoup4,googlefonts,googlefontsalwayslatest,shaperglot]==1.0.1
     # via
     #   -r requirements-test.in
     #   gftools
