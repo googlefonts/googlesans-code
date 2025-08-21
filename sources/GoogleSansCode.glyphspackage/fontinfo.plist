@@ -2500,5 +2500,5 @@ value = "1.5";
 };
 };
 versionMajor = 6;
-versionMinor = 0;
+versionMinor = 1;
 }
