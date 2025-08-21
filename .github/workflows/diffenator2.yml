@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 10
     steps:
     - name: Checkout ${{ inputs.before }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         ref: ${{ inputs.before }}
     - name: Setup Python
@@ -38,7 +38,7 @@ jobs:
     timeout-minutes: 10
     steps:
     - name: Checkout ${{ inputs.after }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         ref: ${{ inputs.after }}
     - name: Setup Python
@@ -63,7 +63,7 @@ jobs:
     - build-after
     steps:
     - name: Checkout python-version.txt from main
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         sparse-checkout: .github/python-version.txt
     - name: Download before fonts
