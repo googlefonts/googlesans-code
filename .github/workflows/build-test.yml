@@ -25,7 +25,7 @@ jobs:
     - name: Install cargo-binstall
       uses: cargo-bins/cargo-binstall@v1.14.1
     - name: Use cargo-binstall to grab precompiled fontc
-      run: cargo binstall fontc@0.2.0
+      run: cargo binstall fontc@0.3.1
     - name: Build upright font
       run: fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[wght].ttf
     - name: Build italic font
