@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 6.001 (2025-07-21)
+
+### Changed
+
+- bug fix (see https://github.com/googlefonts/googlesans-code/issues/22)
+
 ## Version 6.000 (2025-06-11)
 
 ### Changed
