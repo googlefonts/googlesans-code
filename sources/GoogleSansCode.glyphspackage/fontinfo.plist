@@ -1002,15 +1002,6 @@ tag = ccmp;
 {
 code = "script latn;
 
-# This is an anti-pattern. When coding in Dutch, ij should not look like a single narrow letter.
-# language NLD;
-# lookup locl_latn_NLD_IJ {
-# 	sub i j by ij;
-# 	sub I J by IJ;
-# 	sub iacute j by ijacute;
-# 	sub Iacute J by IJacute;
-# } locl_latn_NLD_IJ;
-
 language ROM;
 lookup locl_latn_ROM_commaaccent {
 	sub Scedilla by Scommaaccent;
