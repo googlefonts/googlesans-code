@@ -29,7 +29,7 @@ jobs:
     - name: Build fonts
       run: source .venv/bin/activate && make build
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: Before VFs (${{ inputs.before }})
         path: fonts/variable
@@ -51,7 +51,7 @@ jobs:
     - name: Build fonts
       run: source .venv/bin/activate && make build
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: After VFs (${{ inputs.after }})
         path: fonts/variable
@@ -89,7 +89,7 @@ jobs:
         diffenator2 diff --fonts-before before/*.ttf --fonts-after after/*.ttf \
           --out diffenator_report
     - name: Upload diffenator report
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: Diffenator2 report (${{ inputs.before }} vs ${{ inputs.after }})
         path: diffenator_report

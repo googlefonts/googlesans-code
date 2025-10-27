@@ -38,7 +38,7 @@ jobs:
         overrides: |
           build-test: build
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: ${{ steps.zip-name.outputs.artifact-name }}
         path: |
@@ -80,7 +80,7 @@ jobs:
       id: fontbakery
       run: make test
     - name: Upload Fontbakery report(s)
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       # Always upload reports (even during a pipeline fail), so long as Fontbakery completed
       if: ${{ !cancelled() && (steps.fontbakery.conclusion == 'success' || steps.fontbakery.conclusion == 'failure') }}
       with:
