@@ -56,7 +56,7 @@ jobs:
       with:
         ref: ${{ github.head_ref || github.ref_name }}
     - name: Download built fonts
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v6
       with:
         name: ${{ needs.build.outputs.artifact-name }}
         path: build
@@ -103,7 +103,7 @@ jobs:
       with:
         ref: ${{ github.head_ref || github.ref_name }}
     - name: Download built fonts
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v6
       with:
         name: ${{ needs.build.outputs.artifact-name }}
         path: ${{ needs.build.outputs.artifact-name }}
