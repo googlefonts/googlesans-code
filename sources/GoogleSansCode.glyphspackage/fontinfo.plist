@@ -803,7 +803,6 @@ featurePrefixes = (
 code = "languagesystem DFLT dflt;
 languagesystem latn dflt;
 
-languagesystem latn NLD;
 languagesystem latn ROM;
 languagesystem latn LSM;
 languagesystem latn ISM;
@@ -991,19 +990,17 @@ lookup ccmp_latn_catalanRecompose {
 	sub L' periodcentered' [L l] by Ldot;
 	sub l' periodcentered' l by ldot;
 } ccmp_latn_catalanRecompose;
+
+# Use ijacute.
+lookup ccmp_latn_ijacute {
+    sub ij acutecomb by ijacute;
+    sub IJ acutecomb by IJacute;
+} ccmp_latn_ijacute;
 ";
 tag = ccmp;
 },
 {
 code = "script latn;
-
-language NLD;
-lookup locl_latn_NLD_IJ {
-	sub i j by ij;
-	sub I J by IJ;
-	sub iacute j by ijacute;
-	sub Iacute J by IJacute;
-} locl_latn_NLD_IJ;
 
 language ROM;
 lookup locl_latn_ROM_commaaccent {
