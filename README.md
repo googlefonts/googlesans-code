@@ -31,7 +31,7 @@ To install Google Sans Code, download [the latest variable font release files](h
 
 This project is compiled from glyphspackage format source files to TTF format variable font binaries using the [`fontc` font compiler](https://github.com/googlefonts/fontc). The fontc compiler project is in active development and we recommend that you use the same release version of the `fontc` compiler that we are using to compile our repository releases.
 
-You may identify the version of the fontc compiler version that we use at any commit in this repository by reviewing our GitHub Action workflow configuration file for that commit, and locating the `cargo binstall fontc` definition that includes the fontc executable version number after the `@` symbol.
+You may identify the version of the fontc compiler version that we use at any commit in this repository by reviewing our GitHub Action workflow configuration file for that commit, and locating the `cargo install fontc` definition that includes the fontc executable version number after the `@` symbol.
 
 Download the appropriate [fontc compiler release](https://github.com/googlefonts/fontc/releases) for your platform/architecture, install it on your system, and use the build instructions below.
 
