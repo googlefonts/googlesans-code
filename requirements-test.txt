@@ -91,12 +91,7 @@ deprecated==1.2.18
     # via pygithub
 diffenator2==0.4.5
     # via gftools
-exceptiongroup==1.2.2
-    # via
-    #   cattrs
-    #   trio
-    #   trio-websocket
-filelock==3.17.0
+filelock==3.20.1
     # via youseedee
 font-v==2.1.0
     # via gftools
@@ -387,10 +382,7 @@ ttfautohint-py==0.5.1
 typing-extensions==4.12.2
     # via
     #   beautifulsoup4
-    #   cattrs
-    #   fontbakery
     #   pygithub
-    #   rich
     #   selenium
 ufo2ft[cffsubr,compreffor]==3.4.1
     # via
