@@ -12,7 +12,7 @@
 
 - moved to fontc compiler
 - added CODE_OF_CONDUCT.md
-- Added OFL file to the .zip release package
+- added OFL file to the .zip release package
 - added TRADEMARKS.md
 - added AUTHORS.txt
 - initial public release
@@ -22,7 +22,7 @@
 ### New
 
 - extended character set
-- updated copyright info ([#130]
+- updated copyright info ([#130])
 - updated spacing of the arrows `→` `←`
 
 ## Version 4.000 (2025-03-31)
@@ -33,7 +33,7 @@
 
 ### Changed
 
-- minor design refinments: decender in `y` was elongated, dot in the `i` and `j` was repositioned up. The anchor positioning in `t` was refined . Refined the size of `dieresis`, bar in the `đ` was refined. Repositioned in italic font: `◙ ◉ ○ □ ▼ ► ▲ ◆ ● ▫  ■ ▪` and `comma`  in `; , ‘ ’ “ ”`
+- minor design refinements: descender in `y` was elongated, dot in the `i` and `j` was repositioned up. The anchor positioning in `t` was refined . Refined the size of `dieresis`, bar in the `đ` was refined. Repositioned in italic font: `◙ ◉ ○ □ ▼ ► ▲ ◆ ● ▫  ■ ▪` and `comma`  in `; , ‘ ’ “ ”`
 
 ## Version 3.000 (2025-02-19)
  
@@ -56,7 +56,7 @@
 ### Changed
 
 - replaced rvrn variation feature replacement in dollar with an interpolation switch (#46)
-- minor design refinments
+- minor design refinements
 
 
 ## Version 1.000 (2024-11-13)
