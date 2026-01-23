@@ -2,7 +2,8 @@ sources:
   - GoogleSansCode.glyphspackage
   - GoogleSansCode-Italic.glyphspackage
 familyName: Google Sans Code
-
+vttSources: 
+  GoogleSansCode[wght].ttf: hinting/GoogleSansCode[wght].ttx
 buildVariable: true
 buildStatic: false
 buildTTF: true
