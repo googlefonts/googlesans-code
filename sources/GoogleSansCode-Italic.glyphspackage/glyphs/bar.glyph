@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = bar;
 kernLeft = bar_left;
 kernRight = bar_right;
@@ -69,14 +70,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(523,-346,l),
-(897,1778,l),
-(745,1778,l),
-(371,-346,l)
+(229,-346,l),
+(603,1778,l),
+(451,1778,l),
+(77,-346,l)
 );
 }
 );
-width = 1200;
+width = 612;
 },
 {
 layerId = m007;

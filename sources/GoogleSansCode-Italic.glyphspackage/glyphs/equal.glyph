@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = equal;
 kernLeft = equal_left;
 kernRight = equal_right;
@@ -253,23 +254,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1107,769,l),
-(1132,911,l),
-(205,911,l),
-(180,769,l)
+(1151,769,l),
+(1176,911,l),
+(249,911,l),
+(224,769,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(1032,341,l),
-(1057,483,l),
-(130,483,l),
-(105,341,l)
+(1076,341,l),
+(1101,483,l),
+(174,483,l),
+(149,341,l)
 );
 }
 );
-width = 1200;
+width = 1288;
 },
 {
 associatedMasterId = m005;

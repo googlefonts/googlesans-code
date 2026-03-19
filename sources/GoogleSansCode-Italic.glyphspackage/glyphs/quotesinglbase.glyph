@@ -49,7 +49,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 1200;
+width = 732;
 },
 {
 layerId = m007;

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = bracketleft;
 kernLeft = bracketleft_left;
 kernRight = bracketleft_right;
@@ -71,11 +72,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1250,1330);
+pos = (884,1330);
 ref = bracketright;
 }
 );
-width = 1200;
+width = 834;
 },
 {
 layerId = m007;

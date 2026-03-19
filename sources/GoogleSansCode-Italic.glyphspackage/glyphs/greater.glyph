@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = greater;
 layers = (
 {
@@ -240,25 +241,25 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1242,1287);
+pos = (1222,1287);
 ref = less;
 }
 );
 };
 guides = (
 {
-pos = (964,97);
+pos = (944,97);
 }
 );
 layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (1237,1253);
+pos = (1217,1253);
 ref = less;
 }
 );
-width = 1200;
+width = 1180;
 },
 {
 associatedMasterId = m005;

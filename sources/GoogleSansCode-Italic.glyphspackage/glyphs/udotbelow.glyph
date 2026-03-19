@@ -60,11 +60,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (519,-30);
+pos = (529,-30);
 ref = dotbelowcomb;
 }
 );
-width = 1189;
+width = 1199;
 },
 {
 layerId = m007;
