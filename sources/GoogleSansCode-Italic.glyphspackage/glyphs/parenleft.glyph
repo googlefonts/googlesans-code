@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = parenleft;
 kernLeft = parenleft_left;
 kernRight = parenleft_right;
@@ -57,11 +58,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1250,1328);
+pos = (878,1328);
 ref = parenright;
 }
 );
-width = 1200;
+width = 828;
 },
 {
 layerId = m007;

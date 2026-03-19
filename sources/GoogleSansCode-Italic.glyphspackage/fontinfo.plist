@@ -1097,6 +1097,10 @@ value = (
 {
 Axis = Weight;
 Location = 300;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 },
@@ -1219,6 +1223,10 @@ value = (
 {
 Axis = Weight;
 Location = 400;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 },
@@ -1326,6 +1334,10 @@ value = (
 {
 Axis = Weight;
 Location = 700;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 },
@@ -1433,6 +1445,10 @@ value = (
 {
 Axis = Weight;
 Location = 800;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 },
@@ -1548,6 +1564,10 @@ value = (
 {
 Axis = Weight;
 Location = 300;
+},
+{
+Axis = Monospaced;
+Location = 1;
 }
 );
 },
@@ -1670,6 +1690,10 @@ value = (
 {
 Axis = Weight;
 Location = 400;
+},
+{
+Axis = Monospaced;
+Location = 1;
 }
 );
 },
@@ -1777,6 +1801,10 @@ value = (
 {
 Axis = Weight;
 Location = 700;
+},
+{
+Axis = Monospaced;
+Location = 1;
 }
 );
 },
@@ -1884,6 +1912,10 @@ value = (
 {
 Axis = Weight;
 Location = 800;
+},
+{
+Axis = Monospaced;
+Location = 1;
 }
 );
 },
@@ -2031,6 +2063,10 @@ value = (
 {
 Axis = Weight;
 Location = 300;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 }
@@ -2084,6 +2120,10 @@ value = (
 {
 Axis = Weight;
 Location = 400;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 }
@@ -2132,6 +2172,10 @@ value = (
 {
 Axis = Weight;
 Location = 500;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 }
@@ -2182,6 +2226,10 @@ value = (
 {
 Axis = Weight;
 Location = 600;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 }
@@ -2232,6 +2280,10 @@ value = (
 {
 Axis = Weight;
 Location = 700;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 }
@@ -2282,6 +2334,10 @@ value = (
 {
 Axis = Weight;
 Location = 800;
+},
+{
+Axis = Monospaced;
+Location = 0;
 }
 );
 }
@@ -2299,6 +2355,106 @@ value = "GoogleSansCode-ExtraBoldItalic";
 }
 );
 weightClass = 800;
+},
+{
+axesValues = (
+300,
+1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Monospaced;
+Location = 1;
+}
+);
+}
+);
+instanceInterpolations = {
+m005 = 1;
+};
+name = "Light Italic Proportional";
+},
+{
+axesValues = (
+400,
+1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Monospaced;
+Location = 1;
+}
+);
+}
+);
+instanceInterpolations = {
+m007 = 1;
+};
+name = "Italic Proportional";
+},
+{
+axesValues = (
+700,
+1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Monospaced;
+Location = 1;
+}
+);
+}
+);
+instanceInterpolations = {
+m008 = 1;
+};
+name = "Bold Italic Proportional";
+},
+{
+axesValues = (
+800,
+1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+},
+{
+Axis = Monospaced;
+Location = 1;
+}
+);
+}
+);
+instanceInterpolations = {
+m009 = 1;
+};
+name = "ExtraBold Italic Proportional";
 }
 );
 metrics = (

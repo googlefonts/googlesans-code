@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = quoteright;
 kernLeft = quoteright_left;
 kernRight = quoteright_right;
@@ -56,7 +57,7 @@ pos = (215,1217);
 ref = comma;
 }
 );
-width = 1200;
+width = 733;
 },
 {
 layerId = m007;
