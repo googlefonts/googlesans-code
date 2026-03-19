@@ -1164,6 +1164,5 @@ nodes = (
 width = 1200;
 }
 );
-metricLeft = O;
 unicode = 71;
 }

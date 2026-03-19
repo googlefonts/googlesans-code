@@ -1922,7 +1922,5 @@ nodes = (
 width = 1200;
 }
 );
-metricLeft = O;
-metricRight = "=O-97";
 unicode = 81;
 }

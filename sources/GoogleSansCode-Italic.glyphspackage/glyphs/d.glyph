@@ -916,7 +916,5 @@ nodes = (
 width = 1200;
 }
 );
-metricLeft = a;
-metricRight = a;
 unicode = 100;
 }

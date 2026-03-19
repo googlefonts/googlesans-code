@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = D;
 kernLeft = H_left;
 kernRight = O_right;
@@ -1187,6 +1186,5 @@ nodes = (
 width = 1200;
 }
 );
-metricLeft = H;
 unicode = 68;
 }
