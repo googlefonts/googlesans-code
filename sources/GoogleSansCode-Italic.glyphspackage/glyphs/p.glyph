@@ -1109,6 +1109,5 @@ nodes = (
 width = 1200;
 }
 );
-metricRight = b;
 unicode = 112;
 }
