@@ -60,11 +60,11 @@ shapes = (
 ref = n;
 },
 {
-pos = (678,10);
+pos = (694,10);
 ref = commaaccentcomb;
 }
 );
-width = 1200;
+width = 1199;
 },
 {
 layerId = m007;

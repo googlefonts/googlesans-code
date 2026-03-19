@@ -60,11 +60,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (960,4);
+pos = (954,4);
 ref = ogonekcomb;
 }
 );
-width = 1200;
+width = 1189;
 },
 {
 layerId = m007;
