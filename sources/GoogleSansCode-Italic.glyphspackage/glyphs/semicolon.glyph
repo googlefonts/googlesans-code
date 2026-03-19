@@ -84,6 +84,88 @@ ref = comma;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (30,0);
+ref = colon;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (209,807);
+ref = period;
+},
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+ref = colon;
+}
+);
+};
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+pos = (199,781);
+ref = period;
+},
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+ref = colon;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+pos = (167,702);
+ref = period;
+},
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (156,676);
+ref = period;
+},
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 1200;
 }
 );
 metricLeft = comma;

@@ -44,6 +44,50 @@ ref = exclam;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (1255,1262);
+ref = exclam;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (1268,1262);
+ref = exclam;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (1296,1262);
+ref = exclam;
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (1309,1262);
+ref = exclam;
+}
+);
+width = 1200;
 }
 );
 unicode = 161;

@@ -84,6 +84,90 @@ ref = periodcentered;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(960,0,l),
+(984,138,l),
+(290,138,l),
+(518,1432,l),
+(372,1432,l),
+(120,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(980,626,o),
+(1057,691,o),
+(1072,776,cs),
+(1086,858,o),
+(1033,924,o),
+(947,924,cs),
+(865,924,o),
+(786,858,o),
+(772,776,cs),
+(757,691,o),
+(810,626,o),
+(894,626,cs)
+);
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (277,0);
+ref = periodcentered;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (285,0);
+ref = periodcentered;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (308,0);
+ref = periodcentered;
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (316,0);
+ref = periodcentered;
+}
+);
+width = 1200;
 }
 );
 unicode = 319;

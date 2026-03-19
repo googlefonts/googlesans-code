@@ -44,6 +44,50 @@ ref = guillemetleft;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (1204,1064);
+ref = guillemetleft;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (1202,1064);
+ref = guillemetleft;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (1202,1064);
+ref = guillemetleft;
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (1202,1064);
+ref = guillemetleft;
+}
+);
+width = 1200;
 }
 );
 unicode = 187;

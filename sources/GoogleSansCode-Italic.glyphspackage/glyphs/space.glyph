@@ -17,6 +17,22 @@ width = 1200;
 {
 layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
 width = 1200;
+},
+{
+layerId = m005;
+width = 1200;
+},
+{
+layerId = m007;
+width = 1200;
+},
+{
+layerId = m008;
+width = 1200;
+},
+{
+layerId = m009;
+width = 1200;
 }
 );
 unicode = 32;

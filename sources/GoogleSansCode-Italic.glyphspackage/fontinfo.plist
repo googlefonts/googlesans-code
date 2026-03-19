@@ -1,10 +1,14 @@
 {
-.appVersion = "3414";
+.appVersion = "3436";
 .formatVersion = 3;
 axes = (
 {
 name = Weight;
 tag = wght;
+},
+{
+name = Monospaced;
+tag = MONO;
 }
 );
 classes = (
@@ -1049,7 +1053,8 @@ tag = ss01;
 fontMaster = (
 {
 axesValues = (
-300
+300,
+0
 );
 customParameters = (
 {
@@ -1155,7 +1160,7 @@ pos = -436;
 pos = 10;
 }
 );
-name = "Light Italic";
+name = "Light Italic Mono";
 userData = {
 GSSlanterCursivy = 0;
 GSSlanterCursivyContrastFactor = 0.79731;
@@ -1170,7 +1175,8 @@ GSSlanterRotate = 10;
 },
 {
 axesValues = (
-400
+400,
+0
 );
 customParameters = (
 {
@@ -1272,11 +1278,12 @@ pos = -436;
 pos = 10;
 }
 );
-name = Italic;
+name = "Italic Mono";
 },
 {
 axesValues = (
-700
+700,
+0
 );
 customParameters = (
 {
@@ -1378,11 +1385,12 @@ pos = -436;
 pos = 10;
 }
 );
-name = "Bold Italic";
+name = "Bold Italic Mono";
 },
 {
 axesValues = (
-800
+800,
+0
 );
 customParameters = (
 {
@@ -1492,7 +1500,458 @@ pos = -436;
 pos = 10;
 }
 );
-name = "ExtraBold Italic";
+name = "ExtraBold Italic Mono";
+},
+{
+axesValues = (
+300,
+1
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1932;
+},
+{
+name = typoDescender;
+value = -572;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1932;
+},
+{
+name = hheaDescender;
+value = -572;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2377;
+},
+{
+name = winDescent;
+value = 930;
+},
+{
+name = underlineThickness;
+value = 168;
+},
+{
+name = underlinePosition;
+value = -320;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
+},
+{
+name = weightClass;
+value = 300;
+},
+{
+name = strikeoutPosition;
+value = 612;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (0,1492);
+},
+{
+locked = 1;
+pos = (0,1462);
+},
+{
+locked = 1;
+name = "Base of Tittle";
+pos = (0,1289);
+}
+);
+iconName = Light;
+id = m005;
+metricValues = (
+{
+over = 30;
+pos = 1460;
+},
+{
+over = 30;
+pos = 1432;
+},
+{
+over = 30;
+pos = 1045;
+},
+{
+over = -30;
+},
+{
+over = -30;
+pos = -436;
+},
+{
+pos = 10;
+}
+);
+name = "Light Italic Proportional";
+userData = {
+GSSlanterCursivy = 0;
+GSSlanterCursivyContrastFactor = 0.79731;
+GSSlanterCursivyDoContrast = 1;
+GSSlanterCursivyDoShape = 1;
+GSSlanterCursivyDoThickness = 1;
+GSSlanterCursivyShapeFactor = 0.79652;
+GSSlanterCursivyThicknessFactor = 1;
+GSSlanterGeometric = 0;
+GSSlanterRotate = 10;
+};
+},
+{
+axesValues = (
+400,
+1
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1932;
+},
+{
+name = typoDescender;
+value = -572;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1932;
+},
+{
+name = hheaDescender;
+value = -572;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2377;
+},
+{
+name = winDescent;
+value = 930;
+},
+{
+name = underlineThickness;
+value = 168;
+},
+{
+name = underlinePosition;
+value = -320;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+},
+{
+name = weightClass;
+value = 400;
+},
+{
+name = strikeoutPosition;
+value = 612;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (0,1492);
+},
+{
+locked = 1;
+name = "Base of Tittle";
+pos = (0,1278);
+}
+);
+iconName = Light;
+id = m007;
+metricValues = (
+{
+over = 32;
+pos = 1460;
+},
+{
+over = 32;
+pos = 1432;
+},
+{
+over = 32;
+pos = 1047;
+},
+{
+over = -32;
+},
+{
+over = -32;
+pos = -436;
+},
+{
+pos = 10;
+}
+);
+name = "Italic Proportional";
+},
+{
+axesValues = (
+700,
+1
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1932;
+},
+{
+name = typoDescender;
+value = -572;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1932;
+},
+{
+name = hheaDescender;
+value = -572;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2377;
+},
+{
+name = winDescent;
+value = 930;
+},
+{
+name = underlineThickness;
+value = 168;
+},
+{
+name = underlinePosition;
+value = -320;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+},
+{
+name = weightClass;
+value = 700;
+},
+{
+name = strikeoutPosition;
+value = 612;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (0,1492);
+},
+{
+locked = 1;
+name = "Base of Tittle";
+pos = (0,1246);
+}
+);
+iconName = Light;
+id = m008;
+metricValues = (
+{
+over = 34;
+pos = 1460;
+},
+{
+over = 34;
+pos = 1432;
+},
+{
+over = 34;
+pos = 1052;
+},
+{
+over = -34;
+},
+{
+over = -34;
+pos = -436;
+},
+{
+pos = 10;
+}
+);
+name = "Bold Italic Proportional";
+},
+{
+axesValues = (
+800,
+1
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1932;
+},
+{
+name = typoDescender;
+value = -572;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1932;
+},
+{
+name = hheaDescender;
+value = -572;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2377;
+},
+{
+name = winDescent;
+value = 930;
+},
+{
+name = underlineThickness;
+value = 168;
+},
+{
+name = underlinePosition;
+value = -320;
+},
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+},
+{
+name = weightClass;
+value = 800;
+},
+{
+name = strikeoutPosition;
+value = 612;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (0,1492);
+},
+{
+locked = 1;
+pos = (0,246);
+},
+{
+locked = 1;
+pos = (0,1460);
+},
+{
+locked = 1;
+name = "Bottom of Tittle";
+pos = (0,1235);
+}
+);
+iconName = Light;
+id = m009;
+metricValues = (
+{
+over = 35;
+pos = 1460;
+},
+{
+over = 35;
+pos = 1432;
+},
+{
+over = 35;
+pos = 1054;
+},
+{
+over = -35;
+},
+{
+over = -35;
+pos = -436;
+},
+{
+pos = 10;
+}
+);
+name = "ExtraBold Italic Proportional";
 }
 );
 instances = (
@@ -1553,7 +2012,8 @@ type = variable;
 },
 {
 axesValues = (
-300
+300,
+0
 );
 customParameters = (
 {
@@ -1601,7 +2061,8 @@ weightClass = 300;
 },
 {
 axesValues = (
-400
+400,
+0
 );
 customParameters = (
 {
@@ -1652,7 +2113,8 @@ value = "GoogleSansCode-Italic";
 },
 {
 axesValues = (
-500
+500,
+0
 );
 customParameters = (
 {
@@ -1701,7 +2163,8 @@ weightClass = 500;
 },
 {
 axesValues = (
-600
+600,
+0
 );
 customParameters = (
 {
@@ -1750,7 +2213,8 @@ weightClass = 600;
 },
 {
 axesValues = (
-700
+700,
+0
 );
 customParameters = (
 {
@@ -1799,7 +2263,8 @@ weightClass = 700;
 },
 {
 axesValues = (
-800
+800,
+0
 );
 customParameters = (
 {

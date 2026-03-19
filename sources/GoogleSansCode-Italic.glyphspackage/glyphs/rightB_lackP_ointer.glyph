@@ -56,6 +56,62 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1229,716,l),
+(129,1226,l),
+(129,206,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1229,716,l),
+(129,1226,l),
+(129,206,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1229,716,l),
+(129,1226,l),
+(129,206,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1228,716,l),
+(128,1226,l),
+(128,206,l)
+);
+}
+);
+width = 1200;
 }
 );
 unicode = 9658;

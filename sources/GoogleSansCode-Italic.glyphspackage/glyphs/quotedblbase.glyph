@@ -41,6 +41,47 @@ ref = quotedblright;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (-215,-1217);
+ref = quotedblright;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (-210,-1189);
+ref = quotedblright;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+pos = (-195,-1106);
+ref = quotedblright;
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (-190,-1078);
+ref = quotedblright;
+}
+);
+width = 1200;
 }
 );
 unicode = 8222;
