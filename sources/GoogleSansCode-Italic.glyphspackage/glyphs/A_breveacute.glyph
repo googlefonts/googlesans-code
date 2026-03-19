@@ -60,11 +60,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (658,387);
+pos = (656,387);
 ref = brevecomb_acutecomb;
 }
 );
-width = 1200;
+width = 1196;
 },
 {
 layerId = m007;

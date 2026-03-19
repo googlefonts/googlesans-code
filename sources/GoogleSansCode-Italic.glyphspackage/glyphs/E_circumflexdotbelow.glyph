@@ -60,11 +60,11 @@ shapes = (
 ref = Edotbelow;
 },
 {
-pos = (656,387);
+pos = (675,387);
 ref = circumflexcomb;
 }
 );
-width = 1200;
+width = 1115;
 },
 {
 layerId = m007;

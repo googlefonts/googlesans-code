@@ -128,7 +128,7 @@ pos = (277,0);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 1130;
 },
 {
 layerId = m007;
