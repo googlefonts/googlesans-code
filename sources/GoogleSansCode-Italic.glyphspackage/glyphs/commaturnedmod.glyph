@@ -40,6 +40,46 @@ ref = commaturnedabovecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (594,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (597,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+pos = (607,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (610,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 699;

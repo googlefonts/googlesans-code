@@ -52,6 +52,58 @@ ref = acutecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (617,0);
+ref = acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (617,0);
+ref = acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (620,0);
+ref = acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (617,0);
+ref = acutecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 509;

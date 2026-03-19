@@ -40,6 +40,46 @@ ref = cedillacomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (449,0);
+ref = cedillacomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (450,0);
+ref = cedillacomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+pos = (451,0);
+ref = cedillacomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (451,0);
+ref = cedillacomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 184;

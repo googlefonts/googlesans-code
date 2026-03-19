@@ -59,6 +59,65 @@ ref = ogonekcomb;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+ref = i;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (804,0);
+ref = ogonekcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (814,3);
+ref = ogonekcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (854,11);
+ref = ogonekcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (884,14);
+ref = ogonekcomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 303;
