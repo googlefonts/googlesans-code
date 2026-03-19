@@ -138,7 +138,7 @@ pos = (555,0);
 ref = cedillacomb;
 }
 );
-width = 1200;
+width = 1007;
 },
 {
 layerId = m007;

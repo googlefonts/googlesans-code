@@ -69,7 +69,7 @@ pos = (621,70);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 1200;
+width = 1121;
 },
 {
 layerId = m007;

@@ -405,7 +405,7 @@ pos = (565,0);
 ref = commaturnedabovecomb;
 }
 );
-width = 1200;
+width = 1105;
 },
 {
 layerId = m007;
