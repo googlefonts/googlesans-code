@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = three;
 kernLeft = three_left;
 kernRight = three_right;
