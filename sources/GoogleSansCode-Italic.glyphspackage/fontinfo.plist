@@ -2150,6 +2150,7 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-Italic";
 }
 );
+visible = 0;
 },
 {
 axesValues = (
@@ -2203,6 +2204,7 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-MediumItalic";
 }
 );
+visible = 0;
 weightClass = 500;
 },
 {
@@ -2257,6 +2259,7 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-SemiBoldItalic";
 }
 );
+visible = 0;
 weightClass = 600;
 },
 {
@@ -2311,6 +2314,7 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-BoldItalic";
 }
 );
+visible = 0;
 weightClass = 700;
 },
 {
@@ -2364,6 +2368,7 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-ExtraBoldItalic";
 }
 );
+visible = 0;
 weightClass = 800;
 },
 {
@@ -2415,6 +2420,7 @@ instanceInterpolations = {
 m007 = 1;
 };
 name = "Italic Proportional";
+visible = 0;
 },
 {
 axesValues = (
@@ -2440,6 +2446,7 @@ instanceInterpolations = {
 m008 = 1;
 };
 name = "Bold Italic Proportional";
+visible = 0;
 },
 {
 axesValues = (
@@ -2465,8 +2472,55 @@ instanceInterpolations = {
 m009 = 1;
 };
 name = "ExtraBold Italic Proportional";
+visible = 0;
 }
 );
+kerningLTR = {
+m005 = {
+"@MMK_L_H_right" = {
+"@MMK_R_five_left" = -30;
+"@MMK_R_four_left" = -60;
+"@MMK_R_seven_left" = -20;
+"@MMK_R_six_left" = -40;
+};
+"@MMK_L_eight_right" = {
+"@MMK_R_seven_left" = -70;
+};
+"@MMK_L_five_right" = {
+"@MMK_R_seven_left" = -30;
+};
+"@MMK_L_four_right" = {
+"@MMK_R_one_left" = -20;
+};
+"@MMK_L_nine_right" = {
+"@MMK_R_eight_left" = -40;
+"@MMK_R_five_left" = -20;
+"@MMK_R_four_left" = -40;
+"@MMK_R_seven_left" = -70;
+"@MMK_R_six_left" = -20;
+"@MMK_R_three_left" = -30;
+};
+"@MMK_L_seven_right" = {
+"@MMK_R_eight_left" = -90;
+"@MMK_R_five_left" = -80;
+"@MMK_R_four_left" = -200;
+"@MMK_R_nine_left" = -20;
+"@MMK_R_six_left" = -140;
+"@MMK_R_three_left" = -20;
+};
+"@MMK_L_six_right" = {
+"@MMK_R_nine_left" = -50;
+"@MMK_R_one_left" = -60;
+"@MMK_R_seven_left" = -50;
+};
+"@MMK_L_three_right" = {
+"@MMK_R_seven_left" = -50;
+};
+"@MMK_L_two_right" = {
+"@MMK_R_six_left" = -40;
+};
+};
+};
 metrics = (
 {
 type = ascender;
