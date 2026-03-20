@@ -2,7 +2,7 @@
 color = 4;
 glyphname = y;
 kernLeft = y_left;
-kernRight = y_right;
+kernRight = v_right;
 layers = (
 {
 anchors = (
