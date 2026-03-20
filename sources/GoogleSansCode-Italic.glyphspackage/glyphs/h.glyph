@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = h;
+kernLeft = h_left;
+kernRight = n_right;
 layers = (
 {
 layerId = m006;

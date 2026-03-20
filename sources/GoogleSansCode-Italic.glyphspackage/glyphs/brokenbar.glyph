@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = brokenbar;
+kernLeft = bar_left;
+kernRight = bar_right;
 layers = (
 {
 background = {

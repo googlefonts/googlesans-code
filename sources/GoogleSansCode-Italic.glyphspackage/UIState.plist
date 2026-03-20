@@ -1,0 +1,17 @@
+{
+displayStrings = (
+"abcdefghijklmno
+pqrstuvwxyz
+ABCDEFGHIJKLMNO
+PQRSTUVWXYZ
+!\"#$%&'()*+,-.[/backslash ]^_
+0123456789:;<=>?
+@`{|}~",
+"HHHHHKHHHH
+wwwwwww
+nnnncnnnnn
+oooocooooo
+nnnncannnn
+oooocaoooo"
+);
+}

@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = dollar;
+kernLeft = dollar_left;
+kernRight = dollar_right;
 layers = (
 {
 guides = (

@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = g;
+kernLeft = g_left;
+kernRight = g_right;
 layers = (
 {
 anchors = (
@@ -866,7 +868,7 @@ nodes = (
 );
 }
 );
-width = 1188;
+width = 1178;
 },
 {
 associatedMasterId = m005;
