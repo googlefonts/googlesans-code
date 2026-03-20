@@ -57,11 +57,11 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (1268,1432);
+pos = (1242,1432);
 ref = six;
 }
 );
-width = 1200;
+width = 1174;
 },
 {
 layerId = m007;
