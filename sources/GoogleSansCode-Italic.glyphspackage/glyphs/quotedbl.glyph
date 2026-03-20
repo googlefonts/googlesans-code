@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = quotedbl;
+kernLeft = quotesingle_left;
+kernRight = quotesingle_right;
 layers = (
 {
 layerId = m006;
