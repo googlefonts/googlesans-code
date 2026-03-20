@@ -2,7 +2,7 @@
 color = 4;
 glyphname = C;
 kernLeft = O_left;
-kernRight = O_right;
+kernRight = C_right;
 layers = (
 {
 anchors = (
@@ -760,7 +760,7 @@ nodes = (
 );
 }
 );
-width = 1218;
+width = 1238;
 },
 {
 associatedMasterId = m005;
