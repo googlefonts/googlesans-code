@@ -56,13 +56,13 @@ width = 1200;
 layerId = m005;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 angle = 180;
-pos = (1242,1432);
+pos = (1246,1432);
 ref = six;
 }
 );
-width = 1174;
+width = 1167;
 },
 {
 layerId = m007;
