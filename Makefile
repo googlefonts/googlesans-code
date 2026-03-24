@@ -58,3 +58,10 @@ update: venv venv-test
 
 	git commit -m "Update requirements" requirements.txt requirements-test.txt
 	git push
+
+# ---------------------------
+# Generate BASE table records
+# ---------------------------
+autobase: build
+	cargo binstall autobase-cli --no-confirm || cargo install --locked autobase-cli
+	autobase --min-max --config sources/autobase.toml --words 1000000 fonts/variable/GoogleSansCode*.ttf
