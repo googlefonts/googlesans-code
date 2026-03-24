@@ -89,7 +89,7 @@ diffenator2==0.4.9
     #   gftools
 ffmpeg-python==0.2.0
     # via gftools
-filelock==3.20.1
+filelock==3.20.3
     # via youseedee
 font-v==2.1.0
     # via gftools
