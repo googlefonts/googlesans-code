@@ -1,5 +1,7 @@
 {
 glyphname = eth;
+kernLeft = o_left;
+kernRight = eth_right;
 layers = (
 {
 background = {

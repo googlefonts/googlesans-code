@@ -1,5 +1,7 @@
 {
 glyphname = Kcommaaccent;
+kernLeft = H_left;
+kernRight = K_right;
 layers = (
 {
 background = {

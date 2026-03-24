@@ -1,5 +1,7 @@
 {
 glyphname = oslash;
+kernLeft = oslash_left;
+kernRight = oslash_right;
 layers = (
 {
 background = {

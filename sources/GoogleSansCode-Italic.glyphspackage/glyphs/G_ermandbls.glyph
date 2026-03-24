@@ -1,5 +1,7 @@
 {
 glyphname = Germandbls;
+kernLeft = Germandbls_left;
+kernRight = Germandbls_right;
 layers = (
 {
 background = {

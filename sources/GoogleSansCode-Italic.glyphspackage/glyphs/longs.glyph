@@ -1,5 +1,7 @@
 {
 glyphname = longs;
+kernLeft = f_left;
+kernRight = longs_right;
 layers = (
 {
 background = {

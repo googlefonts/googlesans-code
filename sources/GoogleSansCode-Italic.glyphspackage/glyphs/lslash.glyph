@@ -1,5 +1,7 @@
 {
 glyphname = lslash;
+kernLeft = lslash_left;
+kernRight = lslash_right;
 layers = (
 {
 background = {

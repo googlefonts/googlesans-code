@@ -1,5 +1,7 @@
 {
 glyphname = Hbar;
+kernLeft = Hbar_left;
+kernRight = Hbar_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";

@@ -1,5 +1,7 @@
 {
 glyphname = iogonek;
+kernLeft = i_left;
+kernRight = iogonek_right;
 layers = (
 {
 background = {

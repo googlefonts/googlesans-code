@@ -1,5 +1,7 @@
 {
 glyphname = thorn;
+kernLeft = thorn_left;
+kernRight = o_right;
 layers = (
 {
 background = {

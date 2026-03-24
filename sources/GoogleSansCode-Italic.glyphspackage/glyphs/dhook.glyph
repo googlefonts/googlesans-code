@@ -1,5 +1,7 @@
 {
 glyphname = dhook;
+kernLeft = o_left;
+kernRight = dhook_right;
 layers = (
 {
 background = {

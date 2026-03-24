@@ -1,5 +1,7 @@
 {
 glyphname = Thorn;
+kernLeft = H_left;
+kernRight = Thorn_right;
 layers = (
 {
 background = {
