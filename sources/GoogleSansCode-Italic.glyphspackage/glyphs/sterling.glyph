@@ -1,5 +1,7 @@
 {
 glyphname = sterling;
+kernLeft = sterling_left;
+kernRight = sterling_right;
 layers = (
 {
 background = {

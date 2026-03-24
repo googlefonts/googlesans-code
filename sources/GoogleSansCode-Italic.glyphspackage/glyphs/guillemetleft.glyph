@@ -1,5 +1,7 @@
 {
 glyphname = guillemetleft;
+kernLeft = guilsinglleft_left;
+kernRight = guilsinglleft_right;
 layers = (
 {
 background = {

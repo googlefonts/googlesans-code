@@ -1,5 +1,7 @@
 {
 glyphname = onesuperior;
+kernLeft = onesuperior_left;
+kernRight = onesuperior_right;
 layers = (
 {
 background = {

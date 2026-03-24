@@ -1,7 +1,7 @@
 {
 glyphname = g.ss01;
-kernLeft = g.ss01_left;
-kernRight = g.ss01_right;
+kernLeft = gss01_left;
+kernRight = gss01_right;
 layers = (
 {
 guides = (

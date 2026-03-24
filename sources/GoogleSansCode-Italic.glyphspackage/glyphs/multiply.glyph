@@ -1,5 +1,7 @@
 {
 glyphname = multiply;
+kernLeft = multiply_left;
+kernRight = multiply_right;
 layers = (
 {
 background = {

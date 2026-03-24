@@ -1,5 +1,7 @@
 {
 glyphname = divide;
+kernLeft = plus_left;
+kernRight = plus_right;
 layers = (
 {
 background = {

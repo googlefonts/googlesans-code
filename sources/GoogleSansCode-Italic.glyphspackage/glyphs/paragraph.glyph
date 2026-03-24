@@ -1,5 +1,7 @@
 {
 glyphname = paragraph;
+kernLeft = paragraph_left;
+kernRight = paragraph_right;
 layers = (
 {
 background = {

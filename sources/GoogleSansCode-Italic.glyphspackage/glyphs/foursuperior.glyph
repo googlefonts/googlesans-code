@@ -1,5 +1,7 @@
 {
 glyphname = foursuperior;
+kernLeft = foursuperior_left;
+kernRight = foursuperior_right;
 layers = (
 {
 background = {

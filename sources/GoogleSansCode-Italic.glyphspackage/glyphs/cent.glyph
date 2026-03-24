@@ -1,5 +1,7 @@
 {
 glyphname = cent;
+kernLeft = o_left;
+kernRight = c_right;
 layers = (
 {
 background = {
