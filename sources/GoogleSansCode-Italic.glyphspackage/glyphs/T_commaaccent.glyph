@@ -1,5 +1,7 @@
 {
 glyphname = Tcommaaccent;
+kernLeft = T_left;
+kernRight = T_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";

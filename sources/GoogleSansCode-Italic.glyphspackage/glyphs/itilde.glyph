@@ -1,5 +1,7 @@
 {
 glyphname = itilde;
+kernLeft = i_left;
+kernRight = iacute_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";

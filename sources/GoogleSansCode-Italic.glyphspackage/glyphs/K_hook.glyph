@@ -1,5 +1,7 @@
 {
 glyphname = Khook;
+kernLeft = H_left;
+kernRight = K_right;
 layers = (
 {
 layerId = m006;

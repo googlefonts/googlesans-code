@@ -1,5 +1,7 @@
 {
 glyphname = Ldot;
+kernLeft = H_left;
+kernRight = Ldot_right;
 layers = (
 {
 background = {

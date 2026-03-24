@@ -1,5 +1,7 @@
 {
 glyphname = ydotbelow;
+kernLeft = y_left;
+kernRight = ydotbelow_right;
 layers = (
 {
 background = {

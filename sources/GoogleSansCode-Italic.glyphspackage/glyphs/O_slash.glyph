@@ -1,5 +1,7 @@
 {
 glyphname = Oslash;
+kernLeft = Oslash_left;
+kernRight = Oslash_right;
 layers = (
 {
 guides = (

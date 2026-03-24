@@ -1,5 +1,7 @@
 {
 glyphname = tcaron;
+kernLeft = t_left;
+kernRight = t_right;
 layers = (
 {
 anchors = (

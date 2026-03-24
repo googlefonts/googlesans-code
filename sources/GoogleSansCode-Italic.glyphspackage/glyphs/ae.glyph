@@ -1,5 +1,7 @@
 {
 glyphname = ae;
+kernLeft = ae_left;
+kernRight = e_right;
 layers = (
 {
 anchors = (

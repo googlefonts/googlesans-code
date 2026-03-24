@@ -1,5 +1,7 @@
 {
 glyphname = DZcaron;
+kernLeft = H_left;
+kernRight = Z_right;
 layers = (
 {
 background = {
