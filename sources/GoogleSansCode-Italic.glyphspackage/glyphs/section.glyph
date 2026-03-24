@@ -1,5 +1,7 @@
 {
 glyphname = section;
+kernLeft = section_left;
+kernRight = section_right;
 layers = (
 {
 background = {
