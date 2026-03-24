@@ -28,7 +28,7 @@ beautifulsoup4==4.14.3
     #   gftools
 beziers==0.6.0
     # via fontbakery
-blackrenderer==0.6.0
+blackrenderer[skia]==0.6.0
     # via diffenator2
 booleanoperations==0.9.0
     # via
@@ -73,7 +73,7 @@ compreffor==0.6.0
     # via ufo2ft
 cryptography==46.0.3
     # via pyjwt
-defcon==0.12.2
+defcon[lxml,pens]==0.12.2
     # via
     #   afdko
     #   fontbakery
@@ -93,11 +93,11 @@ filelock==3.20.1
     # via youseedee
 font-v==2.1.0
     # via gftools
-fontbakery==1.1.0
+fontbakery[beautifulsoup4,googlefonts,googlefontsalwayslatest,shaperglot]==1.1.0
     # via gftools
 fontfeatures==1.9.0
     # via gftools
-fontmake==3.11.1
+fontmake[json]==3.11.1
     # via
     #   -r requirements.in
     #   gftools
@@ -113,7 +113,7 @@ fontparts==0.13.3
     # via ufoprocessor
 fontpens==0.2.4
     # via defcon
-fonttools==4.60.1
+fonttools[lxml,ufo,unicode,woff]==4.60.1
     # via
     #   afdko
     #   axisregistry
@@ -164,7 +164,7 @@ gfsubsets==2025.11.4
     # via
     #   fontbakery
     #   gftools
-gftools==0.9.98
+gftools[qa]==0.9.98
     # via -r requirements.in
 gitdb==4.0.12
     # via gitpython
@@ -237,7 +237,7 @@ opentype-sanitizer==9.2.0
     #   gftools
 opentypespec==1.9.2
     # via fontbakery
-orjson==3.11.5
+orjson==3.11.6
     # via
     #   babelfont
     #   ufolib2
@@ -256,8 +256,6 @@ pillow==12.0.0
     #   diffenator2
     #   gftools
     #   nanoemoji
-pip==25.3
-    # via pip-api
 pip-api==0.0.34
     # via fontbakery
 pngquant-cli==3.0.3
@@ -287,7 +285,7 @@ pygithub==2.8.1
     # via gftools
 pygments==2.19.2
     # via rich
-pyjwt==2.10.1
+pyjwt[crypto]==2.10.1
     # via pygithub
 pynacl==1.6.1
     # via pygithub
@@ -327,10 +325,6 @@ ruamel-yaml-clib==0.2.15
     # via ruamel-yaml
 selenium==4.39.0
     # via diffenator2
-setuptools==80.9.0
-    # via
-    #   gftools
-    #   glyphsets
 shaperglot==1.2.0
     # via fontbakery
 six==1.17.0
@@ -342,7 +336,7 @@ skia-pathops==0.9.1
     #   collidoscope
     #   gftools
     #   picosvg
-skia-python==138.0
+skia-python==144.0.post2
     # via blackrenderer
 smmap==5.0.2
     # via gitdb
@@ -387,12 +381,12 @@ typing-extensions==4.15.0
     #   cattrs
     #   pygithub
     #   selenium
-ufo2ft==3.6.9
+ufo2ft[cffsubr,compreffor]==3.6.9
     # via
     #   fontbakery
     #   fontmake
     #   nanoemoji
-ufolib2==0.18.1
+ufolib2[json]==0.18.1
     # via
     #   babelfont
     #   bumpfontversion
@@ -422,11 +416,10 @@ unicodedata2==15.1.0
     # via
     #   diffenator2
     #   fontbakery
-    #   fonttools
     #   glyphsets
 unidecode==1.4.0
     # via gftools
-urllib3==2.6.2
+urllib3[socks]==2.6.2
     # via
     #   pygithub
     #   requests
