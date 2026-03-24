@@ -234,7 +234,7 @@ opentype-sanitizer==9.2.0
     #   gftools
 opentypespec==1.9.2
     # via fontbakery
-orjson==3.11.5
+orjson==3.11.6
     # via
     #   babelfont
     #   ufolib2
