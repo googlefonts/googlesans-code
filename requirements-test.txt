@@ -284,7 +284,7 @@ pygments==2.19.2
     # via rich
 pyjwt[crypto]==2.10.1
     # via pygithub
-pynacl==1.6.1
+pynacl==1.6.2
     # via pygithub
 pyparsing==3.3.1
     # via vttlib
