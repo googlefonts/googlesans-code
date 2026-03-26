@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Kcommaaccent;
 kernLeft = H_left;
 kernRight = K_right;

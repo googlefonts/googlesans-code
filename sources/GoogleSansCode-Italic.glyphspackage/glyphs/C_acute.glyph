@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Cacute;
 kernLeft = O_left;
 kernRight = C_right;

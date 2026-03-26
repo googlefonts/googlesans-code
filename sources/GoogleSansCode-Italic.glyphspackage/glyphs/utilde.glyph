@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = utilde;
 kernLeft = u_left;
 kernRight = u_right;

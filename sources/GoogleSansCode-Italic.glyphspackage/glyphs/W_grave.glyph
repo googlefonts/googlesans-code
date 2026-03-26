@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Wgrave;
 kernLeft = W_left;
 kernRight = W_right;

@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Lacute;
 kernLeft = H_left;
 kernRight = L_right;

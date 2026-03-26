@@ -2801,7 +2801,7 @@ m005 = {
 "@MMK_R_W_left" = -20;
 "@MMK_R_X_left" = -40;
 "@MMK_R_Y_left" = -60;
-"@MMK_R_Z_left" = -20;
+"@MMK_R_Z_left" = -40;
 "@MMK_R_backslash_left" = -100;
 "@MMK_R_bracketright_left" = -40;
 "@MMK_R_comma_left" = -20;
@@ -2818,7 +2818,7 @@ m005 = {
 "@MMK_R_underscore_left" = -80;
 "@MMK_R_x_left" = -20;
 "@MMK_R_y_left" = -10;
-"@MMK_R_z_left" = -20;
+"@MMK_R_z_left" = -40;
 };
 "@MMK_L_P_right" = {
 "@MMK_R_A_left" = -100;

@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = scaron;
 kernLeft = s_left;
 kernRight = s_right;

@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Ecaron;
 kernLeft = H_left;
 kernRight = E_right;
