@@ -45,11 +45,11 @@ width = 1200;
 layerId = m005;
 shapes = (
 {
-pos = (85,656);
+pos = (116,656);
 ref = period;
 }
 );
-width = 1200;
+width = 625;
 },
 {
 layerId = m007;
