@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Scedilla;
 kernLeft = S_left;
 kernRight = S_right;

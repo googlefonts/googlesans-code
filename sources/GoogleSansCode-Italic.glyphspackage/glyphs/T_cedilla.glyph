@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Tcedilla;
 kernLeft = T_left;
 kernRight = T_right;

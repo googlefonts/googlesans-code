@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Atilde;
 kernLeft = A_left;
 kernRight = A_right;

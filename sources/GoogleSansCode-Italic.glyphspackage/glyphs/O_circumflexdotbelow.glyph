@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Ocircumflexdotbelow;
 kernLeft = O_left;
 kernRight = O_right;
