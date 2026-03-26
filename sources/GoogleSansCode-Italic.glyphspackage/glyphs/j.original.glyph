@@ -276,6 +276,12 @@ ref = i.original;
 }
 );
 };
+guides = (
+{
+angle = 80.0006;
+pos = (592,475);
+}
+);
 layerId = m005;
 shapes = (
 {
