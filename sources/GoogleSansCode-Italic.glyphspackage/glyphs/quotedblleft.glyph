@@ -9,13 +9,15 @@ layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
 shapes = (
 {
 alignment = -1;
-pos = (-253,0);
-ref = quoteleft;
+angle = 180;
+pos = (945,1152);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (230,0);
-ref = quoteleft;
+angle = 180;
+pos = (1428,1152);
+ref = comma;
 }
 );
 width = 1200;
@@ -25,13 +27,15 @@ layerId = m006;
 shapes = (
 {
 alignment = -1;
-pos = (-262,0);
-ref = quoteleft;
+angle = 180;
+pos = (955,1143);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (229,0);
-ref = quoteleft;
+angle = 180;
+pos = (1446,1143);
+ref = comma;
 }
 );
 width = 1200;
@@ -41,13 +45,15 @@ layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
 shapes = (
 {
 alignment = -1;
-pos = (-288,0);
-ref = quoteleft;
+angle = 180;
+pos = (922,1117);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (225,0);
-ref = quoteleft;
+angle = 180;
+pos = (1435,1117);
+ref = comma;
 }
 );
 width = 1200;
@@ -57,13 +63,15 @@ layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
 shapes = (
 {
 alignment = -1;
-pos = (-297,0);
-ref = quoteleft;
+angle = 180;
+pos = (913,1108);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (223,0);
-ref = quoteleft;
+angle = 180;
+pos = (1433,1108);
+ref = comma;
 }
 );
 width = 1200;
@@ -73,28 +81,33 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = quoteleft;
+angle = 180;
+pos = (641,1152);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (483,0);
-ref = quoteleft;
+angle = 180;
+pos = (1124,1152);
+ref = comma;
 }
 );
-width = 1216;
+width = 1106;
 },
 {
 layerId = m007;
 shapes = (
 {
 alignment = -1;
-pos = (-262,0);
-ref = quoteleft;
+angle = 180;
+pos = (955,1143);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (229,0);
-ref = quoteleft;
+angle = 180;
+pos = (1446,1143);
+ref = comma;
 }
 );
 width = 1200;
@@ -104,13 +117,15 @@ layerId = m008;
 shapes = (
 {
 alignment = -1;
-pos = (-288,0);
-ref = quoteleft;
+angle = 180;
+pos = (922,1117);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (225,0);
-ref = quoteleft;
+angle = 180;
+pos = (1435,1117);
+ref = comma;
 }
 );
 width = 1200;
@@ -120,13 +135,15 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-297,0);
-ref = quoteleft;
+angle = 180;
+pos = (913,1108);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (223,0);
-ref = quoteleft;
+angle = 180;
+pos = (1433,1108);
+ref = comma;
 }
 );
 width = 1200;

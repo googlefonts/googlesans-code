@@ -1,6 +1,6 @@
 {
 color = 4;
-glyphname = g.001;
+glyphname = g.original;
 kernLeft = g_left;
 kernRight = g_right;
 layers = (
@@ -689,7 +689,7 @@ pos = (704,1045);
 );
 shapes = (
 {
-ref = g.001;
+ref = g.original;
 },
 {
 pos = (612,0);

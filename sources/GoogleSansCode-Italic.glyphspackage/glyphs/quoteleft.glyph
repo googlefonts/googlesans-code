@@ -10,8 +10,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1427,2332);
-ref = quoteright;
+pos = (1217,1143);
+ref = comma;
 }
 );
 width = 1200;
@@ -22,8 +22,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1406,2223);
-ref = quoteright;
+pos = (1210,1117);
+ref = comma;
 }
 );
 width = 1200;
@@ -34,8 +34,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1413,2369);
-ref = quoteright;
+pos = (1198,1152);
+ref = comma;
 }
 );
 width = 1200;
@@ -46,8 +46,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1400,2186);
-ref = quoteright;
+pos = (1210,1108);
+ref = comma;
 }
 );
 width = 1200;
@@ -58,11 +58,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (966,2369);
-ref = quoteright;
+pos = (611,1152);
+ref = comma;
 }
 );
-width = 733;
+width = 603;
 },
 {
 layerId = m007;
@@ -70,8 +70,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1427,2332);
-ref = quoteright;
+pos = (1217,1143);
+ref = comma;
 }
 );
 width = 1200;
@@ -82,8 +82,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1406,2223);
-ref = quoteright;
+pos = (1210,1117);
+ref = comma;
 }
 );
 width = 1200;
@@ -94,8 +94,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1400,2186);
-ref = quoteright;
+pos = (1210,1108);
+ref = comma;
 }
 );
 width = 1200;

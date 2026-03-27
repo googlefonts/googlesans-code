@@ -2,7 +2,7 @@
 color = 7;
 glyphname = j;
 kernLeft = j_left;
-kernRight = i_right;
+kernRight = j_right;
 layers = (
 {
 layerId = m006;
@@ -294,7 +294,7 @@ nodes = (
 );
 }
 );
-width = 725;
+width = 705;
 },
 {
 layerId = m007;

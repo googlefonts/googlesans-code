@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 4;
 glyphname = Germandbls;
 kernLeft = Germandbls_left;
 kernRight = Germandbls_right;
@@ -979,7 +979,7 @@ nodes = (
 );
 }
 );
-width = 1283;
+width = 1273;
 },
 {
 background = {

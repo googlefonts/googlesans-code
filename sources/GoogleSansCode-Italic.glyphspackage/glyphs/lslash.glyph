@@ -315,7 +315,7 @@ pos = (75,0);
 ref = l;
 }
 );
-width = 785;
+width = 825;
 },
 {
 layerId = m007;

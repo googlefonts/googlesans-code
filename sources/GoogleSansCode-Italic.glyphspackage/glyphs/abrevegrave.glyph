@@ -72,7 +72,7 @@ pos = (608,60);
 ref = brevecomb_gravecomb;
 }
 );
-width = 1212;
+width = 1192;
 },
 {
 layerId = m007;

@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 4;
 glyphname = schwa;
 kernLeft = schwa_left;
 kernRight = o_right;
