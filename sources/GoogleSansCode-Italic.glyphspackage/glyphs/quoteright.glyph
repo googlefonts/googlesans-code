@@ -53,11 +53,11 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-pos = (215,1217);
+pos = (225,1217);
 ref = comma;
 }
 );
-width = 733;
+width = 603;
 },
 {
 layerId = m007;

@@ -1,7 +1,7 @@
 {
 glyphname = divide;
-kernLeft = plus_left;
-kernRight = plus_right;
+kernLeft = hyphen_left;
+kernRight = hyphen_right;
 layers = (
 {
 background = {

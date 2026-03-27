@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 4;
 glyphname = dcaron;
 kernLeft = o_left;
 kernRight = dcaron_right;
@@ -462,7 +462,7 @@ nodes = (
 );
 }
 );
-width = 1251;
+width = 1301;
 },
 {
 associatedMasterId = m005;

@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 4;
 glyphname = aogonek;
 kernLeft = o_left;
 kernRight = aogonek_right;
@@ -67,7 +67,7 @@ pos = (977,4);
 ref = ogonekcomb;
 }
 );
-width = 1212;
+width = 1192;
 },
 {
 layerId = m007;

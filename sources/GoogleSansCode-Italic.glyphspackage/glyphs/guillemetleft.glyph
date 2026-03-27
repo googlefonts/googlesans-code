@@ -220,7 +220,7 @@ nodes = (
 );
 }
 );
-width = 1202;
+width = 1192;
 },
 {
 layerId = m007;

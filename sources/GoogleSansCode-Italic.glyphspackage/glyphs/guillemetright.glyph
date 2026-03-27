@@ -53,11 +53,11 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (1206,1064);
+pos = (1196,1064);
 ref = guillemetleft;
 }
 );
-width = 1202;
+width = 1192;
 },
 {
 layerId = m007;

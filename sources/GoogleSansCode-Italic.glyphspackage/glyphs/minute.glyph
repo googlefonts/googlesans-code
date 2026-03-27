@@ -2,7 +2,7 @@
 color = 4;
 glyphname = minute;
 kernLeft = minute_left;
-kernRight = minute_rigjt;
+kernRight = minute_right;
 layers = (
 {
 background = {

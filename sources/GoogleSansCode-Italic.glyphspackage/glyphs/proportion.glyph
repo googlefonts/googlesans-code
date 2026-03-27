@@ -1,5 +1,7 @@
 {
 glyphname = proportion;
+kernLeft = colon_left;
+kernRight = colon_right;
 layers = (
 {
 background = {

@@ -1,5 +1,7 @@
 {
 glyphname = ellipsis;
+kernLeft = period_left;
+kernRight = period_right;
 layers = (
 {
 layerId = m006;

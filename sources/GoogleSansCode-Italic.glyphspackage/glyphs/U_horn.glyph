@@ -436,7 +436,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1220;
 },
 {
 anchors = (

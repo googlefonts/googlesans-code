@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 4;
 glyphname = dcroat;
 kernLeft = o_left;
 kernRight = dcroat_right;
@@ -394,7 +394,7 @@ nodes = (
 );
 }
 );
-width = 1223;
+width = 1243;
 },
 {
 layerId = m007;

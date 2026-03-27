@@ -67,7 +67,7 @@ pos = (570,0);
 ref = gravecomb;
 }
 );
-width = 1212;
+width = 1192;
 },
 {
 layerId = m007;

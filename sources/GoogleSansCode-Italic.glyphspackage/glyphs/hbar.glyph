@@ -2,7 +2,7 @@
 color = 4;
 glyphname = hbar;
 kernLeft = hbar_left;
-kernRight = h_right;
+kernRight = n_right;
 layers = (
 {
 background = {

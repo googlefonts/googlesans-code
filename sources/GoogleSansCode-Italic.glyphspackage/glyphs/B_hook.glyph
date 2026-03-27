@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 5;
 glyphname = Bhook;
 kernLeft = Bhook_left;
 kernRight = B_right;
