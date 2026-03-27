@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = guillemetright;
 kernLeft = guilsinglright_left;
 kernRight = guilsinglright_right;
@@ -52,11 +53,11 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (1336,1064);
+pos = (1206,1064);
 ref = guillemetleft;
 }
 );
-width = 1332;
+width = 1202;
 },
 {
 layerId = m007;

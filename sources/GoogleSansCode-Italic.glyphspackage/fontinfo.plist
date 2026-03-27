@@ -2626,7 +2626,7 @@ m005 = {
 };
 "@MMK_L_E_right" = {
 "@MMK_R_J_left" = -50;
-"@MMK_R_O_left" = -40;
+"@MMK_R_O_left" = -49;
 "@MMK_R_S_left" = -20;
 "@MMK_R_ampersand_left" = -10;
 "@MMK_R_asterisk_left" = -40;

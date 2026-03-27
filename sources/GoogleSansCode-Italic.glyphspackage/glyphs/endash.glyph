@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = endash;
 kernLeft = hyphen_left;
 kernRight = hyphen_right;
@@ -69,14 +70,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1085,553,l),
-(1111,699,l),
-(151,699,l),
-(125,553,l)
+(1125,553,l),
+(1151,699,l),
+(191,699,l),
+(165,553,l)
 );
 }
 );
-width = 1200;
+width = 1280;
 },
 {
 layerId = m007;

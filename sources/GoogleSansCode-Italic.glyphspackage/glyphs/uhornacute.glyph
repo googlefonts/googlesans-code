@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = uhornacute;
 kernLeft = u_left;
 kernRight = uhorn_right;
@@ -258,7 +259,7 @@ pos = (524,16);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1199;
 },
 {
 associatedMasterId = m005;

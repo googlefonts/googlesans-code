@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = uhorndotbelow;
 kernLeft = u_left;
 kernRight = uhorn_right;
@@ -62,11 +63,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (505,-30);
+pos = (509,-30);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
+width = 1199;
 },
 {
 layerId = m007;

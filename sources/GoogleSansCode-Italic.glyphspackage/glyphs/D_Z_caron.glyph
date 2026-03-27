@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 8;
 glyphname = DZcaron;
 kernLeft = H_left;
 kernRight = Z_right;

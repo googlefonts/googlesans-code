@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = ohornhookabove;
 kernLeft = o_left;
 kernRight = ohorn_right;
@@ -66,7 +67,7 @@ pos = (520,16);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 1190;
 },
 {
 layerId = m007;

@@ -1,5 +1,8 @@
 {
+color = 4;
 glyphname = quotesinglbase;
+kernLeft = comma_left;
+kernRight = period_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";

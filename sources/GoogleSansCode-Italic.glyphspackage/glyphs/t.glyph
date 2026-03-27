@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 7;
 glyphname = t;
 kernLeft = t_left;
 kernRight = t_right;
@@ -394,7 +394,7 @@ width = 821;
 anchors = (
 {
 name = bottom;
-pos = (451,-30);
+pos = (431,-30);
 }
 );
 layerId = m005;

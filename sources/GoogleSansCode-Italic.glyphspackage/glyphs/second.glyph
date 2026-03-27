@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = second;
 kernLeft = minute_left;
 kernRight = minute_right;
@@ -63,15 +64,14 @@ width = 1200;
 layerId = m005;
 shapes = (
 {
-pos = (-157,0);
 ref = minute;
 },
 {
-pos = (233,0);
+pos = (390,0);
 ref = minute;
 }
 );
-width = 1200;
+width = 946;
 },
 {
 layerId = m007;
