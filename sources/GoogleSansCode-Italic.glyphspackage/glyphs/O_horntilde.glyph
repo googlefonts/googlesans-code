@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Ohorntilde;
 kernLeft = O_left;
 kernRight = Ohorn_right;
@@ -66,7 +67,7 @@ pos = (631,400);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 1313;
 },
 {
 layerId = m007;

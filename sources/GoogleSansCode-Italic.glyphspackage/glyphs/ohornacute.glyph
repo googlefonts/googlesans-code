@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = ohornacute;
 kernLeft = o_left;
 kernRight = ohorn_right;
@@ -94,7 +95,7 @@ pos = (541,16);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1190;
 },
 {
 background = {

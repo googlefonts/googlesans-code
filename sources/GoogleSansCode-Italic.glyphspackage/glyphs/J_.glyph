@@ -383,7 +383,7 @@ nodes = (
 );
 }
 );
-width = 1094;
+width = 1079;
 },
 {
 associatedMasterId = m005;

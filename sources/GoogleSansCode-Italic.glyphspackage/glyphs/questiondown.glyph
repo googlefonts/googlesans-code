@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = questiondown;
 kernLeft = questiondown_left;
 kernRight = questiondown_right;
@@ -52,11 +53,11 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (1200,1232);
+pos = (1115,1232);
 ref = question;
 }
 );
-width = 1200;
+width = 1082;
 },
 {
 layerId = m007;

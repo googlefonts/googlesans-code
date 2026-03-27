@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = Lcaron;
 kernLeft = H_left;
 kernRight = Lcaron_right;
@@ -323,7 +324,7 @@ nodes = (
 ref = L;
 }
 );
-width = 1200;
+width = 1130;
 },
 {
 associatedMasterId = m005;

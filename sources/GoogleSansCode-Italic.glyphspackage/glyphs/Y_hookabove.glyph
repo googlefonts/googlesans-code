@@ -68,7 +68,7 @@ ref = Y;
 },
 {
 alignment = -1;
-pos = (581,387);
+pos = (551,387);
 ref = hookabovecomb;
 }
 );

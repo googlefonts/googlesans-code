@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Ohorndotbelow;
 kernLeft = O_left;
 kernRight = Ohorn_right;
@@ -62,11 +63,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (470,-30);
+pos = (527,-30);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
+width = 1313;
 },
 {
 layerId = m007;

@@ -1,4 +1,5 @@
 {
+color = 2;
 glyphname = idotbelow;
 kernLeft = i_left;
 kernRight = i_right;
@@ -7,7 +8,7 @@ layers = (
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (647,0);
@@ -20,7 +21,7 @@ width = 1200;
 layerId = m006;
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (647,0);
@@ -33,7 +34,7 @@ width = 1200;
 layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (650,0);
@@ -46,7 +47,7 @@ width = 1200;
 layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (651,0);
@@ -59,20 +60,20 @@ width = 1200;
 layerId = m005;
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
-pos = (527,0);
+pos = (382,0);
 ref = dotbelowcomb;
 }
 );
-width = 977;
+width = 787;
 },
 {
 layerId = m007;
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (647,0);
@@ -85,7 +86,7 @@ width = 1200;
 layerId = m008;
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (650,0);
@@ -98,7 +99,7 @@ width = 1200;
 layerId = m009;
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (651,0);

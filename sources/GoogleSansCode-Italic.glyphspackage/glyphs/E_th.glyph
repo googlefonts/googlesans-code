@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = Eth;
 kernLeft = Dcroat_left;
 kernRight = O_right;
@@ -46,7 +47,7 @@ shapes = (
 ref = Dcroat;
 }
 );
-width = 1200;
+width = 1275;
 },
 {
 layerId = m007;

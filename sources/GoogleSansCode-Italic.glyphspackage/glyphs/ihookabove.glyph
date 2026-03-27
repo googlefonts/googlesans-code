@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = ihookabove;
 kernLeft = i_left;
 kernRight = iacute_right;
@@ -67,7 +68,7 @@ ref = idotless;
 },
 {
 alignment = -1;
-pos = (513,0);
+pos = (323,0);
 ref = hookabovecomb;
 }
 );

@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = uhorntilde;
 kernLeft = u_left;
 kernRight = uhorn_right;
@@ -226,7 +227,7 @@ pos = (521,16);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 1199;
 },
 {
 associatedMasterId = m005;
