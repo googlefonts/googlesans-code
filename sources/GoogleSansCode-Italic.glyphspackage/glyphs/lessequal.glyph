@@ -1,5 +1,7 @@
 {
 glyphname = lessequal;
+kernLeft = lessequal_left;
+kernRight = lessequal_right;
 layers = (
 {
 background = {

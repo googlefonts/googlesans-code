@@ -2,7 +2,7 @@
 color = 3;
 glyphname = oogonek;
 kernLeft = o_left;
-kernRight = oogonek_right;
+kernRight = o_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
