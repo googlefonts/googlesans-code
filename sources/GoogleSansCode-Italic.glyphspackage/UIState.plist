@@ -2,425 +2,459 @@
 displayStrings = (
 "
 __Punctuation:
-HHOHƳ!ƳHOOI
-HHOHƳ#ƳHOOI
+HHOHß!ßnnoi
+HHOHß#ßnnoi
 
 __Symbol:
-HHOHƳ$ƳHOOI
-HHOHƳ%ƳHOOI
-HHOHƳ&ƳHOOI
+HHOHß$ßnnoi
+HHOHß%ßnnoi
+HHOHß&ßnnoi
 
 __Punctuation:
-HHOHƳ'ƳHOOI
-HHOHƳ(ƳHOOI
-HHOHƳ)HOOI
-HHOHƳ*HOOI
+HHOHß'ßnnoi
+HHOHß(ßnnoi
+HHOHß)ßnnoi
+HHOHß*ßnnoi
 
 __Symbol:
-HHOHƳ+HOOI
+HHOHß+ßnnoi
 
 __Punctuation:
-HHOHƳ,HOOI
-HHOHƳ.HOOI
-HHOHƳ//ƳHOOI
+HHOHß,ßnnoi
+HHOHß.ßnnoi
+HHOHß//ßnnoi
 
 __Number:
-HHOHƳ0ƳHOOI
-HHOHƳ1ƳHOOI
-HHOHƳ2ƳHOOI
-HHOHƳ3ƳHOOI
-HHOHƳ4ƳHOOI
-HHOHƳ5ƳHOOI
-HHOHƳ6ƳHOOI
-HHOHƳ7ƳHOOI
-HHOHƳ8ƳHOOI
-HHOHƳ9ƳHOOI
+HHOHß0ßnnoi
+HHOHß1ßnnoi
+HHOHß2ßnnoi
+HHOHß3ßnnoi
+HHOHß4ßnnoi
+HHOHß5ßnnoi
+HHOHß6ßnnoi
+HHOHß7ßnnoi
+HHOHß8ßnnoi
+HHOHß9ßnnoi
 
 __Punctuation:
-HHOHƳ:ƳHOOI
+HHOHß:ßnnoi
 
 __Symbol:
-HHOHƳ<ƳHOOI
-HHOHƳ=ƳHOOI
-HHOHƳ>ƳHOOI
+HHOHß<ßnnoi
+HHOHß=ßnnoi
+HHOHß>ßnnoi
 
 __Punctuation:
-HHOHƳ?ƳHOOI
+HHOHß?ßnnoi
 
 __Symbol:
-HHOHƳ@ƳHOOI
+HHOHß@ßnnoi
 
 __Letter:
-HHOHƳAHOOI
-HHOHƳBHOOI
-HHOHƳDHOOI
-HHOHƳEƳHOOI
-HHOHƳFƳHOOI
-HHOHƳHƳHOOI
-HHOHƳIƳHOOI
-HHOHƳJƳHOOI
-HHOHƳKƳHOOI
-HHOHƳLHOOI
-HHOHƳPHOOI
-HHOHƳRHOOI
-HHOHƳSHOOI
-HHOHƳTƳHOOI
-HHOHƳUƳHOOI
-HHOHƳVƳHOOI
-HHOHƳWƳHOOI
-HHOHƳXƳHOOI
-HHOHƳYƳHOOI
-HHOHƳZƳHOOI
+HHOHßAßnnoi
+HHOHßBßnnoi
+HHOHßCßnnoi
+HHOHßDßnnoi
+HHOHßEßnnoi
+HHOHßFßnnoi
+HHOHßGßnnoi
+HHOHßHßnnoi
+HHOHßIßnnoi
+HHOHßJßnnoi
+HHOHßKßnnoi
+HHOHßLßnnoi
+HHOHßOßnnoi
+HHOHßPßnnoi
+HHOHßQßnnoi
+HHOHßRßnnoi
+HHOHßSßnnoi
+HHOHßTßnnoi
+HHOHßUßnnoi
+HHOHßVßnnoi
+HHOHßWßnnoi
+HHOHßXßnnoi
+HHOHßYßnnoi
+HHOHßZßnnoi
 
 __Punctuation:
-HHOHƳ[ƳHOOI
-HHOHƳ/backslash HOOI
-HHOHƳ]ƳHOOI
+HHOHß[ßnnoi
+HHOHß/backslash ßnnoi
+HHOHß]ßnnoi
 
 __Symbol:
-HHOHƳ^HOOI
+HHOHß^ßnnoi
 
 __Punctuation:
-HHOHƳ_HOOI
+HHOHß_ßnnoi
 
 __Letter:
-HHOHƳbHOOI
-HHOHƳfHOOI
-HHOHgƳHOOI
-HHOHƳhHOOI
-HHOHƳiHOOI
-HHOHƳjƳHOOI
-HHOHƳkHOOI
-HHOHƳpHOOI
-HHOHƳrHOOI
-HHOHƳsHOOI
-HHOHƳtHOOI
-HHOHƳuHOOI
-HHOHƳvHOOI
-HHOHƳwHOOI
-HHOHƳxHOOI
-HHOHƳyHOOI
+HHOHßaßnnoi
+HHOHßbßnnoi
+HHOHßcßnnoi
+HHOHßdßnnoi
+HHOHßeßnnoi
+HHOHßfßnnoi
+HHOHßgßnnoi
+HHOHßhßnnoi
+HHOHßißnnoi
+HHOHßjßnnoi
+HHOHßkßnnoi
+HHOHßlßnnoi
+HHOHßmßnnoi
+HHOHßoßnnoi
+HHOHßpßnnoi
+HHOHßqßnnoi
+HHOHßrßnnoi
+HHOHßsßnnoi
+HHOHßtßnnoi
+HHOHßußnnoi
+HHOHßvßnnoi
+HHOHßwßnnoi
+HHOHßxßnnoi
+HHOHßyßnnoi
+HHOHßzßnnoi
 
 __Punctuation:
-HHOHƳ{ƳHOOI
+HHOHß{ßnnoi
 
 __Symbol:
-HHOHƳ|ƳHOOI
+HHOHß|ßnnoi
 
 __Punctuation:
-HHOHƳ}HOOI
+HHOHß}ßnnoi
 
 __Symbol:
-HHOHƳ~ƳHOOI
-HHOHƳ©ƳHOOI
-HHOH™ƳHOOI
-HHOHƳ±ƳHOOI
-HHOHƳ×ƳHOOI
-HHOHƳ∕ƳHOOI
+HHOHß~ßnnoi
+HHOHß©ßnnoi
+HHOHß™ßnnoi
+HHOHß±ßnnoi
+HHOHß×ßnnoi
+HHOHß∕ßnnoi
 
 __Punctuation:
-HHOHƳ‘ƳHOOI
-HHOHƳ’ƳHOOI
+HHOHß‘ßnnoi
+HHOHß’ßnnoi
 
 __Symbol:
-HHOHƳ≤ƳHOOI
-HHOHƳ≥ƳHOOI
+HHOHß≤ßnnoi
+HHOHß≥ßnnoi
 
 __Letter:
-HHOH/g.ss01 ƳHOOI
-HHOHÆƳHOOI
-HHOHƳĐHOOI
-HHOHƳǄƳHOOI
-HHOHƳǅHOOI
-HHOHĦƳHOOI
-HHOHƳĲƳHOOI
-HHOHƳǇƳHOOI
-HHOHƳǈƳHOOI
-HHOHØƳHOOI
-HHOHŒƳHOOI
-HHOHƠƳHOOI
-HHOHƳẞHOOI
-HHOHƳÞHOOI
-HHOHƳƯƳHOOI
-HHOHƳƳƳHOOI
-HHOHƳæHOOI
-HHOHƳɓƳHOOI
-HHOHďƳHOOI
-HHOHđƳHOOI
-HHOHɗƳHOOI
-HHOHðƳHOOI
-HHOHŋƳHOOI
-HHOHƳħHOOI
-HHOHƳĳƳHOOI
-HHOHƳƙHOOI
-HHOHľƳHOOI
-HHOHƳłƳHOOI
-HHOHǉƳHOOI
-HHOHƳŉHOOI
-HHOHǌƳHOOI
-HHOHƳøƳHOOI
-HHOHơƳHOOI
-HHOHƳßƳHOOI
-HHOHƳſƳHOOI
-HHOHƳəHOOI
-HHOHƳþHOOI
-HHOHƳưƳHOOI
-HHOHƳƴƳHOOI
+HHOHß/g.ss01 ßnnoi
+HHOHßÆßnnoi
+HHOHßƁßnnoi
+HHOHßĐßnnoi
+HHOHßƊßnnoi
+HHOHßǄßnnoi
+HHOHßǅßnnoi
+HHOHßĦßnnoi
+HHOHßĲßnnoi
+HHOHßŁßnnoi
+HHOHßǇßnnoi
+HHOHßǈßnnoi
+HHOHßØßnnoi
+HHOHßŒßnnoi
+HHOHßƠßnnoi
+HHOHßẞßnnoi
+HHOHßÞßnnoi
+HHOHßƯßnnoi
+HHOHßƳßnnoi
+HHOHßæßnnoi
+HHOHßɓßnnoi
+HHOHßďßnnoi
+HHOHßđßnnoi
+HHOHßɗßnnoi
+HHOHßǆßnnoi
+HHOHßðßnnoi
+HHOHßħßnnoi
+HHOHßĳßnnoi
+HHOHßƙßnnoi
+HHOHßĸßnnoi
+HHOHßľßnnoi
+HHOHßłßnnoi
+HHOHßǉßnnoi
+HHOHßŉßnnoi
+HHOHßǌßnnoi
+HHOHßøßnnoi
+HHOHßơßnnoi
+HHOHßßßnnoi
+HHOHßſßnnoi
+HHOHßəßnnoi
+HHOHßþßnnoi
+HHOHßưßnnoi
+HHOHßƴßnnoi
 
 __Punctuation:
-HHOHƳ·ƳHOOI
-HHOHƳ¡ƳHOOI
-HHOHƳ¿ƳHOOI
+HHOHß·ßnnoi
+HHOHß¡ßnnoi
+HHOHß¿ßnnoi
 
 __Symbol:
-HHOHƳ₫ƳHOOI
+HHOHß₫ßnnoi
 
 __Letter:
-HHOHƳ/Ohorn.alt ƳHOOI
+HHOHß/Ohorn.alt ßnnoi
 
 __Number:
-HHOHƳ¹ƳHOOI
-HHOHƳ³ƳHOOI
-HHOHƳ⁴ƳHOOI
-HHOHƳ½ƳHOOI
-HHOHƳ¼ƳHOOI
-HHOHƳ¾ƳHOOI
+HHOHß¹ßnnoi
+HHOHß³ßnnoi
+HHOHß⁴ßnnoi
+HHOHß½ßnnoi
+HHOHß¼ßnnoi
+HHOHß¾ßnnoi
 
 __Symbol:
-HHOHƳ€ƳHOOI
-HHOHƳ£ƳHOOI
-HHOHƳ¥ƳHOOI
-HHOHƳ¤ƳHOOI
+HHOHß€ßnnoi
+HHOHß£ßnnoi
+HHOHß¥ßnnoi
+HHOHß¤ßnnoi
 
 __Punctuation:
-HHOHƳ•ƳHOOI
-HHOHƳ«ƳHOOI
-HHOHƳ»ƳHOOI
+HHOHß•ßnnoi
+HHOHß«ßnnoi
+HHOHß»ßnnoi
 
 __Symbol:
-HHOHƳ¶ƳHOOI
-HHOHƳ§ƳHOOI
-HHOHƳ′ƳHOOI
-HHOHƳ°ƳHOOI
-HHOHƳ¬ƳHOOI
-HHOHƳµHOOI
-HHOHƳ⌥ƳHOOI
-HHOHƳ⌘ƳHOOI
-HHOHƳ�ƳHOOI
+HHOHß¶ßnnoi
+HHOHß§ßnnoi
+HHOHß′ßnnoi
+HHOHß°ßnnoi
+HHOHß¬ßnnoi
+HHOHßµßnnoi
+HHOHß⌥ßnnoi
+HHOHß⌘ßnnoi
+HHOHß�ßnnoi
 
 __Letter:
-HHOHƳ/j.ss02 HOOI
-HHOHƳ/l.ss02 ƳHOOI",
+HHOHß/j.ss02 ßnnoi
+HHOHß/l.ss02 ßnnoi",
 "
 __Punctuation:
-HHOHď!ďnnoi
-HHOHď#nnoi
+HHOHſ!ſnnoi
+HHOHſ#ſnnoi
 
 __Symbol:
-HHOHď$nnoi
-HHOHď%ďnnoi
-HHOHď&nnoi
+HHOHſ$ſnnoi
+HHOHſ%ſnnoi
+HHOHſ&ſnnoi
 
 __Punctuation:
-HHOHď'nnoi
-HHOHď(nnoi
-HHOHď)nnoi
-HHOHď*nnoi
+HHOHſ'ſnnoi
+HHOHſ(ſnnoi
+HHOHſ)ſnnoi
+HHOHſ*ſnnoi
 
 __Symbol:
-HHOHď+ďnnoi
+HHOHſ+ſnnoi
 
 __Punctuation:
-HHOHď,nnoi
-HHOHď.nnoi
-HHOHď//nnoi
+HHOHſ,ſnnoi
+HHOHſ.ſnnoi
+HHOHſ//ſnnoi
 
 __Number:
-HHOHď0ďnnoi
-HHOHď1nnoi
-HHOHď2nnoi
-HHOHď3nnoi
-HHOHď4ďnnoi
-HHOHď5ďnnoi
-HHOHď6ďnnoi
-HHOHď7nnoi
-HHOHď8ďnnoi
-HHOHď9ďnnoi
+HHOHſ0ſnnoi
+HHOHſ1ſnnoi
+HHOHſ2ſnnoi
+HHOHſ3ſnnoi
+HHOHſ4ſnnoi
+HHOHſ5ſnnoi
+HHOHſ6ſnnoi
+HHOHſ7ſnnoi
+HHOHſ8ſnnoi
+HHOHſ9ſnnoi
 
 __Punctuation:
-HHOHď:ďnnoi
+HHOHſ:ſnnoi
 
 __Symbol:
-HHOHď<nnoi
-HHOHď=ďnnoi
-HHOHď>ďnnoi
+HHOHſ<ſnnoi
+HHOHſ=ſnnoi
+HHOHſ>ſnnoi
 
 __Punctuation:
-HHOHď?nnoi
+HHOHſ?ſnnoi
 
 __Symbol:
-HHOHď@ďnnoi
+HHOHſ@ſnnoi
 
 __Letter:
-HHOHďAnnoi
-HHOHBďnnoi
-HHOHďCďnnoi
-HHOHďGďnnoi
-HHOHHďnnoi
-HHOHďInnoi
-HHOHďJďnnoi
-HHOHďOnnoi
-HHOHďQnnoi
-HHOHďSnnoi
-HHOHďTnnoi
-HHOHďUďnnoi
-HHOHďVnnoi
-HHOHďWnnoi
-HHOHďXnnoi
-HHOHďZnnoi
+HHOHſAſnnoi
+HHOHſBſnnoi
+HHOHſCſnnoi
+HHOHſDſnnoi
+HHOHſEſnnoi
+HHOHſFſnnoi
+HHOHſGſnnoi
+HHOHſHſnnoi
+HHOHſIſnnoi
+HHOHſJſnnoi
+HHOHſKſnnoi
+HHOHſLſnnoi
+HHOHſOſnnoi
+HHOHſPſnnoi
+HHOHſQſnnoi
+HHOHſRſnnoi
+HHOHſSſnnoi
+HHOHſTſnnoi
+HHOHſUſnnoi
+HHOHſVſnnoi
+HHOHſWſnnoi
+HHOHſXſnnoi
+HHOHſYſnnoi
+HHOHſZſnnoi
 
 __Punctuation:
-HHOHď[nnoi
-HHOHď/backslash nnoi
-HHOHď]ďnnoi
+HHOHſ[ſnnoi
+HHOHſ/backslash ſnnoi
+HHOHſ]ſnnoi
 
 __Symbol:
-HHOHď^ďnnoi
+HHOHſ^ſnnoi
 
 __Punctuation:
-HHOHď_nnoi
+HHOHſ_ſnnoi
 
 __Letter:
-HHOHďaďnnoi
-HHOHďbďnnoi
-HHOHďcnnoi
-HHOHďdnnoi
-HHOHďennoi
-HHOHďfnnoi
-HHOHďgnnoi
-HHOHďhnnoi
-HHOHďinnoi
-HHOHďjďnnoi
-HHOHďknnoi
-HHOHďmnnoi
-HHOHďoďnnoi
-HHOHďpďnnoi
-HHOHďqďnnoi
-HHOHďrnnoi
-HHOHďsďnnoi
-HHOHďtnnoi
-HHOHďuďnnoi
-HHOHďznnoi
+HHOHſaſnnoi
+HHOHſbſnnoi
+HHOHſcſnnoi
+HHOHſdſnnoi
+HHOHſeſnnoi
+HHOHſfſnnoi
+HHOHſgſnnoi
+HHOHſhſnnoi
+HHOHſiſnnoi
+HHOHſjſnnoi
+HHOHſkſnnoi
+HHOHſlſnnoi
+HHOHſmſnnoi
+HHOHſoſnnoi
+HHOHſpſnnoi
+HHOHſqſnnoi
+HHOHſrſnnoi
+HHOHſsſnnoi
+HHOHſtſnnoi
+HHOHſuſnnoi
+HHOHſvſnnoi
+HHOHſwſnnoi
+HHOHſxſnnoi
+HHOHſyſnnoi
+HHOHſzſnnoi
 
 __Punctuation:
-HHOHď{nnoi
+HHOHſ{ſnnoi
 
 __Symbol:
-HHOHď|ďnnoi
+HHOHſ|ſnnoi
 
 __Punctuation:
-HHOHď}ďnnoi
+HHOHſ}ſnnoi
 
 __Symbol:
-HHOHď~ďnnoi
-HHOHď©ďnnoi
-HHOH™ďnnoi
-HHOHď±ďnnoi
-HHOHď×nnoi
-HHOHď∕nnoi
+HHOHſ~ſnnoi
+HHOHſ©ſnnoi
+HHOHſ™ſnnoi
+HHOHſ±ſnnoi
+HHOHſ×ſnnoi
+HHOHſ∕ſnnoi
 
 __Punctuation:
-HHOHď‘nnoi
-HHOHď’nnoi
+HHOHſ‘ſnnoi
+HHOHſ’ſnnoi
 
 __Symbol:
-HHOHď≤nnoi
-HHOHď≥ďnnoi
+HHOHſ≤ſnnoi
+HHOHſ≥ſnnoi
 
 __Letter:
-HHOHď/g.ss01 nnoi
-HHOHďÆnnoi
-HHOHƁďnnoi
-HHOHďĐnnoi
-HHOHďĦďnnoi
-HHOHďĲďnnoi
-HHOHďŁnnoi
-HHOHǇďnnoi
-HHOHǈďnnoi
-HHOHďØďnnoi
-HHOHďŒnnoi
-HHOHďƠďnnoi
-HHOHďẞďnnoi
-HHOHÞďnnoi
-HHOHďƯnnoi
-HHOHďænnoi
-HHOHďɓďnnoi
-HHOHďďďnnoi
-HHOHďđnnoi
-HHOHďɗnnoi
-HHOHďǆnnoi
-HHOHďðnnoi
-HHOHďŋďnnoi
-HHOHďħnnoi
-HHOHďĳďnnoi
-HHOHďƙnnoi
-HHOHďĸnnoi
-HHOHľďnnoi
-HHOHďłďnnoi
-HHOHǉďnnoi
-HHOHďŉnnoi
-HHOHďǌďnnoi
-HHOHďøďnnoi
-HHOHďơďnnoi
-HHOHďßďnnoi
-HHOHďſnnoi
-HHOHďəďnnoi
-HHOHďþďnnoi
-HHOHďưďnnoi
+HHOHſ/g.ss01 ſnnoi
+HHOHſÆſnnoi
+HHOHſƁſnnoi
+HHOHſĐſnnoi
+HHOHſƊſnnoi
+HHOHſǄſnnoi
+HHOHſǅſnnoi
+HHOHſĦſnnoi
+HHOHſĲſnnoi
+HHOHſŁſnnoi
+HHOHſǇſnnoi
+HHOHſǈſnnoi
+HHOHſØſnnoi
+HHOHſŒſnnoi
+HHOHſƠſnnoi
+HHOHſẞſnnoi
+HHOHſÞſnnoi
+HHOHſƯſnnoi
+HHOHſƳſnnoi
+HHOHſæſnnoi
+HHOHſɓſnnoi
+HHOHſďſnnoi
+HHOHſđſnnoi
+HHOHſɗſnnoi
+HHOHſǆſnnoi
+HHOHſðſnnoi
+HHOHſħſnnoi
+HHOHſĳſnnoi
+HHOHſƙſnnoi
+HHOHſĸſnnoi
+HHOHſľſnnoi
+HHOHſłſnnoi
+HHOHſǉſnnoi
+HHOHſŉſnnoi
+HHOHſǌſnnoi
+HHOHſøſnnoi
+HHOHſơſnnoi
+HHOHſßſnnoi
+HHOHſſſnnoi
+HHOHſəſnnoi
+HHOHſþſnnoi
+HHOHſưſnnoi
+HHOHſƴſnnoi
 
 __Punctuation:
-HHOHď·ďnnoi
-HHOHď¡ďnnoi
-HHOHď¿nnoi
+HHOHſ·ſnnoi
+HHOHſ¡ſnnoi
+HHOHſ¿ſnnoi
 
 __Symbol:
-HHOHď₫nnoi
+HHOHſ₫ſnnoi
 
 __Letter:
-HHOHď/Ohorn.alt ďnnoi
+HHOHſ/Ohorn.alt ſnnoi
 
 __Number:
-HHOHď¹nnoi
-HHOHď³ďnnoi
-HHOHď⁴ďnnoi
-HHOHď½ďnnoi
-HHOHď¼ďnnoi
-HHOHď¾ďnnoi
+HHOHſ¹ſnnoi
+HHOHſ³ſnnoi
+HHOHſ⁴ſnnoi
+HHOHſ½ſnnoi
+HHOHſ¼ſnnoi
+HHOHſ¾ſnnoi
 
 __Symbol:
-HHOHď€nnoi
-HHOHď£nnoi
-HHOHď¥nnoi
-HHOHď¤ďnnoi
+HHOHſ€ſnnoi
+HHOHſ£ſnnoi
+HHOHſ¥ſnnoi
+HHOHſ¤ſnnoi
 
 __Punctuation:
-HHOHď•ďnnoi
-HHOHď«nnoi
-HHOHď»ďnnoi
+HHOHſ•ſnnoi
+HHOHſ«ſnnoi
+HHOHſ»ſnnoi
 
 __Symbol:
-HHOHď¶ďnnoi
-HHOHď§ďnnoi
-HHOHď′nnoi
-HHOHď°ďnnoi
-HHOHď¬ďnnoi
-HHOHďµďnnoi
-HHOHď⌥ďnnoi
-HHOHď⌘ďnnoi
-HHOHď�ďnnoi
+HHOHſ¶ſnnoi
+HHOHſ§ſnnoi
+HHOHſ′ſnnoi
+HHOHſ°ſnnoi
+HHOHſ¬ſnnoi
+HHOHſµſnnoi
+HHOHſ⌥ſnnoi
+HHOHſ⌘ſnnoi
+HHOHſ�ſnnoi
 
 __Letter:
-HHOHď/j.ss02 nnoi
-HHOHď/l.ss02 ďnnoi"
+HHOHſ/j.ss02 ſnnoi
+HHOHſ/l.ss02 ſnnoi"
 );
 }
