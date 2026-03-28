@@ -2,7 +2,7 @@
 color = 3;
 glyphname = iogonek;
 kernLeft = i_left;
-kernRight = iogonek_right;
+kernRight = i_right;
 layers = (
 {
 background = {
@@ -15,7 +15,7 @@ ref = i.original;
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (804,0);
@@ -28,7 +28,7 @@ width = 1200;
 layerId = m006;
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (814,3);
@@ -41,7 +41,7 @@ width = 1200;
 layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (854,11);
@@ -54,7 +54,7 @@ width = 1200;
 layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (884,14);
@@ -87,7 +87,7 @@ width = 787;
 layerId = m007;
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (814,3);
@@ -100,7 +100,7 @@ width = 1200;
 layerId = m008;
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (854,11);
@@ -113,7 +113,7 @@ width = 1200;
 layerId = m009;
 shapes = (
 {
-ref = i.original;
+ref = i;
 },
 {
 pos = (884,14);
