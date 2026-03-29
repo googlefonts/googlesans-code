@@ -76,7 +76,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (861,385);
+pos = (858,385);
 ref = acutecomb;
 }
 );
@@ -89,7 +89,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (875,380);
+pos = (862,380);
 ref = acutecomb;
 }
 );
