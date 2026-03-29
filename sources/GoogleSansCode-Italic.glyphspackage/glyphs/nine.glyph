@@ -92,13 +92,13 @@ width = 1200;
 layerId = m009;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 angle = 180;
-pos = (1267,1432);
+pos = (1305,1432);
 ref = six;
 }
 );
-width = 1200;
+width = 1228;
 }
 );
 unicode = 57;
