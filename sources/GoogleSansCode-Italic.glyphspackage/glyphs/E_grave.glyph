@@ -76,11 +76,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (658,385);
+pos = (680,385);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1153;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (657,380);
+pos = (693,380);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1209;
 },
 {
 layerId = m009;
@@ -102,11 +102,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (656,378);
+pos = (696,378);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1226;
 }
 );
 unicode = 200;

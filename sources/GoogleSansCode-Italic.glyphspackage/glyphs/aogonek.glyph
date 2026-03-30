@@ -76,11 +76,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (953,7);
+pos = (983,7);
 ref = ogonekcomb;
 }
 );
-width = 1200;
+width = 1202;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (961,16);
+pos = (1000,16);
 ref = ogonekcomb;
 }
 );
-width = 1200;
+width = 1232;
 },
 {
 layerId = m009;
@@ -102,11 +102,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (963,19);
+pos = (1005,19);
 ref = ogonekcomb;
 }
 );
-width = 1200;
+width = 1242;
 }
 );
 unicode = 261;

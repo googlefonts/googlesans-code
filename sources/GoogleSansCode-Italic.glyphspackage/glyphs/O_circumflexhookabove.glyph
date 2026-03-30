@@ -76,11 +76,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (658,385);
+pos = (719,385);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1200;
+width = 1321;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (657,380);
+pos = (730,380);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1200;
+width = 1346;
 },
 {
 layerId = m009;
@@ -102,11 +102,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (647,378);
+pos = (724,378);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1200;
+width = 1354;
 }
 );
 unicode = 7892;

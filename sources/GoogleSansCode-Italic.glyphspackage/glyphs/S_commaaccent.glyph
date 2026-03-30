@@ -76,11 +76,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (650,0);
+pos = (644,0);
 ref = commaaccentcomb;
 }
 );
-width = 1200;
+width = 1203;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (664,0);
+pos = (677,0);
 ref = commaaccentcomb;
 }
 );
-width = 1200;
+width = 1229;
 },
 {
 layerId = m009;
@@ -102,11 +102,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (657,0);
+pos = (674,0);
 ref = commaaccentcomb;
 }
 );
-width = 1200;
+width = 1237;
 }
 );
 unicode = 536;

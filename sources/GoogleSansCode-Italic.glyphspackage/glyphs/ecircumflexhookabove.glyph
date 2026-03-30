@@ -86,7 +86,7 @@ pos = (623,67);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1200;
+width = 1120;
 },
 {
 layerId = m008;
@@ -100,7 +100,7 @@ pos = (627,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1200;
+width = 1145;
 },
 {
 layerId = m009;
@@ -114,7 +114,7 @@ pos = (628,54);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1200;
+width = 1153;
 }
 );
 unicode = 7875;

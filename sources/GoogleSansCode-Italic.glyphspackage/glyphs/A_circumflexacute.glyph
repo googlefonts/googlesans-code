@@ -76,11 +76,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (652,385);
+pos = (650,385);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 1188;
+width = 1185;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (670,380);
+pos = (663,380);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 1224;
+width = 1210;
 },
 {
 layerId = m009;
@@ -102,11 +102,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (676,378);
+pos = (667,378);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 1236;
+width = 1218;
 }
 );
 unicode = 7844;

@@ -86,7 +86,7 @@ pos = (600,67);
 ref = circumflexcomb_tildecomb;
 }
 );
-width = 1200;
+width = 1202;
 },
 {
 layerId = m008;
@@ -100,7 +100,7 @@ pos = (610,57);
 ref = circumflexcomb_tildecomb;
 }
 );
-width = 1200;
+width = 1232;
 },
 {
 layerId = m009;
@@ -114,7 +114,7 @@ pos = (613,54);
 ref = circumflexcomb_tildecomb;
 }
 );
-width = 1200;
+width = 1242;
 }
 );
 unicode = 7851;

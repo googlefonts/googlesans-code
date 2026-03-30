@@ -76,14 +76,27 @@ shapes = (
 ref = I;
 },
 {
-pos = (475,0);
+pos = (449,0);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
+width = 1148;
 },
 {
 layerId = m008;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (458,0);
+ref = dotbelowcomb;
+}
+);
+width = 1174;
+},
+{
+layerId = m009;
 shapes = (
 {
 ref = I;
@@ -93,20 +106,7 @@ pos = (471,0);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
-},
-{
-layerId = m009;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (480,0);
-ref = dotbelowcomb;
-}
-);
-width = 1200;
+width = 1182;
 }
 );
 unicode = 7882;
