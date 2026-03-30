@@ -102,11 +102,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (517,0);
+pos = (486,0);
 ref = cedillacomb;
 }
 );
-width = 1200;
+width = 1149;
 }
 );
 unicode = 231;

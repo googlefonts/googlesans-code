@@ -1050,6 +1050,7 @@ ref = o;
 }
 );
 };
+color = 8;
 layerId = m009;
 shapes = (
 {

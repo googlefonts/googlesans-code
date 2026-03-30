@@ -1662,6 +1662,7 @@ GSSlanterCursivyThicknessFactor = 1;
 GSSlanterGeometric = 0;
 GSSlanterRotate = 10;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -13900,7 +13901,6 @@ itilde = 0;
 "@MMK_R_v_left" = 0;
 "@MMK_R_w_left" = 0;
 "@MMK_R_x_left" = 0;
-"@MMK_R_y_left" = 0;
 "@MMK_R_z_left" = 0;
 "@MMK_R_zero_left" = 0;
 };
