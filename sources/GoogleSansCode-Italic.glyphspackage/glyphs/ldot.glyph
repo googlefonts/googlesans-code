@@ -107,7 +107,7 @@ pos = (512,-80);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 1056;
 }
 );
 unicode = 320;
