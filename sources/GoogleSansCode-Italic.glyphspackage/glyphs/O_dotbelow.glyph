@@ -67,7 +67,7 @@ pos = (527,-30);
 ref = dotbelowcomb;
 }
 );
-width = 1312;
+width = 1313;
 },
 {
 layerId = m007;
@@ -102,11 +102,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (483,-35);
+pos = (527,-35);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
+width = 1288;
 }
 );
 unicode = 7884;
