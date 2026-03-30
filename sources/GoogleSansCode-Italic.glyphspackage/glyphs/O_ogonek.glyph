@@ -67,7 +67,7 @@ pos = (741,31);
 ref = ogonekcomb;
 }
 );
-width = 1312;
+width = 1313;
 },
 {
 layerId = m007;
@@ -102,11 +102,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (691,45);
+pos = (735,45);
 ref = ogonekcomb;
 }
 );
-width = 1200;
+width = 1288;
 }
 );
 unicode = 490;

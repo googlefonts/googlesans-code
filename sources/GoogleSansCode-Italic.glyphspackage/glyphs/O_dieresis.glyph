@@ -67,7 +67,7 @@ pos = (705,387);
 ref = dieresiscomb;
 }
 );
-width = 1312;
+width = 1313;
 },
 {
 layerId = m007;
@@ -102,11 +102,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (647,378);
+pos = (691,378);
 ref = dieresiscomb;
 }
 );
-width = 1200;
+width = 1288;
 }
 );
 unicode = 214;
