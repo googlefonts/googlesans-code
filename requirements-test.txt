@@ -280,7 +280,7 @@ pygit2==1.19.1
     # via gftools
 pygithub==2.8.1
     # via gftools
-pygments==2.19.2
+pygments==2.20.0
     # via rich
 pyjwt[crypto]==2.10.1
     # via pygithub
