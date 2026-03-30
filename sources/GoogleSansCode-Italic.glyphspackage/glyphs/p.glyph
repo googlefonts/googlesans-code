@@ -999,6 +999,7 @@ nodes = (
 width = 1200;
 },
 {
+color = 8;
 layerId = m009;
 shapes = (
 {
@@ -1046,7 +1047,7 @@ nodes = (
 );
 }
 );
-width = 1208;
+width = 1198;
 },
 {
 associatedMasterId = m009;

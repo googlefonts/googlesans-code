@@ -102,11 +102,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (578,0);
+pos = (538,0);
 ref = caroncomb;
 }
 );
-width = 1140;
+width = 1090;
 }
 );
 unicode = 345;
