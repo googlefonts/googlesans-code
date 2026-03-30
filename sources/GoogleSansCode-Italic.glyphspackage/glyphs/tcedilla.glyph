@@ -238,7 +238,7 @@ pos = (552,0);
 ref = cedillacomb;
 }
 );
-width = 1200;
+width = 1110;
 },
 {
 layerId = m009;
@@ -252,7 +252,7 @@ pos = (551,0);
 ref = cedillacomb;
 }
 );
-width = 1200;
+width = 1080;
 }
 );
 unicode = 355;

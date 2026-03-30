@@ -24,7 +24,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (717,-31);
+pos = (546,-31);
 ref = commaaccentcomb;
 }
 );
@@ -144,11 +144,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (714,-34);
+pos = (654,-34);
 ref = commaaccentcomb;
 }
 );
-width = 1200;
+width = 1092;
 },
 {
 background = {
