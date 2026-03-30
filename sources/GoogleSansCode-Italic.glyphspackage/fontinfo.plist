@@ -1754,6 +1754,10 @@ pos = (0,1492);
 locked = 1;
 name = "Base of Tittle";
 pos = (0,1278);
+},
+{
+locked = 1;
+pos = (647,900);
 }
 );
 iconName = Light;
@@ -1865,6 +1869,9 @@ pos = (0,1492);
 locked = 1;
 name = "Base of Tittle";
 pos = (0,1246);
+},
+{
+pos = (598,826);
 }
 );
 iconName = Light;
