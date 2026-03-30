@@ -1045,26 +1045,6 @@ value = "Alternate Single-storey Lowercase G";
 tag = ss01;
 },
 {
-code = "lookup ss02_first{
-    sub [i l]' [g b h k] by [i.ss02 l.ss02];
-    sub [q g bracketleft parenleft Q] j' by j.ss02;
-    sub [q bracketleft parenleft] y' by y.ss02;
-    sub [k i i.ss02 l A K] g' by g.ss02;
-}ss02_first;
-
-lookup ss02_second{
-    sub [q g g.ss02 k] f' by f.ss02;
-}ss02_second;
-";
-labels = (
-{
-language = dflt;
-value = "";
-}
-);
-tag = ss02;
-},
-{
 automatic = 1;
 code = "sub one by onesuperior;
 sub two by twosuperior;
@@ -1087,22 +1067,6 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 ";
 tag = ordn;
-},
-{
-code = "lookup ss03_first{
-    sub [i l] by [i.ss02 l.ss02];
-    sub j by j.ss02;
-    sub y by y.ss02;
-    sub g by g.ss02;
-    sub f by f.ss02;
-}ss03_first;";
-labels = (
-{
-language = dflt;
-value = "";
-}
-);
-tag = ss03;
 }
 );
 fontMaster = (
