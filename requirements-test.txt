@@ -416,7 +416,7 @@ unicodedata2==15.1.0
     #   glyphsets
 unidecode==1.4.0
     # via gftools
-urllib3[socks]==2.6.2
+urllib3[socks]==2.6.3
     # via
     #   pygithub
     #   requests
