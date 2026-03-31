@@ -148,6 +148,5 @@ nodes = (
 width = 1200;
 }
 );
-metricWidth = space;
 unicode = 96;
 }

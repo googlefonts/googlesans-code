@@ -187,6 +187,7 @@ nodes = (
 width = 1200;
 },
 {
+color = 8;
 layerId = m009;
 shapes = (
 {
@@ -210,7 +211,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1122;
 }
 );
 unicode = 70;

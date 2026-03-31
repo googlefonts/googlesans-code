@@ -102,11 +102,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (676,378);
+pos = (666,378);
 ref = brevecomb;
 }
 );
-width = 1236;
+width = 1216;
 }
 );
 unicode = 258;
