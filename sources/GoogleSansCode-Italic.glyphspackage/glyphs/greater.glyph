@@ -419,25 +419,25 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1248,1323);
+pos = (1188,1323);
 ref = less;
 }
 );
 };
 guides = (
 {
-pos = (114,9);
+pos = (54,9);
 }
 );
 layerId = m009;
 shapes = (
 {
 angle = 180;
-pos = (1242,1290);
+pos = (1182,1290);
 ref = less;
 }
 );
-width = 1200;
+width = 1140;
 },
 {
 associatedMasterId = m009;

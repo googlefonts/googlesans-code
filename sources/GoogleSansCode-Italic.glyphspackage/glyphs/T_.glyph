@@ -253,7 +253,6 @@ name = top;
 pos = (762,1432);
 }
 );
-color = 8;
 layerId = m009;
 shapes = (
 {

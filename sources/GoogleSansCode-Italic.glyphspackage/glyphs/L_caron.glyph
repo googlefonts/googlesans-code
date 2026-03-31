@@ -488,7 +488,7 @@ nodes = (
 ref = L;
 }
 );
-width = 1200;
+width = 1162;
 },
 {
 associatedMasterId = m009;

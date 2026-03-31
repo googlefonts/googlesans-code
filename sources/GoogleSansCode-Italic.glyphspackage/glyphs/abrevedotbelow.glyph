@@ -102,11 +102,11 @@ shapes = (
 ref = adotbelow;
 },
 {
-pos = (586,0);
+pos = (606,0);
 ref = brevecomb;
 }
 );
-width = 1184;
+width = 1204;
 }
 );
 unicode = 7863;

@@ -346,7 +346,7 @@ pos = (503,30);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 1177;
 },
 {
 associatedMasterId = m009;

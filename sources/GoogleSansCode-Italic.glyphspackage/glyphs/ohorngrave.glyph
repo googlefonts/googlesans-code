@@ -106,7 +106,7 @@ pos = (600,20);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1219;
 }
 );
 unicode = 7901;

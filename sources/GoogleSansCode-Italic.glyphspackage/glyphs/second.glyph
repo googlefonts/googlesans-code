@@ -105,15 +105,14 @@ width = 1200;
 layerId = m009;
 shapes = (
 {
-pos = (-145,0);
 ref = minute;
 },
 {
-pos = (346,0);
+pos = (491,0);
 ref = minute;
 }
 );
-width = 1200;
+width = 1116;
 }
 );
 unicode = 8243;

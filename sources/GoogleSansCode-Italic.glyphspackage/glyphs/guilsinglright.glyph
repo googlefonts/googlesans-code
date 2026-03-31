@@ -86,11 +86,11 @@ layerId = m009;
 shapes = (
 {
 angle = 180;
-pos = (1202,1064);
+pos = (755,1064);
 ref = guilsinglleft;
 }
 );
-width = 1200;
+width = 753;
 }
 );
 unicode = 8250;

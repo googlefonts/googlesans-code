@@ -102,11 +102,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (364,406);
+pos = (381,406);
 ref = acutecomb;
 }
 );
-width = 727;
+width = 667;
 }
 );
 unicode = 314;

@@ -102,11 +102,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (519,0);
+pos = (539,0);
 ref = gravecomb;
 }
 );
-width = 1107;
+width = 1127;
 }
 );
 unicode = 7923;

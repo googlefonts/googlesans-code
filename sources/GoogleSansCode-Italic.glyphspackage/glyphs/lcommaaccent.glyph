@@ -212,11 +212,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (470,-35);
+pos = (487,-35);
 ref = commaaccentcomb;
 }
 );
-width = 727;
+width = 667;
 }
 );
 unicode = 316;

@@ -158,7 +158,7 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (156,676);
+pos = (128,676);
 ref = period;
 },
 {
@@ -166,7 +166,7 @@ alignment = -1;
 ref = comma;
 }
 );
-width = 1200;
+width = 636;
 }
 );
 unicode = 59;

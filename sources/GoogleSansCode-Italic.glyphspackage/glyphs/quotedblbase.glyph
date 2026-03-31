@@ -80,11 +80,11 @@ width = 1200;
 layerId = m009;
 shapes = (
 {
-pos = (-190,-1078);
+pos = (-200,-1078);
 ref = quotedblright;
 }
 );
-width = 1200;
+width = 1156;
 }
 );
 unicode = 8222;

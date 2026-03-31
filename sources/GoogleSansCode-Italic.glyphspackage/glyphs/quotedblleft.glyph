@@ -136,17 +136,17 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (913,1108);
+pos = (636,1108);
 ref = comma;
 },
 {
 alignment = -1;
 angle = 180;
-pos = (1433,1108);
+pos = (1156,1108);
 ref = comma;
 }
 );
-width = 1200;
+width = 1156;
 }
 );
 unicode = 8220;
