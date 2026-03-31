@@ -102,7 +102,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (495,0);
+pos = (485,0);
 ref = acutecomb;
 }
 );

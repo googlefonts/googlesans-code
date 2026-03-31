@@ -346,7 +346,7 @@ pos = (585,20);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1177;
 },
 {
 associatedMasterId = m009;

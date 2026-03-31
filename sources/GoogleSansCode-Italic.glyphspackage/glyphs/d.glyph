@@ -769,7 +769,6 @@ ref = a;
 }
 );
 };
-color = 8;
 layerId = m009;
 name = "Italic B";
 shapes = (

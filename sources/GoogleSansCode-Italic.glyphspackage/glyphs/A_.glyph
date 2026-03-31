@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 4;
 glyphname = A;
 kernLeft = A_left;
 kernRight = A_right;
@@ -411,7 +411,6 @@ name = top;
 pos = (759,1432);
 }
 );
-color = 8;
 layerId = m009;
 shapes = (
 {

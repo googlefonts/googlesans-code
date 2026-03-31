@@ -204,7 +204,6 @@ name = top;
 pos = (464,1432);
 }
 );
-color = 8;
 layerId = m009;
 shapes = (
 {
@@ -219,7 +218,7 @@ nodes = (
 );
 }
 );
-width = 1132;
+width = 1152;
 }
 );
 unicode = 76;

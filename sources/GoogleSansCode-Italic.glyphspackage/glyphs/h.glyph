@@ -1176,7 +1176,6 @@ ref = n;
 }
 );
 };
-color = 8;
 layerId = m009;
 name = "Italic A";
 shapes = (

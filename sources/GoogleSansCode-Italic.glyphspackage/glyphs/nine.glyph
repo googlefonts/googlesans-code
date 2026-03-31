@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 4;
 glyphname = nine;
 kernLeft = nine_left;
 kernRight = nine_right;
@@ -94,11 +94,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1305,1432);
+pos = (1291,1432);
 ref = six;
 }
 );
-width = 1228;
+width = 1225;
 }
 );
 unicode = 57;

@@ -394,7 +394,7 @@ pos = (460,20);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1177;
 },
 {
 associatedMasterId = m009;

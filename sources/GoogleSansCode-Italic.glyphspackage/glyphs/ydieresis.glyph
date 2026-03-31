@@ -102,11 +102,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (518,0);
+pos = (538,0);
 ref = dieresiscomb;
 }
 );
-width = 1107;
+width = 1127;
 }
 );
 unicode = 255;

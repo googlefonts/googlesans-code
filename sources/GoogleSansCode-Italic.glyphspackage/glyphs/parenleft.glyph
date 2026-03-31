@@ -94,11 +94,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1249,1334);
+pos = (917,1334);
 ref = parenright;
 }
 );
-width = 1200;
+width = 868;
 }
 );
 unicode = 40;

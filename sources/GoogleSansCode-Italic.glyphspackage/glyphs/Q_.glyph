@@ -1622,7 +1622,6 @@ nodes = (
 width = 1200;
 },
 {
-color = 8;
 layerId = m009;
 name = ExtraBold;
 shapes = (

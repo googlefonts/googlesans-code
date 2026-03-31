@@ -1894,7 +1894,6 @@ name = top;
 pos = (577,1054);
 }
 );
-color = 8;
 layerId = m009;
 name = "Italic A";
 shapes = (

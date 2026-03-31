@@ -119,15 +119,14 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-233,0);
 ref = quoteright;
 },
 {
-pos = (287,0);
+pos = (520,0);
 ref = quoteright;
 }
 );
-width = 1200;
+width = 1156;
 }
 );
 unicode = 8221;
