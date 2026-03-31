@@ -19,9 +19,13 @@ jobs:
       uses: actions/checkout@v6
       with:
         ref: ${{ github.head_ref || github.ref_name }}
+    - name: Setup Python
+      uses: actions/setup-python@v6
+      with:
+        python-version-file: .github/python-version.txt
+        cache: pip
     - name: Create folder
-      run: |
-        mkdir -p fonts/variable
+      run: mkdir -p fonts/variable
     - name: Install cargo-binstall
       uses: cargo-bins/cargo-binstall@v1.17.8
     - name: Use cargo-binstall to grab precompiled fontc
@@ -30,6 +34,11 @@ jobs:
       run: fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[wght].ttf
     - name: Build italic font
       run: fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[wght].ttf
+    - name: Build Android fonts
+      run: |
+        make venv
+        touch build.stamp
+        make android
     - name: Generate artifact name
       id: zip-name
       uses: alpha-tango-kilo/gha-artifact-name@v1
@@ -106,20 +115,21 @@ jobs:
       uses: actions/download-artifact@v8
       with:
         name: ${{ needs.build.outputs.artifact-name }}
-        path: ${{ needs.build.outputs.artifact-name }}
-    - name: Bundle license
+    - name: Create release archives
       run: |
-        cp OFL.txt "${{ needs.build.outputs.artifact-name }}"
-    - name: Create release archive
-      run: |
-        release_zip_name="GoogleSansCode-${GITHUB_REF#refs/*/}.zip"
-        echo "RELEASE_ZIP_NAME=$release_zip_name" >> "$GITHUB_ENV"
-        cd "${{ needs.build.outputs.artifact-name }}" && zip "../$release_zip_name" OFL.txt **/*.ttf
+        cp "$GITHUB_WORKSPACE/OFL.txt" "$GITHUB_WORKSPACE/variable"
+        cd "$GITHUB_WORKSPACE/variable" \
+          && zip "../GoogleSansCode-${GITHUB_REF#refs/*/}.zip" OFL.txt *.ttf
+        
+        cp "$GITHUB_WORKSPACE/OFL.txt" "$GITHUB_WORKSPACE/android"
+        cd "$GITHUB_WORKSPACE/android" \
+          && zip "../GoogleSansCode-Android-${GITHUB_REF#refs/*/}.zip" OFL.txt *.ttf
     - name: Upload binaries to release
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: ${{ env.RELEASE_ZIP_NAME }}
+        file: GoogleSansCode*.zip
+        file_glob: true
         asset_name: ${{ env.RELEASE_ZIP_NAME }}
         tag: ${{ github.ref }}
         overwrite: true
