@@ -77,11 +77,11 @@ width = 1200;
 layerId = m009;
 shapes = (
 {
-pos = (84,655);
+pos = (85,655);
 ref = period;
 }
 );
-width = 1200;
+width = 567;
 }
 );
 unicode = 183;

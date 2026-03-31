@@ -102,11 +102,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (993,19);
+pos = (1003,19);
 ref = ogonekcomb;
 }
 );
-width = 1204;
+width = 1214;
 }
 );
 unicode = 261;
