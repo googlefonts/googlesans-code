@@ -1433,6 +1433,13 @@ name = top;
 pos = (784,1432);
 }
 );
+background = {
+shapes = (
+{
+ref = Q;
+}
+);
+};
 color = 8;
 layerId = m009;
 shapes = (
