@@ -304,7 +304,7 @@ pyyaml==6.0.3
     #   glyphsets
 regex==2025.11.3
     # via nanoemoji
-requests==2.32.5
+requests==2.33.0
     # via
     #   fontbakery
     #   gftools
