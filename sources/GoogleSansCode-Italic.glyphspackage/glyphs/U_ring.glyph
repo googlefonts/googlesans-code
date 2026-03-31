@@ -102,11 +102,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (652,378);
+pos = (672,378);
 ref = ringcomb;
 }
 );
-width = 1200;
+width = 1240;
 }
 );
 unicode = 366;
