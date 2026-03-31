@@ -64,11 +64,11 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (317,0);
+pos = (400,0);
 ref = periodcentered;
 }
 );
-width = 720;
+width = 770;
 },
 {
 layerId = m007;
@@ -100,14 +100,15 @@ width = 1092;
 layerId = m009;
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
-pos = (512,-80);
+pos = (477,-80);
 ref = periodcentered;
 }
 );
-width = 667;
+width = 962;
 }
 );
 unicode = 320;

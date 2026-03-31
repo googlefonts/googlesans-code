@@ -248,7 +248,7 @@ ref = t;
 },
 {
 alignment = -1;
-pos = (551,0);
+pos = (444,-15);
 ref = cedillacomb;
 }
 );

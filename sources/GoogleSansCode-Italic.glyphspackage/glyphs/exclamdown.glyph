@@ -86,11 +86,11 @@ layerId = m009;
 shapes = (
 {
 angle = 180;
-pos = (1309,1262);
+pos = (604,1262);
 ref = exclam;
 }
 );
-width = 1200;
+width = 568;
 }
 );
 unicode = 161;
