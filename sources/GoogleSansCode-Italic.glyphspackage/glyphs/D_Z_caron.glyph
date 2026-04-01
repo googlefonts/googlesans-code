@@ -715,11 +715,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1232,0);
+pos = (1212,0);
 ref = Zcaron;
 }
 );
-width = 2308;
+width = 2288;
 }
 );
 unicode = 452;
