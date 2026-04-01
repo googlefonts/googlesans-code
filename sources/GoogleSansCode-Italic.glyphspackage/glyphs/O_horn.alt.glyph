@@ -1,7 +1,7 @@
 {
 color = 4;
 glyphname = Ohorn.alt;
-kernLeft = O_right;
+kernLeft = O_left;
 kernRight = Ohorn_right;
 layers = (
 {
