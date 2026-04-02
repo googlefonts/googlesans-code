@@ -94,7 +94,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (636,1108);
+pos = (606,1108);
 ref = comma;
 }
 );
