@@ -1,8 +1,8 @@
 {
 color = 3;
 glyphname = idieresis;
-kernLeft = i_left;
-kernRight = iacute_right;
+kernLeft = idieresis_left;
+kernRight = idieresis_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
