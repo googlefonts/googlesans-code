@@ -2,7 +2,7 @@
 color = 4;
 glyphname = Lcaron;
 kernLeft = H_left;
-kernRight = L_right;
+kernRight = Lcaron_right;
 layers = (
 {
 background = {
