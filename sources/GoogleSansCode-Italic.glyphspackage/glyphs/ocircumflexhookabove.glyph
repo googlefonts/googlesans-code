@@ -114,7 +114,7 @@ pos = (600,54);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1208;
+width = 1188;
 }
 );
 unicode = 7893;

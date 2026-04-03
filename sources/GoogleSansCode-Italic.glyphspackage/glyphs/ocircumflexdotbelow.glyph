@@ -7,7 +7,11 @@ layers = (
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
 shapes = (
 {
-ref = odotbelow;
+ref = o;
+},
+{
+pos = (488,-30);
+ref = dotbelowcomb;
 },
 {
 pos = (570,0);
@@ -20,7 +24,11 @@ width = 1200;
 layerId = m006;
 shapes = (
 {
-ref = odotbelow;
+ref = o;
+},
+{
+pos = (485,-32);
+ref = dotbelowcomb;
 },
 {
 pos = (580,0);
@@ -33,7 +41,11 @@ width = 1200;
 layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
 shapes = (
 {
-ref = odotbelow;
+ref = o;
+},
+{
+pos = (481,-34);
+ref = dotbelowcomb;
 },
 {
 pos = (560,0);
@@ -46,7 +58,11 @@ width = 1200;
 layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
 shapes = (
 {
-ref = odotbelow;
+ref = o;
+},
+{
+pos = (479,-35);
+ref = dotbelowcomb;
 },
 {
 pos = (560,0);
@@ -59,7 +75,11 @@ width = 1200;
 layerId = m005;
 shapes = (
 {
-ref = odotbelow;
+ref = o;
+},
+{
+pos = (483,-30);
+ref = dotbelowcomb;
 },
 {
 pos = (565,0);
@@ -72,7 +92,11 @@ width = 1190;
 layerId = m007;
 shapes = (
 {
-ref = odotbelow;
+ref = o;
+},
+{
+pos = (479,-32);
+ref = dotbelowcomb;
 },
 {
 pos = (574,0);
@@ -85,7 +109,11 @@ width = 1188;
 layerId = m008;
 shapes = (
 {
-ref = odotbelow;
+ref = o;
+},
+{
+pos = (484,-34);
+ref = dotbelowcomb;
 },
 {
 pos = (563,0);
@@ -98,14 +126,18 @@ width = 1206;
 layerId = m009;
 shapes = (
 {
-ref = odotbelow;
+ref = o;
 },
 {
-pos = (564,0);
+pos = (473,-35);
+ref = dotbelowcomb;
+},
+{
+pos = (554,0);
 ref = circumflexcomb;
 }
 );
-width = 1208;
+width = 1188;
 }
 );
 unicode = 7897;
