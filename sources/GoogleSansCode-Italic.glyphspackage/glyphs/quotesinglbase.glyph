@@ -82,7 +82,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 576;
+width = 596;
 }
 );
 unicode = 8218;
