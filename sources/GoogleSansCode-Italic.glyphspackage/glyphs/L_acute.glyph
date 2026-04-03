@@ -80,7 +80,7 @@ pos = (358,385);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1136;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (384,380);
+pos = (369,380);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1147;
 },
 {
 layerId = m009;

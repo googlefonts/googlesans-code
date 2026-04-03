@@ -86,7 +86,7 @@ pos = (609,57);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 1200;
+width = 1197;
 },
 {
 layerId = m008;
@@ -100,7 +100,7 @@ pos = (612,47);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 1200;
+width = 1211;
 },
 {
 layerId = m009;

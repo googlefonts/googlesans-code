@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = underscore;
 kernLeft = underscore_left;
 kernRight = underscore_right;
@@ -85,14 +85,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(972,-202,l),
-(1002,-32,l),
-(2,-32,l),
-(-28,-202,l)
+(1012,-202,l),
+(1042,-32,l),
+(42,-32,l),
+(12,-202,l)
 );
 }
 );
-width = 1200;
+width = 1279;
 },
 {
 layerId = m008;
@@ -107,7 +107,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1199;
 },
 {
 layerId = m009;

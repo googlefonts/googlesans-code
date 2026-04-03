@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = quotedblright;
 kernLeft = quoteright_left;
 kernRight = quoteright_right;
@@ -87,32 +87,30 @@ layerId = m007;
 shapes = (
 {
 alignment = -1;
-pos = (-229,0);
 ref = quoteright;
 },
 {
 alignment = -1;
-pos = (262,0);
+pos = (491,0);
 ref = quoteright;
 }
 );
-width = 1200;
+width = 1116;
 },
 {
 layerId = m008;
 shapes = (
 {
 alignment = -1;
-pos = (-231,0);
 ref = quoteright;
 },
 {
 alignment = -1;
-pos = (282,0);
+pos = (513,0);
 ref = quoteright;
 }
 );
-width = 1200;
+width = 1146;
 },
 {
 layerId = m009;

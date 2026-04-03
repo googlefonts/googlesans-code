@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = bracketleft;
 kernLeft = bracketleft_left;
 kernRight = bracketleft_right;
@@ -17,13 +17,6 @@ ref = bracketright;
 width = 1200;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (1,0);
-type = Stem;
-}
-);
 layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
 shapes = (
 {
@@ -48,13 +41,6 @@ ref = bracketright;
 width = 1200;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (1,0);
-type = Stem;
-}
-);
 layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
 shapes = (
 {
@@ -84,39 +70,25 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1250,1330);
+pos = (906,1330);
 ref = bracketright;
 }
 );
-width = 1200;
+width = 858;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (1,0);
-type = Stem;
-}
-);
 layerId = m008;
 shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1249,1330);
+pos = (966,1330);
 ref = bracketright;
 }
 );
-width = 1200;
+width = 925;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (1,0);
-type = Stem;
-}
-);
 layerId = m009;
 shapes = (
 {

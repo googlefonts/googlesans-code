@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = ldot;
 kernLeft = l_left;
 kernRight = ldot_right;
@@ -74,27 +74,29 @@ width = 770;
 layerId = m007;
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
-pos = (511,-16);
+pos = (416,-16);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 809;
 },
 {
 layerId = m008;
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
-pos = (509,-64);
+pos = (462,-64);
 ref = periodcentered;
 }
 );
-width = 1092;
+width = 924;
 },
 {
 layerId = m009;

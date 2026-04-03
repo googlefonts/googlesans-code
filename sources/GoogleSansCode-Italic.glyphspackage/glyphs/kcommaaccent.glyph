@@ -217,11 +217,11 @@ shapes = (
 ref = k;
 },
 {
-pos = (656,13);
+pos = (676,13);
 ref = commaaccentcomb;
 }
 );
-width = 1200;
+width = 1099;
 },
 {
 layerId = m008;
@@ -230,11 +230,11 @@ shapes = (
 ref = k;
 },
 {
-pos = (666,14);
+pos = (700,14);
 ref = commaaccentcomb;
 }
 );
-width = 1200;
+width = 1146;
 },
 {
 background = {

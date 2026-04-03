@@ -320,7 +320,7 @@ pos = (503,17);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 1199;
 },
 {
 layerId = m008;
@@ -333,7 +333,7 @@ pos = (446,19);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 1198;
 },
 {
 layerId = m009;

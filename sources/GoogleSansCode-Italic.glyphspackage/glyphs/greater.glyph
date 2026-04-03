@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = greater;
 kernLeft = greater_left;
 kernRight = greater_right;
@@ -305,25 +305,25 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1243,1294);
+pos = (1216,1294);
 ref = less;
 }
 );
 };
 guides = (
 {
-pos = (972,85);
+pos = (945,85);
 }
 );
 layerId = m007;
 shapes = (
 {
 angle = 180;
-pos = (1236,1251);
+pos = (1209,1251);
 ref = less;
 }
 );
-width = 1200;
+width = 1172;
 },
 {
 associatedMasterId = m007;
@@ -367,7 +367,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1247,1316);
+pos = (1196,1316);
 ref = less;
 }
 );
@@ -376,11 +376,11 @@ layerId = m008;
 shapes = (
 {
 angle = 180;
-pos = (1242,1292);
+pos = (1191,1292);
 ref = less;
 }
 );
-width = 1200;
+width = 1148;
 },
 {
 associatedMasterId = m008;

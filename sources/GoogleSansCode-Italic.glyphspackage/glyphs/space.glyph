@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = space;
 layers = (
 {
@@ -24,11 +24,11 @@ width = 650;
 },
 {
 layerId = m007;
-width = 1200;
+width = 610;
 },
 {
 layerId = m008;
-width = 1200;
+width = 490;
 },
 {
 layerId = m009;

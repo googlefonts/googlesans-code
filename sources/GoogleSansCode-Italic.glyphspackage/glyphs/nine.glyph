@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = nine;
 kernLeft = nine_left;
 kernRight = nine_right;
@@ -70,11 +70,11 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (1268,1432);
+pos = (1239,1432);
 ref = six;
 }
 );
-width = 1200;
+width = 1171;
 },
 {
 layerId = m008;
@@ -82,11 +82,11 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (1267,1432);
+pos = (1275,1432);
 ref = six;
 }
 );
-width = 1200;
+width = 1208;
 },
 {
 layerId = m009;

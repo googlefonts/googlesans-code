@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 3;
 glyphname = uogonek;
 kernLeft = u_left;
 kernRight = u_right;
@@ -76,11 +76,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (963,7);
+pos = (967,7);
 ref = ogonekcomb;
 }
 );
-width = 1200;
+width = 1197;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (971,16);
+pos = (976,16);
 ref = ogonekcomb;
 }
 );
-width = 1200;
+width = 1192;
 },
 {
 layerId = m009;

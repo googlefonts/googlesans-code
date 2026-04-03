@@ -76,11 +76,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (552,0);
+pos = (556,0);
 ref = hungarumlautcomb;
 }
 );
-width = 1200;
+width = 1197;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (556,0);
+pos = (561,0);
 ref = hungarumlautcomb;
 }
 );
-width = 1200;
+width = 1192;
 },
 {
 layerId = m009;

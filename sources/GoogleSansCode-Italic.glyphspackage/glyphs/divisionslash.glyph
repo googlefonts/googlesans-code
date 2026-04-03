@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = divisionslash;
 kernLeft = divisionslash_left;
 kernRight = divisionslash_right;
@@ -123,14 +124,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(175,-32,l),
-(1315,1460,l),
-(1092,1460,l),
-(-48,-32,l)
+(178,-32,l),
+(1318,1460,l),
+(1095,1460,l),
+(-45,-32,l)
 );
 }
 );
-width = 1200;
+width = 1205;
 },
 {
 layerId = m008;
@@ -138,14 +139,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(249,-34,l),
-(1347,1460,l),
-(1017,1460,l),
-(-81,-34,l)
+(260,-34,l),
+(1358,1460,l),
+(1028,1460,l),
+(-70,-34,l)
 );
 }
 );
-width = 1200;
+width = 1221;
 },
 {
 background = {
