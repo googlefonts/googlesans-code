@@ -76,11 +76,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (555,0);
+pos = (354,0);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 769;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (561,0);
+pos = (327,0);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 714;
 },
 {
 layerId = m009;

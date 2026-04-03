@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 3;
 glyphname = Eth;
 kernLeft = Dcroat_left;
 kernRight = O_right;
@@ -74,7 +74,7 @@ shapes = (
 ref = Dcroat;
 }
 );
-width = 1270;
+width = 1187;
 }
 );
 unicode = 208;

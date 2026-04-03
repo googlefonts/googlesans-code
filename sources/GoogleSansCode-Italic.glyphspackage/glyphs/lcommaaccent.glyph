@@ -131,11 +131,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (717,-31);
+pos = (501,-31);
 ref = commaaccentcomb;
 }
 );
-width = 1200;
+width = 742;
 },
 {
 layerId = m008;
@@ -144,11 +144,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (654,-34);
+pos = (491,-34);
 ref = commaaccentcomb;
 }
 );
-width = 1092;
+width = 686;
 },
 {
 background = {

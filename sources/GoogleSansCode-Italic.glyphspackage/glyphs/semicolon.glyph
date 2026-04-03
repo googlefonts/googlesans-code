@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = semicolon;
 kernLeft = colon_left;
 kernRight = colon_right;
@@ -110,48 +110,36 @@ ref = comma;
 width = 625;
 },
 {
-background = {
-shapes = (
-{
-ref = colon;
-}
-);
-};
 layerId = m007;
 shapes = (
 {
 alignment = -1;
-pos = (199,781);
+pos = (203,781);
 ref = period;
 },
 {
 alignment = -1;
+pos = (4,0);
 ref = comma;
 }
 );
-width = 1200;
+width = 691;
 },
 {
-background = {
-shapes = (
-{
-ref = colon;
-}
-);
-};
 layerId = m008;
 shapes = (
 {
 alignment = -1;
-pos = (167,702);
+pos = (168,702);
 ref = period;
 },
 {
 alignment = -1;
+pos = (1,0);
 ref = comma;
 }
 );
-width = 1200;
+width = 671;
 },
 {
 layerId = m009;

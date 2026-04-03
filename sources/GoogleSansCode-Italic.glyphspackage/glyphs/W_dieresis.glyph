@@ -76,11 +76,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (859,385);
+pos = (853,385);
 ref = dieresiscomb;
 }
 );
-width = 1591;
+width = 1579;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (861,380);
+pos = (836,380);
 ref = dieresiscomb;
 }
 );
-width = 1627;
+width = 1579;
 },
 {
 layerId = m009;

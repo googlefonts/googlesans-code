@@ -115,7 +115,7 @@ pos = (540,17);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1211;
 },
 {
 layerId = m008;
@@ -128,7 +128,7 @@ pos = (510,19);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1217;
 },
 {
 background = {

@@ -76,11 +76,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (464,-31);
+pos = (518,-31);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
+width = 1310;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (444,-34);
+pos = (490,-34);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
+width = 1300;
 },
 {
 layerId = m009;

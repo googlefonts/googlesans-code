@@ -76,11 +76,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (503,-31);
+pos = (511,-31);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
+width = 1207;
 },
 {
 layerId = m008;
@@ -89,7 +89,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (513,-34);
+pos = (517,-34);
 ref = dotbelowcomb;
 }
 );

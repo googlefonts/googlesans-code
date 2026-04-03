@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = guilsinglleft;
 kernLeft = guilsinglleft_left;
 kernRight = guilsinglleft_right;
@@ -140,16 +140,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(847,116,l),
-(564,531,l),
-(977,929,l),
-(872,1041,l),
-(330,532,l),
-(728,24,l)
+(603,116,l),
+(320,531,l),
+(733,929,l),
+(628,1041,l),
+(86,532,l),
+(484,24,l)
 );
 }
 );
-width = 1200;
+width = 748;
 },
 {
 layerId = m008;
@@ -157,16 +157,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(924,161,l),
-(677,527,l),
-(1036,873,l),
-(856,1057,l),
-(300,532,l),
-(721,8,l)
+(661,161,l),
+(414,527,l),
+(773,873,l),
+(593,1057,l),
+(37,532,l),
+(458,8,l)
 );
 }
 );
-width = 1200;
+width = 751;
 },
 {
 background = {

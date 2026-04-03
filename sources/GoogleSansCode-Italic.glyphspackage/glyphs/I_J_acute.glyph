@@ -104,7 +104,7 @@ pos = (997,385);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1218;
 },
 {
 layerId = m008;
@@ -121,7 +121,7 @@ pos = (979,380);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1227;
 },
 {
 layerId = m009;

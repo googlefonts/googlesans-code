@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = quoteright;
 kernLeft = quoteright_left;
 kernRight = quoteright_right;
@@ -64,22 +64,22 @@ layerId = m007;
 shapes = (
 {
 alignment = -1;
-pos = (210,1189);
+pos = (222,1189);
 ref = comma;
 }
 );
-width = 1200;
+width = 612;
 },
 {
 layerId = m008;
 shapes = (
 {
 alignment = -1;
-pos = (196,1106);
+pos = (213,1106);
 ref = comma;
 }
 );
-width = 1200;
+width = 638;
 },
 {
 layerId = m009;

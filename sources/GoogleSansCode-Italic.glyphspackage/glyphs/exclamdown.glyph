@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = exclamdown;
 kernLeft = exclamdown_left;
 kernRight = exclamdown_right;
@@ -64,22 +64,22 @@ layerId = m007;
 shapes = (
 {
 angle = 180;
-pos = (1268,1262);
+pos = (720,1262);
 ref = exclam;
 }
 );
-width = 1200;
+width = 683;
 },
 {
 layerId = m008;
 shapes = (
 {
 angle = 180;
-pos = (1296,1262);
+pos = (633,1262);
 ref = exclam;
 }
 );
-width = 1200;
+width = 597;
 },
 {
 layerId = m009;

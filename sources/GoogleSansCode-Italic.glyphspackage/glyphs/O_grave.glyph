@@ -76,11 +76,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (659,385);
+pos = (713,385);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1308;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (658,380);
+pos = (704,380);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1293;
 },
 {
 layerId = m009;

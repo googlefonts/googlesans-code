@@ -80,7 +80,7 @@ pos = (561,25);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 1211;
 },
 {
 layerId = m008;
@@ -93,7 +93,7 @@ pos = (559,51);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 1217;
 },
 {
 layerId = m009;

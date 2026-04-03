@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 3;
 glyphname = quotesinglbase;
 kernLeft = comma_left;
 kernRight = period_right;
@@ -62,7 +62,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 1200;
+width = 617;
 },
 {
 layerId = m008;
@@ -72,7 +72,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 1200;
+width = 601;
 },
 {
 layerId = m009;

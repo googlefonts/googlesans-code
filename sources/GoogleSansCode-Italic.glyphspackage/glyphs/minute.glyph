@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = minute;
 kernLeft = minute_left;
 kernRight = minute_right;
@@ -124,14 +124,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(583,844,l),
-(807,1460,l),
-(567,1460,l),
-(381,844,l)
+(385,844,l),
+(609,1460,l),
+(369,1460,l),
+(183,844,l)
 );
 }
 );
-width = 1200;
+width = 570;
 },
 {
 layerId = m008;
@@ -139,14 +139,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(631,839,l),
-(896,1460,l),
-(547,1460,l),
-(343,839,l)
+(428,839,l),
+(693,1460,l),
+(344,1460,l),
+(140,839,l)
 );
 }
 );
-width = 1200;
+width = 612;
 },
 {
 background = {

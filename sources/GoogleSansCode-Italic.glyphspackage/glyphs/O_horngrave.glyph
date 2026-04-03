@@ -80,7 +80,7 @@ pos = (666,402);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1310;
 },
 {
 layerId = m008;
@@ -93,7 +93,7 @@ pos = (659,399);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1306;
 },
 {
 layerId = m009;

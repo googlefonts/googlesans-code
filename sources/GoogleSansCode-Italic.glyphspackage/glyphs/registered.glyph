@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = registered;
 kernLeft = copyright_left;
 kernRight = copyright_right;

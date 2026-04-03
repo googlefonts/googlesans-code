@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = L;
 kernLeft = H_left;
 kernRight = L_right;
@@ -147,7 +147,7 @@ pos = (600,0);
 },
 {
 name = top;
-pos = (451.193,1432);
+pos = (451,1432);
 }
 );
 layerId = m007;
@@ -164,17 +164,17 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1136;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (619,0);
+pos = (604,0);
 },
 {
 name = top;
-pos = (475.752,1432);
+pos = (461,1432);
 }
 );
 layerId = m008;
@@ -182,16 +182,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1015,0,l),
-(1066,290,l),
-(429,290,l),
-(630,1432,l),
-(322,1432,l),
-(70,0,l)
+(1000,0,l),
+(1051,290,l),
+(414,290,l),
+(615,1432,l),
+(307,1432,l),
+(55,0,l)
 );
 }
 );
-width = 1200;
+width = 1147;
 },
 {
 anchors = (
