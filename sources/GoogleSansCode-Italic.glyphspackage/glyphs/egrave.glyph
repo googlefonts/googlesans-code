@@ -67,7 +67,7 @@ pos = (593,0);
 ref = gravecomb;
 }
 );
-width = 1111;
+width = 1121;
 },
 {
 layerId = m007;
@@ -102,11 +102,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (595,0);
+pos = (625,0);
 ref = gravecomb;
 }
 );
-width = 1121;
+width = 1181;
 }
 );
 unicode = 232;

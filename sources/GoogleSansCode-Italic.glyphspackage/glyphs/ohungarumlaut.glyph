@@ -102,11 +102,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (554,0);
+pos = (584,0);
 ref = hungarumlautcomb;
 }
 );
-width = 1188;
+width = 1248;
 }
 );
 unicode = 337;

@@ -129,15 +129,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (473,-35);
+pos = (503,-35);
 ref = dotbelowcomb;
 },
 {
-pos = (554,0);
+pos = (584,0);
 ref = circumflexcomb;
 }
 );
-width = 1188;
+width = 1248;
 }
 );
 unicode = 7897;
