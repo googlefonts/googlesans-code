@@ -86,7 +86,7 @@ pos = (609,57);
 ref = brevecomb_tildecomb;
 }
 );
-width = 1197;
+width = 1222;
 },
 {
 layerId = m008;
@@ -100,7 +100,7 @@ pos = (612,47);
 ref = brevecomb_tildecomb;
 }
 );
-width = 1211;
+width = 1250;
 },
 {
 layerId = m009;
