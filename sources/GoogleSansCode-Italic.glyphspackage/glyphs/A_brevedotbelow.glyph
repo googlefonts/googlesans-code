@@ -130,15 +130,15 @@ shapes = (
 ref = A;
 },
 {
-pos = (499,26);
+pos = (469,26);
 ref = dotbelowcomb;
 },
 {
-pos = (666,378);
+pos = (636,378);
 ref = brevecomb;
 }
 );
-width = 1216;
+width = 1156;
 }
 );
 unicode = 7862;
