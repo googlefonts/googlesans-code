@@ -96,15 +96,15 @@ shapes = (
 ref = a;
 },
 {
-pos = (552,-32);
+pos = (559,-31);
 ref = dotbelowcomb;
 },
 {
-pos = (572,0);
+pos = (587,0);
 ref = brevecomb;
 }
 );
-width = 1197;
+width = 1222;
 },
 {
 layerId = m008;
@@ -113,15 +113,15 @@ shapes = (
 ref = a;
 },
 {
-pos = (558,-34);
+pos = (573,-34);
 ref = dotbelowcomb;
 },
 {
-pos = (594,0);
+pos = (624,0);
 ref = brevecomb;
 }
 );
-width = 1211;
+width = 1250;
 },
 {
 layerId = m009;

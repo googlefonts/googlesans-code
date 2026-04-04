@@ -86,7 +86,7 @@ pos = (635,0);
 ref = dotaccentcomb;
 }
 );
-width = 1115;
+width = 1123;
 },
 {
 layerId = m008;
@@ -100,7 +100,7 @@ pos = (631,0);
 ref = dotaccentcomb;
 }
 );
-width = 1141;
+width = 1173;
 },
 {
 layerId = m009;
@@ -114,7 +114,7 @@ pos = (629,0);
 ref = dotaccentcomb;
 }
 );
-width = 1119;
+width = 1189;
 }
 );
 unicode = 267;

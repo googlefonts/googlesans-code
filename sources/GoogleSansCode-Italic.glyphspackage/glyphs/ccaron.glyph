@@ -76,11 +76,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (573,0);
+pos = (577,0);
 ref = caroncomb;
 }
 );
-width = 1115;
+width = 1123;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (564,0);
+pos = (580,0);
 ref = caroncomb;
 }
 );
-width = 1141;
+width = 1173;
 },
 {
 layerId = m009;
@@ -102,11 +102,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (558,0);
+pos = (588,0);
 ref = caroncomb;
 }
 );
-width = 1119;
+width = 1189;
 }
 );
 unicode = 269;

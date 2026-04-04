@@ -141,7 +141,7 @@ pos = (420,-30);
 ref = cedillacomb;
 }
 );
-width = 892;
+width = 884;
 },
 {
 layerId = m007;
@@ -155,7 +155,7 @@ pos = (562,0);
 ref = cedillacomb;
 }
 );
-width = 893;
+width = 894;
 },
 {
 background = {
@@ -238,7 +238,7 @@ pos = (552,0);
 ref = cedillacomb;
 }
 );
-width = 895;
+width = 923;
 },
 {
 layerId = m009;
@@ -252,7 +252,7 @@ pos = (444,-15);
 ref = cedillacomb;
 }
 );
-width = 895;
+width = 933;
 }
 );
 unicode = 355;

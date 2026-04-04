@@ -118,11 +118,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (504,-30);
+pos = (500,-30);
 ref = commaaccentcomb;
 }
 );
-width = 760;
+width = 750;
 },
 {
 layerId = m007;
@@ -131,11 +131,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (501,-31);
+pos = (506,-31);
 ref = commaaccentcomb;
 }
 );
-width = 742;
+width = 750;
 },
 {
 layerId = m008;
@@ -144,11 +144,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (491,-34);
+pos = (526,-34);
 ref = commaaccentcomb;
 }
 );
-width = 686;
+width = 751;
 },
 {
 background = {
@@ -212,11 +212,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (487,-35);
+pos = (532,-35);
 ref = commaaccentcomb;
 }
 );
-width = 667;
+width = 751;
 }
 );
 unicode = 316;
