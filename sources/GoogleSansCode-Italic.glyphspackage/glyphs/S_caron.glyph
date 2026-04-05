@@ -67,7 +67,7 @@ pos = (656,387);
 ref = caroncomb;
 }
 );
-width = 1195;
+width = 1180;
 },
 {
 layerId = m007;
@@ -102,11 +102,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (652,378);
+pos = (647,378);
 ref = caroncomb;
 }
 );
-width = 1200;
+width = 1190;
 }
 );
 unicode = 352;

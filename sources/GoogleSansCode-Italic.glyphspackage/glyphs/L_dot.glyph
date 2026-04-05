@@ -131,7 +131,7 @@ pos = (527,0);
 ref = periodcentered;
 }
 );
-width = 1130;
+width = 1070;
 },
 {
 layerId = m007;
@@ -144,7 +144,7 @@ pos = (538,0);
 ref = periodcentered;
 }
 );
-width = 1136;
+width = 1084;
 },
 {
 layerId = m008;
@@ -157,7 +157,7 @@ pos = (569,0);
 ref = periodcentered;
 }
 );
-width = 1147;
+width = 1119;
 },
 {
 layerId = m009;
@@ -170,7 +170,7 @@ pos = (579,0);
 ref = periodcentered;
 }
 );
-width = 1152;
+width = 1132;
 }
 );
 unicode = 319;
