@@ -63,11 +63,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (423,0);
+pos = (388,0);
 ref = dotbelowcomb;
 }
 );
-width = 1114;
+width = 1044;
 },
 {
 layerId = m007;
@@ -76,11 +76,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (414,0);
+pos = (400,0);
 ref = dotbelowcomb;
 }
 );
-width = 1120;
+width = 1071;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (427,0);
+pos = (436,0);
 ref = dotbelowcomb;
 }
 );
-width = 1140;
+width = 1150;
 },
 {
 layerId = m009;

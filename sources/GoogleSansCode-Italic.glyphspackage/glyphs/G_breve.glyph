@@ -63,11 +63,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (745,387);
+pos = (711,387);
 ref = brevecomb;
 }
 );
-width = 1296;
+width = 1248;
 },
 {
 layerId = m007;
@@ -102,11 +102,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (736,378);
+pos = (721,378);
 ref = brevecomb;
 }
 );
-width = 1275;
+width = 1281;
 }
 );
 unicode = 286;

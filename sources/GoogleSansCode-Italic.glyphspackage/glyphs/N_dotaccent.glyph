@@ -63,11 +63,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (725,387);
+pos = (730,387);
 ref = dotaccentcomb;
 }
 );
-width = 1390;
+width = 1400;
 },
 {
 layerId = m007;
@@ -102,11 +102,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (693,378);
+pos = (713,378);
 ref = dotaccentcomb;
 }
 );
-width = 1344;
+width = 1384;
 }
 );
 unicode = 7748;
