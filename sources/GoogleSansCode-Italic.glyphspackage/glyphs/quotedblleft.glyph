@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = quotedblleft;
 kernLeft = quoteleft_left;
 kernRight = quoteleft_right;
@@ -82,17 +82,17 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (641,1152);
+pos = (511,1152);
 ref = comma;
 },
 {
 alignment = -1;
 angle = 180;
-pos = (1124,1152);
+pos = (994,1152);
 ref = comma;
 }
 );
-width = 1106;
+width = 976;
 },
 {
 layerId = m007;
@@ -100,17 +100,17 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (640,1143);
+pos = (528,1143);
 ref = comma;
 },
 {
 alignment = -1;
 angle = 180;
-pos = (1131,1143);
+pos = (1019,1143);
 ref = comma;
 }
 );
-width = 1116;
+width = 1002;
 },
 {
 layerId = m008;
@@ -118,17 +118,17 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (637,1117);
+pos = (579,1117);
 ref = comma;
 },
 {
 alignment = -1;
 angle = 180;
-pos = (1150,1117);
+pos = (1092,1117);
 ref = comma;
 }
 );
-width = 1146;
+width = 1081;
 },
 {
 layerId = m009;
@@ -136,17 +136,17 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (636,1108);
+pos = (596,1108);
 ref = comma;
 },
 {
 alignment = -1;
 angle = 180;
-pos = (1156,1108);
+pos = (1116,1108);
 ref = comma;
 }
 );
-width = 1156;
+width = 1106;
 }
 );
 unicode = 8220;

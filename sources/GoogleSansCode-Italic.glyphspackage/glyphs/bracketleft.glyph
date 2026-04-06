@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = bracketleft;
 kernLeft = bracketleft_left;
 kernRight = bracketleft_right;
@@ -58,11 +58,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (884,1330);
+pos = (894,1330);
 ref = bracketright;
 }
 );
-width = 834;
+width = 844;
 },
 {
 layerId = m007;
@@ -70,11 +70,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (906,1330);
+pos = (919,1330);
 ref = bracketright;
 }
 );
-width = 858;
+width = 869;
 },
 {
 layerId = m008;
@@ -82,11 +82,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (966,1330);
+pos = (992,1330);
 ref = bracketright;
 }
 );
-width = 925;
+width = 943;
 },
 {
 layerId = m009;
@@ -94,11 +94,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (986,1330);
+pos = (1016,1330);
 ref = bracketright;
 }
 );
-width = 987;
+width = 967;
 }
 );
 unicode = 91;
