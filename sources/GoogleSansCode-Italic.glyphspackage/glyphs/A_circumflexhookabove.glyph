@@ -76,11 +76,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (650,385);
+pos = (596,385);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1184;
+width = 1076;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (662,380);
+pos = (626,380);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1208;
+width = 1136;
 },
 {
 layerId = m009;
