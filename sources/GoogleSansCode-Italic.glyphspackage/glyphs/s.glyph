@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = s;
 kernLeft = s_left;
 kernRight = s_right;
@@ -1240,7 +1240,7 @@ nodes = (
 );
 }
 );
-width = 1050;
+width = 1040;
 },
 {
 anchors = (
@@ -1426,7 +1426,7 @@ nodes = (
 );
 }
 );
-width = 1062;
+width = 1052;
 }
 );
 unicode = 115;

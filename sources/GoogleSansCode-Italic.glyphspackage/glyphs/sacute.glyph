@@ -67,7 +67,7 @@ pos = (523,0);
 ref = acutecomb;
 }
 );
-width = 1050;
+width = 1040;
 },
 {
 layerId = m007;
@@ -106,7 +106,7 @@ pos = (526,0);
 ref = acutecomb;
 }
 );
-width = 1062;
+width = 1052;
 }
 );
 unicode = 347;
