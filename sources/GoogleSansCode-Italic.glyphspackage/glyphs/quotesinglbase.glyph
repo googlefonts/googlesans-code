@@ -52,7 +52,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 622;
+width = 482;
 },
 {
 layerId = m007;
@@ -62,7 +62,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 617;
+width = 501;
 },
 {
 layerId = m008;
@@ -72,7 +72,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 601;
+width = 557;
 },
 {
 layerId = m009;
@@ -82,7 +82,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 596;
+width = 576;
 }
 );
 unicode = 8218;

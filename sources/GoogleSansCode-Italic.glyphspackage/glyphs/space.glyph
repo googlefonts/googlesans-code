@@ -20,19 +20,19 @@ width = 1200;
 },
 {
 layerId = m005;
-width = 650;
+width = 600;
 },
 {
 layerId = m007;
-width = 654;
+width = 602;
 },
 {
 layerId = m008;
-width = 666;
+width = 608;
 },
 {
 layerId = m009;
-width = 670;
+width = 610;
 }
 );
 unicode = 32;
