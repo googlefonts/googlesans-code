@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 8;
 glyphname = q;
 kernLeft = o_left;
 kernRight = q_right;
