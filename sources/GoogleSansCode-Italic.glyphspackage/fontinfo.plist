@@ -2451,7 +2451,6 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-LightItalicProp";
 }
 );
-visible = 0;
 weightClass = 300;
 },
 {
@@ -2501,7 +2500,6 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-ItalicProp";
 }
 );
-visible = 0;
 },
 {
 axesValues = (
@@ -2551,7 +2549,6 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-MediumItalicProp";
 }
 );
-visible = 0;
 weightClass = 500;
 },
 {
@@ -2602,7 +2599,6 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-SemiBoldItalicProp";
 }
 );
-visible = 0;
 weightClass = 600;
 },
 {
@@ -2653,7 +2649,6 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-BoldItalicProp";
 }
 );
-visible = 0;
 weightClass = 700;
 },
 {
@@ -2703,7 +2698,6 @@ key = variablePostscriptFontName;
 value = "GoogleSansCode-ExtraBoldItalicProp";
 }
 );
-visible = 0;
 weightClass = 800;
 }
 );
