@@ -2,61 +2,61 @@
 displayStrings = (
 "
 __Letter:
-nnoovavoonn
-nnoovbvoonn
-nnoovcvoonn
-nnoovdvoonn
-nnoovevoonn
-nnoovfvoonn
-nnoovgvoonn
-nnoovhvoonn
-nnoovivoonn
-nnoovjvoonn
-nnoovkvoonn
-nnoovlvoonn
-nnoovmvoonn
-nnoovntootn
-nnoovovoonn
-nnoovpvoonn
-nnoovqvoonn
-nnoovrvoonn
-nnoovsvoonn
-nnoovtvoonn
-nnoovuvoonn
-nnoovvvoonn
-nnoovwvoonn
-nnoovxvoonn
-nnoovyvoonn
-nnoovzvoonn
+nnoofafoonn
+nnoofbfoonn
+nnoofcfoonn
+nnoofdfoonn
+nnoofefoonn
+nnoofffoonn
+nnoofgfoonn
+nnoofhfoonn
+nnoofifoonn
+nnoofjfoonn
+nnoofkfoonn
+nnooflfoonn
+nnoofmfoonn
+nnoofntootn
+nnoofofoonn
+nnoofpfoonn
+nnoofqfoonn
+nnoofrfoonn
+nnoofsfoonn
+nnooftfoonn
+nnoofufoonn
+nnoofvfoonn
+nnoofwfoonn
+nnoofxfoonn
+nnoofyfoonn
+nnoofzfoonn
 
 __Punctuation:
-nnoov#voonn HH#HH
-nnoov*voonn HH*HH
-nnoov(voonn HH(HH
-nnoov)voonn HH)HH
-nnoov{voonn HH{HH
-nnoov}voonn HH}HH
-nnoov'voonn HH'HH
-nnoov’voonn HH’HH
-nnoov‘voonn HH‘HH
-nnoov,voonn HH,HH
-nnoov.voonn HH.HH
-nnoov:voonn HH:HH
-nnoov;voonn HH;HH
-nnoov?voonn HH?HH
-nnoov!voonn HH!HH
-nnoov//voonn HH//HH
-nnoov/backslash voonn HH/backslash HH
-nnoov[voonn HH[HH
-nnoov]voonn HH]HH
-nnoov-voonn HH-HH
-nnoov_voonn HH_HH
+nnoof#foonn HH#HH
+nnoof*foonn HH*HH
+nnoof(foonn HH(HH
+nnoof)foonn HH)HH
+nnoof{foonn HH{HH
+nnoof}foonn HH}HH
+nnoof'foonn HH'HH
+nnoof’foonn HH’HH
+nnoof‘foonn HH‘HH
+nnoof,foonn HH,HH
+nnoof.foonn HH.HH
+nnoof:foonn HH:HH
+nnoof;foonn HH;HH
+nnoof?foonn HH?HH
+nnoof!foonn HH!HH
+nnoof//foonn HH//HH
+nnoof/backslash foonn HH/backslash HH
+nnoof[foonn HH[HH
+nnoof]foonn HH]HH
+nnoof-foonn HH-HH
+nnoof_foonn HH_HH
 
 __Symbol:
-nnoov$voonn HH$HH
-nnoov%voonn HH%HH
-nnoov&voonn HH&HH
-nnoov@voonn HH@HH",
+nnoof$foonn HH$HH
+nnoof%foonn HH%HH
+nnoof&foonn HH&HH
+nnoof@foonn HH@HH",
 w
 );
 }
