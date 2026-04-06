@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = parenleft;
 kernLeft = parenleft_left;
 kernRight = parenleft_right;
@@ -58,11 +58,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (878,1328);
+pos = (769,1328);
 ref = parenright;
 }
 );
-width = 828;
+width = 769;
 },
 {
 layerId = m007;
@@ -70,11 +70,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (886,1329);
+pos = (795,1329);
 ref = parenright;
 }
 );
-width = 836;
+width = 783;
 },
 {
 layerId = m008;
@@ -82,11 +82,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (909,1333);
+pos = (872,1333);
 ref = parenright;
 }
 );
-width = 860;
+width = 824;
 },
 {
 layerId = m009;
@@ -94,11 +94,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (917,1334);
+pos = (897,1334);
 ref = parenright;
 }
 );
-width = 868;
+width = 838;
 }
 );
 unicode = 40;
