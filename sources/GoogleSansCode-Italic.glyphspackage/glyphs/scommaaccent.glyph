@@ -67,7 +67,7 @@ pos = (586,0);
 ref = commaaccentcomb;
 }
 );
-width = 1050;
+width = 1040;
 },
 {
 layerId = m007;
@@ -106,7 +106,7 @@ pos = (601,0);
 ref = commaaccentcomb;
 }
 );
-width = 1062;
+width = 1052;
 }
 );
 unicode = 537;
