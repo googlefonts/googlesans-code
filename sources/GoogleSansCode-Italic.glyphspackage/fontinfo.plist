@@ -5106,6 +5106,7 @@ m009 = {
 "@MMK_R_v_left" = 20;
 "@MMK_R_w_left" = 20;
 "@MMK_R_y_left" = 40;
+"@MMK_R_z_left" = -60;
 };
 "@MMK_L_g_right" = {
 "@MMK_R_J_left" = -20;
