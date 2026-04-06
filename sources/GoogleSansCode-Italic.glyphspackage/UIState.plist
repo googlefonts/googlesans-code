@@ -2,60 +2,60 @@
 displayStrings = (
 "
 __Letter:
-nnooiaioonn
-nnooibioonn
-nnooicioonn
-nnooidioonn
-nnooieioonn
-nnooifioonn
-nnooigioonn
-nnooihioonn
-nnooiiioonn
-nnooijioonn
-nnooikioonn
-nnooilioonn
-nnooimioonn
-nnooinioonn
-nnooioioonn
-nnooipioonn
-nnooiqioonn
-nnooirioonn
-nnooisioonn
-nnooitioonn
-nnooiuioonn
-nnooivioonn
-nnooiwioonn
-nnooixioonn
-nnooiyioonn
-nnooizioonn
+nnooraroonn
+nnoorbroonn
+nnoorcroonn
+nnoordroonn
+nnooreroonn
+nnoorfroonn
+nnoorgroonn
+nnoorhroonn
+nnooriroonn
+nnoorjroonn
+nnoorkroonn
+nnoorlroonn
+nnoormroonn
+nnoornroonn
+nnoororoonn
+nnoorproonn
+nnoorqroonn
+nnoorrroonn
+nnoorsroonn
+nnoortroonn
+nnooruroonn
+nnoorvroonn
+nnoorwroonn
+nnoorxroonn
+nnooryroonn
+nnoorzroonn
 
 __Punctuation:
-nnooi#ioonn HH#HH
-nnooi*ioonn HH*HH
-nnooi(ioonn HH(HH
-nnooi)ioonn HH)HH
-nnooi{ioonn HH{HH
-nnooi}ioonn HH}HH
-nnooi'ioonn HH'HH
-nnooi’ioonn HH’HH
-nnooi‘ioonn HH‘HH
-nnooi,ioonn HH,HH
-nnooi.ioonn HH.HH
-nnooi:ioonn HH:HH
-nnooi;ioonn HH;HH
-nnooi?ioonn HH?HH
-nnooi!ioonn HH!HH
-nnooi//ioonn HH//HH
-nnooi/backslash ioonn HH/backslash HH
-nnooi[ioonn HH[HH
-nnooi]ioonn HH]HH
-nnooi-ioonn HH-HH
-nnooi_ioonn HH_HH
+nnoor#roonn HH#HH
+nnoor*roonn HH*HH
+nnoor(roonn HH(HH
+nnoor)roonn HH)HH
+nnoor{roonn HH{HH
+nnoor}roonn HH}HH
+nnoor'roonn HH'HH
+nnoor’roonn HH’HH
+nnoor‘roonn HH‘HH
+nnoor,roonn HH,HH
+nnoor.roonn HH.HH
+nnoor:roonn HH:HH
+nnoor;roonn HH;HH
+nnoor?roonn HH?HH
+nnoor!roonn HH!HH
+nnoor//roonn HH//HH
+nnoor/backslash roonn HH/backslash HH
+nnoor[roonn HH[HH
+nnoor]roonn HH]HH
+nnoor-roonn HH-HH
+nnoor_roonn HH_HH
 
 __Symbol:
-nnooi$ioonn HH$HH
-nnooi%ioonn HH%HH
-nnooi&ioonn HH&HH
-nnooi@ioonn HH@HH"
+nnoor$roonn HH$HH
+nnoor%roonn HH%HH
+nnoor&roonn HH&HH
+nnoor@roonn HH@HH"
 );
 }
