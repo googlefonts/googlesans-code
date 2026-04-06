@@ -1,0 +1,61 @@
+{
+displayStrings = (
+"
+__Letter:
+nnooiaioonn
+nnooibioonn
+nnooicioonn
+nnooidioonn
+nnooieioonn
+nnooifioonn
+nnooigioonn
+nnooihioonn
+nnooiiioonn
+nnooijioonn
+nnooikioonn
+nnooilioonn
+nnooimioonn
+nnooinioonn
+nnooioioonn
+nnooipioonn
+nnooiqioonn
+nnooirioonn
+nnooisioonn
+nnooitioonn
+nnooiuioonn
+nnooivioonn
+nnooiwioonn
+nnooixioonn
+nnooiyioonn
+nnooizioonn
+
+__Punctuation:
+nnooi#ioonn HH#HH
+nnooi*ioonn HH*HH
+nnooi(ioonn HH(HH
+nnooi)ioonn HH)HH
+nnooi{ioonn HH{HH
+nnooi}ioonn HH}HH
+nnooi'ioonn HH'HH
+nnooi’ioonn HH’HH
+nnooi‘ioonn HH‘HH
+nnooi,ioonn HH,HH
+nnooi.ioonn HH.HH
+nnooi:ioonn HH:HH
+nnooi;ioonn HH;HH
+nnooi?ioonn HH?HH
+nnooi!ioonn HH!HH
+nnooi//ioonn HH//HH
+nnooi/backslash ioonn HH/backslash HH
+nnooi[ioonn HH[HH
+nnooi]ioonn HH]HH
+nnooi-ioonn HH-HH
+nnooi_ioonn HH_HH
+
+__Symbol:
+nnooi$ioonn HH$HH
+nnooi%ioonn HH%HH
+nnooi&ioonn HH&HH
+nnooi@ioonn HH@HH"
+);
+}
