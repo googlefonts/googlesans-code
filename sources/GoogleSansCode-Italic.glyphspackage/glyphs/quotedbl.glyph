@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = quotedbl;
 kernLeft = quotesingle_left;
 kernRight = quotesingle_right;
@@ -81,7 +81,7 @@ pos = (413,0);
 ref = quotesingle;
 }
 );
-width = 921;
+width = 778;
 },
 {
 layerId = m007;
@@ -96,7 +96,7 @@ pos = (429,0);
 ref = quotesingle;
 }
 );
-width = 937;
+width = 823;
 },
 {
 layerId = m008;
@@ -111,7 +111,7 @@ pos = (476,0);
 ref = quotesingle;
 }
 );
-width = 984;
+width = 961;
 },
 {
 layerId = m009;
@@ -126,7 +126,7 @@ pos = (492,0);
 ref = quotesingle;
 }
 );
-width = 999;
+width = 1007;
 }
 );
 unicode = 34;
