@@ -98,7 +98,7 @@ alignment = -1;
 ref = comma;
 }
 );
-width = 1200;
+width = 578;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -113,7 +113,7 @@ alignment = -1;
 ref = comma;
 }
 );
-width = 1200;
+width = 621;
 },
 {
 guides = (
