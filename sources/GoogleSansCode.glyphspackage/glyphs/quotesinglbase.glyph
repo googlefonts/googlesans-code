@@ -49,7 +49,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 1200;
+width = 568;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -79,7 +79,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 1200;
+width = 634;
 }
 );
 unicode = 8218;

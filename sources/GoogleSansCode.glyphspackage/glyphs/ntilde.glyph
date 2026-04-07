@@ -99,11 +99,11 @@ shapes = (
 ref = n;
 },
 {
-pos = (615,0);
+pos = (643,0);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 1253;
 }
 );
 unicode = 241;

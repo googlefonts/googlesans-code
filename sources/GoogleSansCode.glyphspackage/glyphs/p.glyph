@@ -370,7 +370,7 @@ ref = b;
 scale = (1,-1);
 }
 );
-width = 1200;
+width = 1262;
 }
 );
 unicode = 112;

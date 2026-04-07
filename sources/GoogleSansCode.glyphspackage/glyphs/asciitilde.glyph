@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = asciitilde;
 kernLeft = minus_left;
 kernRight = minus_right;

@@ -103,7 +103,7 @@ pos = (316,0);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 1152;
 }
 );
 unicode = 319;
