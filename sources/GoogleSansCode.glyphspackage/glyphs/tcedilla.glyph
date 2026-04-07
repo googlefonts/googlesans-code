@@ -114,7 +114,7 @@ pos = (698,0);
 ref = cedillacomb;
 }
 );
-width = 1012;
+width = 905;
 },
 {
 background = {
@@ -183,7 +183,7 @@ pos = (699,0);
 ref = cedillacomb;
 }
 );
-width = 990;
+width = 862;
 }
 );
 unicode = 355;
