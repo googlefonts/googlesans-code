@@ -47,7 +47,7 @@ shapes = (
 ref = Dcroat;
 }
 );
-width = 1275;
+width = 1245;
 },
 {
 layerId = m007;
