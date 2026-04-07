@@ -1681,6 +1681,7 @@ GSSlanterCursivyThicknessFactor = 1;
 GSSlanterGeometric = 0;
 GSSlanterRotate = 10;
 };
+visible = 1;
 },
 {
 axesValues = (
