@@ -150,11 +150,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1200,1330);
+pos = (934,1330);
 ref = bracketright;
 }
 );
-width = 1200;
+width = 934;
 }
 );
 metricLeft = "=|bracketright";
