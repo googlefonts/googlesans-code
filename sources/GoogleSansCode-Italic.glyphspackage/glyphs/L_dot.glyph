@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = Ldot;
 kernLeft = H_left;
 kernRight = Ldot_right;
@@ -89,45 +89,13 @@ ref = periodcentered;
 width = 1200;
 },
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(960,0,l),
-(984,138,l),
-(290,138,l),
-(518,1432,l),
-(372,1432,l),
-(120,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(980,626,o),
-(1057,691,o),
-(1072,776,cs),
-(1086,858,o),
-(1033,924,o),
-(947,924,cs),
-(865,924,o),
-(786,858,o),
-(772,776,cs),
-(757,691,o),
-(810,626,o),
-(894,626,cs)
-);
-}
-);
-};
 layerId = m005;
 shapes = (
 {
 ref = L;
 },
 {
-pos = (527,0);
+pos = (557,0);
 ref = periodcentered;
 }
 );
@@ -140,7 +108,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (538,0);
+pos = (566,0);
 ref = periodcentered;
 }
 );
@@ -153,7 +121,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (569,0);
+pos = (591,0);
 ref = periodcentered;
 }
 );
@@ -166,7 +134,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (579,0);
+pos = (599,0);
 ref = periodcentered;
 }
 );
