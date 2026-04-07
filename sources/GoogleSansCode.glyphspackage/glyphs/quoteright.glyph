@@ -1,5 +1,6 @@
 {
 case = minor;
+color = 4;
 glyphname = quoteright;
 kernLeft = quoteright_left;
 kernRight = quoteright_right;
@@ -56,7 +57,7 @@ pos = (0,1217);
 ref = comma;
 }
 );
-width = 1200;
+width = 568;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -88,7 +89,7 @@ pos = (0,1080);
 ref = comma;
 }
 );
-width = 1200;
+width = 634;
 }
 );
 unicode = 8217;

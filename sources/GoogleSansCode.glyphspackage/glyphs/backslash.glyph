@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = backslash;
 kernLeft = b_slash_left;
 kernRight = b_slash_right;
@@ -54,12 +55,12 @@ layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 alignment = -1;
-pos = (1200,0);
+pos = (976,0);
 ref = slash;
 scale = (-1,1);
 }
 );
-width = 1200;
+width = 976;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";

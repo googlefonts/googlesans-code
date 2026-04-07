@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = quotedblright;
 layers = (
 {
@@ -69,16 +70,15 @@ layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 alignment = -1;
-pos = (-206,0);
 ref = quoteright;
 },
 {
 alignment = -1;
-pos = (272,0);
+pos = (478,0);
 ref = quoteright;
 }
 );
-width = 1200;
+width = 1006;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";

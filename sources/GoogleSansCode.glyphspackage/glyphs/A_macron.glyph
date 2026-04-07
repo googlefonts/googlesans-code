@@ -99,11 +99,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (602,378);
+pos = (590,378);
 ref = macroncomb;
 }
 );
-width = 1200;
+width = 1176;
 }
 );
 unicode = 256;

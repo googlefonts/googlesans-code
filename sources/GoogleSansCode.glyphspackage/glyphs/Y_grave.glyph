@@ -99,11 +99,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (604,378);
+pos = (582,378);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1156;
 }
 );
 unicode = 7922;

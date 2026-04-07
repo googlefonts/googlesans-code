@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = slash;
 kernLeft = slash_left;
 kernRight = slash_right;
@@ -69,14 +70,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(264,-176,l),
-(1088,1460,l),
-(936,1460,l),
-(112,-176,l)
+(152,-176,l),
+(976,1460,l),
+(824,1460,l),
+(0,-176,l)
 );
 }
 );
-width = 1200;
+width = 976;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
