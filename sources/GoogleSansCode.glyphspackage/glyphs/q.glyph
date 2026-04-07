@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = q;
 kernLeft = o_left;
 kernRight = q_right;
@@ -196,7 +197,7 @@ ref = d;
 scale = (1,-1);
 }
 );
-width = 1200;
+width = 1250;
 },
 {
 background = {

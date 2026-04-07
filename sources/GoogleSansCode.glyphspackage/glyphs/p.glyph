@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = p;
 kernLeft = p_left;
 kernRight = o_right;
@@ -196,7 +197,7 @@ ref = b;
 scale = (1,-1);
 }
 );
-width = 1200;
+width = 1250;
 },
 {
 background = {

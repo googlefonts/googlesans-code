@@ -60,11 +60,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (602,387);
+pos = (570,387);
 ref = brevecomb_tildecomb;
 }
 );
-width = 1200;
+width = 1137;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";

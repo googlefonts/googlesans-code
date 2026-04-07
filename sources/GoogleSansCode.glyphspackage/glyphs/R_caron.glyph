@@ -60,11 +60,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (537,387);
+pos = (593,387);
 ref = caroncomb;
 }
 );
-width = 1200;
+width = 1264;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";

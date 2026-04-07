@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = L;
 kernLeft = H_left;
 kernRight = L_right;
@@ -115,11 +116,11 @@ width = 1200;
 anchors = (
 {
 name = bottom;
-pos = (632,0);
+pos = (650,0);
 },
 {
 name = top;
-pos = (285,1432);
+pos = (303,1432);
 }
 );
 layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
@@ -127,16 +128,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1052,0,l),
-(1052,138,l),
-(358,138,l),
-(358,1432,l),
-(212,1432,l),
-(212,0,l)
+(1070,0,l),
+(1070,138,l),
+(376,138,l),
+(376,1432,l),
+(230,1432,l),
+(230,0,l)
 );
 }
 );
-width = 1200;
+width = 1120;
 },
 {
 anchors = (

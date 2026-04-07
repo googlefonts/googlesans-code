@@ -76,7 +76,7 @@ pos = (608,60);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 1200;
+width = 1126;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
