@@ -1,5 +1,5 @@
 {
-color = 10;
+color = 4;
 glyphname = space;
 layers = (
 {
@@ -20,7 +20,7 @@ width = 1200;
 },
 {
 layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
-width = 1200;
+width = 600;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
