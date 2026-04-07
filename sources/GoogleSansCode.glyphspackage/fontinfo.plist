@@ -1194,6 +1194,7 @@ userData = {
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 10;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -1739,6 +1740,9 @@ pos = (0,1289);
 {
 locked = 1;
 pos = (0,-440);
+},
+{
+pos = (1321,1507);
 }
 );
 iconName = Light;
@@ -2162,6 +2166,9 @@ pos = (0,1235);
 {
 locked = 1;
 pos = (0,-451);
+},
+{
+pos = (846,1527);
 }
 );
 iconName = Bold;
