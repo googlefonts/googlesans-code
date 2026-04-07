@@ -1,5 +1,7 @@
 {
 glyphname = uogonek;
+kernLeft = u_left;
+kernRight = u_right;
 layers = (
 {
 background = {

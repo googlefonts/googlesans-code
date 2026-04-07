@@ -1,7 +1,7 @@
 {
 color = 4;
 glyphname = h;
-kernLeft = l_left;
+kernLeft = h_left;
 kernRight = n_right;
 layers = (
 {

@@ -1,5 +1,7 @@
 {
 glyphname = Ohorntilde;
+kernLeft = O_left;
+kernRight = Ohorn_right;
 layers = (
 {
 background = {

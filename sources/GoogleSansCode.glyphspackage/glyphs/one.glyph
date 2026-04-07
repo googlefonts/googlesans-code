@@ -2,7 +2,7 @@
 color = 4;
 glyphname = one;
 kernLeft = one_left;
-kernRight = H_right;
+kernRight = one_right;
 layers = (
 {
 background = {

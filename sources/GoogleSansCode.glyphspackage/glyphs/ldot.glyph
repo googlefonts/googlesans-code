@@ -1,5 +1,7 @@
 {
+color = 1;
 glyphname = ldot;
+kernLeft = l_left;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";

@@ -1,7 +1,7 @@
 {
 color = 4;
 glyphname = semicolon;
-kernLeft = colon_left;
+kernLeft = semicolon_left;
 kernRight = colon_right;
 layers = (
 {
@@ -86,11 +86,17 @@ ref = comma;
 width = 568;
 },
 {
+guides = (
+{
+angle = 90;
+pos = (467,370);
+}
+);
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 alignment = -1;
-pos = (13,782);
+pos = (24,782);
 ref = period;
 },
 {
@@ -101,11 +107,17 @@ ref = comma;
 width = 578;
 },
 {
+guides = (
+{
+angle = 90;
+pos = (525,370);
+}
+);
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 alignment = -1;
-pos = (7,703);
+pos = (17,703);
 ref = period;
 },
 {
