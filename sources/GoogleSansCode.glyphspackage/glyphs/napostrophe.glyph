@@ -1,5 +1,7 @@
 {
 glyphname = napostrophe;
+kernLeft = napostrophe_left;
+kernRight = n_right;
 layers = (
 {
 background = {

@@ -1,5 +1,8 @@
 {
+color = 0;
 glyphname = ae;
+kernLeft = a_left;
+kernRight = e_right;
 layers = (
 {
 anchors = (

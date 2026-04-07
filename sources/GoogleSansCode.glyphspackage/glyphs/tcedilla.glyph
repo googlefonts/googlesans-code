@@ -1,5 +1,7 @@
 {
 glyphname = tcedilla;
+kernLeft = t_left;
+kernRight = t_right;
 layers = (
 {
 background = {

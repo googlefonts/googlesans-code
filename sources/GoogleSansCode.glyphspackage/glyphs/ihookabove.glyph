@@ -65,11 +65,11 @@ ref = idotless;
 },
 {
 alignment = -1;
-pos = (565,0);
+pos = (385,0);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 833;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -79,11 +79,11 @@ ref = idotless;
 },
 {
 alignment = -1;
-pos = (569,0);
+pos = (369,0);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 833;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -93,11 +93,11 @@ ref = idotless;
 },
 {
 alignment = -1;
-pos = (589,0);
+pos = (369,0);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 834;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
@@ -107,11 +107,11 @@ ref = idotless;
 },
 {
 alignment = -1;
-pos = (594,0);
+pos = (374,0);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 834;
 }
 );
 unicode = 7881;

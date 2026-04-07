@@ -1,5 +1,7 @@
 {
 glyphname = uhorntilde;
+kernLeft = u_left;
+kernRight = uhorn_right;
 layers = (
 {
 background = {

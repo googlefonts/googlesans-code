@@ -1,8 +1,8 @@
 {
 color = 4;
 glyphname = asciitilde;
-kernLeft = minus_left;
-kernRight = minus_right;
+kernLeft = asciitilde_left;
+kernRight = asciitilde_right;
 layers = (
 {
 background = {

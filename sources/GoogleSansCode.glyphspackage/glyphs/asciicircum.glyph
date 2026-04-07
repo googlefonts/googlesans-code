@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = asciicircum;
+kernLeft = asciicircum_left;
+kernRight = asciicircum_right;
 layers = (
 {
 layerId = "68A78E10-2392-4B34-B44D-B6A5B48D0FD1";
