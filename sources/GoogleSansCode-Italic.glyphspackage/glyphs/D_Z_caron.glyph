@@ -435,11 +435,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1232,0);
+pos = (1212,0);
 ref = Zcaron;
 }
 );
-width = 2328;
+width = 2308;
 }
 );
 unicode = 452;
