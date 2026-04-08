@@ -227,7 +227,7 @@ pos = (504,16);
 ref = hookabovecomb;
 }
 );
-width = 1199;
+width = 1216;
 },
 {
 associatedMasterId = m005;
@@ -320,7 +320,7 @@ pos = (503,17);
 ref = hookabovecomb;
 }
 );
-width = 1199;
+width = 1227;
 },
 {
 layerId = m008;
@@ -333,7 +333,7 @@ pos = (446,19);
 ref = hookabovecomb;
 }
 );
-width = 1198;
+width = 1260;
 },
 {
 layerId = m009;
@@ -346,7 +346,7 @@ pos = (445,20);
 ref = hookabovecomb;
 }
 );
-width = 1197;
+width = 1271;
 },
 {
 associatedMasterId = m009;
