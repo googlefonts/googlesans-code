@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 7;
 glyphname = a;
 kernLeft = o_left;
 kernRight = a_right;
@@ -1175,7 +1175,7 @@ nodes = (
 );
 }
 );
-width = 1259;
+width = 1264;
 },
 {
 anchors = (
