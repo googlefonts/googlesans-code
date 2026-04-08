@@ -1,7 +1,7 @@
 {
 color = 4;
 glyphname = Schwa;
-kernLeft = O_left;
+kernLeft = Schwa_left;
 kernRight = O_right;
 layers = (
 {

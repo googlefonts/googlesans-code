@@ -2,7 +2,7 @@
 color = 3;
 glyphname = imacron;
 kernLeft = i_left;
-kernRight = i_right;
+kernRight = idieresis_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";

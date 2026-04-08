@@ -1,7 +1,7 @@
 {
 color = 3;
 glyphname = igrave;
-kernLeft = i_left;
+kernLeft = igrave_left;
 kernRight = i_right;
 layers = (
 {
