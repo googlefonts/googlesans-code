@@ -2,7 +2,7 @@
 color = 4;
 glyphname = bhook;
 kernLeft = b_left;
-kernRight = b_right;
+kernRight = o_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
