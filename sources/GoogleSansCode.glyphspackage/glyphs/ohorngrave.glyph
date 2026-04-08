@@ -1,5 +1,7 @@
 {
 glyphname = ohorngrave;
+kernLeft = o_left;
+kernRight = ohorn_right;
 layers = (
 {
 background = {

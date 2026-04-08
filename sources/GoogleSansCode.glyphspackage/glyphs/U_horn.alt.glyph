@@ -1,5 +1,7 @@
 {
 glyphname = Uhorn.alt;
+kernLeft = U_left;
+kernRight = Uhorn_right;
 layers = (
 {
 background = {

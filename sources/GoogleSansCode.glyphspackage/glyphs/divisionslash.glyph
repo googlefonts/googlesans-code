@@ -1,5 +1,7 @@
 {
 glyphname = divisionslash;
+kernLeft = slash_left;
+kernRight = slash_right;
 layers = (
 {
 background = {

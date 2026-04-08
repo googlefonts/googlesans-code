@@ -1,5 +1,7 @@
 {
 glyphname = Ohorn.alt;
+kernLeft = O_left;
+kernRight = Ohorn_right;
 layers = (
 {
 anchors = (

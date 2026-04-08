@@ -1,8 +1,8 @@
 {
 color = 4;
 glyphname = plus;
-kernLeft = plus_left;
-kernRight = plus_right;
+kernLeft = hyphen_left;
+kernRight = hyphen_right;
 layers = (
 {
 layerId = "68A78E10-2392-4B34-B44D-B6A5B48D0FD1";

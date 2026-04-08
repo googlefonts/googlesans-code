@@ -1,8 +1,8 @@
 {
 color = 4;
 glyphname = underscore;
-kernLeft = unscore_left;
-kernRight = unscore_right;
+kernLeft = underscore_left;
+kernRight = underscore_right;
 layers = (
 {
 layerId = "68A78E10-2392-4B34-B44D-B6A5B48D0FD1";

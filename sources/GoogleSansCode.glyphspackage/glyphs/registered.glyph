@@ -1,5 +1,7 @@
 {
 glyphname = registered;
+kernLeft = copyright_left;
+kernRight = copyright_right;
 layers = (
 {
 background = {

@@ -1,5 +1,7 @@
 {
+color = 1;
 glyphname = ldot;
+kernLeft = l_left;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
@@ -77,7 +79,7 @@ pos = (506,-16);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 728;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -90,7 +92,7 @@ pos = (505,-64);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 705;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

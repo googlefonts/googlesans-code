@@ -1,5 +1,7 @@
 {
 glyphname = tcommaaccent;
+kernLeft = t_left;
+kernRight = t_right;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
@@ -73,11 +75,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (598,-32);
+pos = (525,-31);
 ref = commaaccentcomb;
 }
 );
-width = 1006;
+width = 897;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -86,11 +88,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (599,-34);
+pos = (521,-34);
 ref = commaaccentcomb;
 }
 );
-width = 994;
+width = 871;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
