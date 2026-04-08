@@ -67,7 +67,7 @@ pos = (608,403);
 ref = acutecomb;
 }
 );
-width = 1181;
+width = 1268;
 },
 {
 layerId = m007;
@@ -80,7 +80,7 @@ pos = (566,402);
 ref = acutecomb;
 }
 );
-width = 1185;
+width = 1292;
 },
 {
 layerId = m008;
@@ -93,7 +93,7 @@ pos = (539,399);
 ref = acutecomb;
 }
 );
-width = 1195;
+width = 1300;
 },
 {
 layerId = m009;
@@ -106,7 +106,7 @@ pos = (541,398);
 ref = acutecomb;
 }
 );
-width = 1198;
+width = 1280;
 }
 );
 unicode = 7912;

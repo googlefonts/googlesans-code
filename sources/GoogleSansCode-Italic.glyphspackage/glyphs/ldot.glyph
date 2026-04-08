@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = ldot;
 kernLeft = l_left;
 kernRight = ldot_right;
@@ -64,11 +64,11 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (400,0);
+pos = (488,0);
 ref = periodcentered;
 }
 );
-width = 770;
+width = 923;
 },
 {
 layerId = m007;
@@ -78,11 +78,11 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (416,-16);
+pos = (494,-16);
 ref = periodcentered;
 }
 );
-width = 809;
+width = 949;
 },
 {
 layerId = m008;
@@ -92,11 +92,11 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (462,-64);
+pos = (513,-64);
 ref = periodcentered;
 }
 );
-width = 924;
+width = 1025;
 },
 {
 layerId = m009;
@@ -106,11 +106,11 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (477,-80);
+pos = (519,-80);
 ref = periodcentered;
 }
 );
-width = 962;
+width = 1050;
 }
 );
 unicode = 320;

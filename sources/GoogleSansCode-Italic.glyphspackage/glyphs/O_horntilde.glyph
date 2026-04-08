@@ -67,7 +67,7 @@ pos = (631,400);
 ref = tildecomb;
 }
 );
-width = 1313;
+width = 1253;
 },
 {
 layerId = m007;
@@ -80,7 +80,7 @@ pos = (631,411);
 ref = tildecomb;
 }
 );
-width = 1310;
+width = 1256;
 },
 {
 layerId = m008;
@@ -93,7 +93,7 @@ pos = (620,443);
 ref = tildecomb;
 }
 );
-width = 1306;
+width = 1265;
 },
 {
 layerId = m009;
@@ -106,7 +106,7 @@ pos = (610,454);
 ref = tildecomb;
 }
 );
-width = 1305;
+width = 1268;
 }
 );
 unicode = 7904;

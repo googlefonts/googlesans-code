@@ -124,7 +124,7 @@ pos = (648,403);
 ref = gravecomb;
 }
 );
-width = 1181;
+width = 1268;
 },
 {
 layerId = m007;
@@ -137,7 +137,7 @@ pos = (641,402);
 ref = gravecomb;
 }
 );
-width = 1185;
+width = 1292;
 },
 {
 layerId = m008;
@@ -150,7 +150,7 @@ pos = (612,399);
 ref = gravecomb;
 }
 );
-width = 1195;
+width = 1300;
 },
 {
 layerId = m009;
@@ -163,7 +163,7 @@ pos = (614,398);
 ref = gravecomb;
 }
 );
-width = 1198;
+width = 1280;
 },
 {
 associatedMasterId = m009;
