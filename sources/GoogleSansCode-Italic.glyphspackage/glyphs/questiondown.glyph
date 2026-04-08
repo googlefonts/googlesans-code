@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = questiondown;
 kernLeft = questiondown_left;
 kernRight = questiondown_right;
@@ -53,7 +53,7 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (1115,1232);
+pos = (1095,1232);
 ref = question;
 }
 );
@@ -64,33 +64,33 @@ layerId = m007;
 shapes = (
 {
 angle = 180;
-pos = (1123,1232);
+pos = (1110,1232);
 ref = question;
 }
 );
-width = 1061;
+width = 1077;
 },
 {
 layerId = m008;
 shapes = (
 {
 angle = 180;
-pos = (1148,1232);
+pos = (1154,1232);
 ref = question;
 }
 );
-width = 1056;
+width = 1122;
 },
 {
 layerId = m009;
 shapes = (
 {
 angle = 180;
-pos = (1156,1232);
+pos = (1169,1232);
 ref = question;
 }
 );
-width = 1054;
+width = 1137;
 }
 );
 unicode = 191;
