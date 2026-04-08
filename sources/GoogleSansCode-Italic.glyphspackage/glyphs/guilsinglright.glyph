@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = guilsinglright;
 kernLeft = guilsinglright_left;
 kernRight = guilsinglright_right;
@@ -53,44 +53,44 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (751,1064);
+pos = (671,1064);
 ref = guilsinglleft;
 }
 );
-width = 747;
+width = 667;
 },
 {
 layerId = m007;
 shapes = (
 {
 angle = 180;
-pos = (752,1064);
+pos = (692,1064);
 ref = guilsinglleft;
 }
 );
-width = 748;
+width = 690;
 },
 {
 layerId = m008;
 shapes = (
 {
 angle = 180;
-pos = (754,1064);
+pos = (753,1064);
 ref = guilsinglleft;
 }
 );
-width = 752;
+width = 751;
 },
 {
 layerId = m009;
 shapes = (
 {
 angle = 180;
-pos = (755,1064);
+pos = (775,1064);
 ref = guilsinglleft;
 }
 );
-width = 753;
+width = 773;
 }
 );
 unicode = 8250;

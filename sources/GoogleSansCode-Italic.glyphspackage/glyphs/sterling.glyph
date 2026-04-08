@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = sterling;
 kernLeft = sterling_left;
 kernRight = sterling_right;
@@ -524,7 +524,7 @@ nodes = (
 );
 }
 );
-width = 1190;
+width = 1180;
 },
 {
 layerId = m007;
@@ -590,7 +590,7 @@ nodes = (
 );
 }
 );
-width = 1188;
+width = 1180;
 },
 {
 layerId = m008;
@@ -656,7 +656,7 @@ nodes = (
 );
 }
 );
-width = 1182;
+width = 1180;
 },
 {
 background = {

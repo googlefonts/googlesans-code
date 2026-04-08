@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = second;
 kernLeft = minute_left;
 kernRight = minute_right;
@@ -71,7 +71,7 @@ pos = (390,0);
 ref = minute;
 }
 );
-width = 946;
+width = 882;
 },
 {
 layerId = m007;
@@ -84,7 +84,7 @@ pos = (410,0);
 ref = minute;
 }
 );
-width = 980;
+width = 929;
 },
 {
 layerId = m008;
@@ -97,7 +97,7 @@ pos = (471,0);
 ref = minute;
 }
 );
-width = 1082;
+width = 1070;
 },
 {
 layerId = m009;
