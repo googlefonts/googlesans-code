@@ -1,7 +1,7 @@
 {
 color = 4;
 glyphname = Dhook;
-kernLeft = Dhook_left;
+kernLeft = Bhook_left;
 kernRight = D_right;
 layers = (
 {

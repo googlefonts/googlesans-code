@@ -56,7 +56,7 @@ shapes = (
 ref = Dcroat;
 }
 );
-width = 1278;
+width = 1267;
 },
 {
 layerId = m008;
@@ -65,7 +65,7 @@ shapes = (
 ref = Dcroat;
 }
 );
-width = 1210;
+width = 1254;
 },
 {
 layerId = m009;
@@ -74,7 +74,7 @@ shapes = (
 ref = Dcroat;
 }
 );
-width = 1187;
+width = 1250;
 }
 );
 unicode = 208;

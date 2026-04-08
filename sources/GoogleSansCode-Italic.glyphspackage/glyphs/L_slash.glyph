@@ -2,7 +2,7 @@
 color = 4;
 glyphname = Lslash;
 kernLeft = Lslash_left;
-kernRight = L_right;
+kernRight = Lcaron_right;
 layers = (
 {
 background = {

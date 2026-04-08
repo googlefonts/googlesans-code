@@ -1035,6 +1035,7 @@ lookup locl_latn_LSM_ISM_Eng {
 language ISM; #Inari Sami
 lookup locl_latn_LSM_ISM_Eng;
 ";
+disabled = 1;
 tag = locl;
 },
 {
@@ -2582,28 +2583,9 @@ weightClass = 800;
 {
 axesValues = (
 300,
-0
+1
 );
 customParameters = (
-{
-name = "Style Name as STAT entry";
-value = wght;
-},
-{
-name = panose;
-value = (
-2,
-11,
-3,
-9,
-3,
-5,
-2,
-4,
-2,
-4
-);
-},
 {
 name = "Axis Location";
 value = (
@@ -2619,13 +2601,13 @@ Location = 1;
 }
 );
 instanceInterpolations = {
-"B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B" = 1;
+"88819DE9-98C6-4AB7-BD8B-9DF84621D738" = 1;
 };
 name = "Light Proportional";
 properties = (
 {
 key = variablePostscriptFontName;
-value = "GoogleSansCode-Light";
+value = "GoogleSansCode-LightProp";
 }
 );
 weightClass = 300;
@@ -2633,17 +2615,9 @@ weightClass = 300;
 {
 axesValues = (
 400,
-0
+1
 );
 customParameters = (
-{
-name = "Style Name as STAT entry";
-value = wght;
-},
-{
-name = "Elidable STAT Axis Value Name";
-value = wght;
-},
 {
 name = panose;
 value = (
@@ -2674,26 +2648,22 @@ Location = 1;
 }
 );
 instanceInterpolations = {
-"68A78E10-2392-4B34-B44D-B6A5B48D0FD1" = 1;
+"ED70A957-8AC1-4977-BF37-207E470C4E2E" = 1;
 };
 name = "Regular Proportional";
 properties = (
 {
 key = variablePostscriptFontName;
-value = "GoogleSansCode-Regular";
+value = "GoogleSansCode-RegularProp";
 }
 );
 },
 {
 axesValues = (
 500,
-0
+1
 );
 customParameters = (
-{
-name = "Style Name as STAT entry";
-value = wght;
-},
 {
 name = panose;
 value = (
@@ -2724,14 +2694,14 @@ Location = 1;
 }
 );
 instanceInterpolations = {
-"50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0" = 0.33333;
-"68A78E10-2392-4B34-B44D-B6A5B48D0FD1" = 0.66667;
+"1DFF5E08-190B-46A4-A527-B6F0A79A5803" = 0.33333;
+"ED70A957-8AC1-4977-BF37-207E470C4E2E" = 0.66667;
 };
 name = "Medium Proportional";
 properties = (
 {
 key = variablePostscriptFontName;
-value = "GoogleSansCode-Medium";
+value = "GoogleSansCode-MediumProp";
 }
 );
 weightClass = 500;
@@ -2739,13 +2709,9 @@ weightClass = 500;
 {
 axesValues = (
 600,
-0
+1
 );
 customParameters = (
-{
-name = "Style Name as STAT entry";
-value = wght;
-},
 {
 name = panose;
 value = (
@@ -2776,14 +2742,14 @@ Location = 1;
 }
 );
 instanceInterpolations = {
-"50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0" = 0.66667;
-"68A78E10-2392-4B34-B44D-B6A5B48D0FD1" = 0.33333;
+"1DFF5E08-190B-46A4-A527-B6F0A79A5803" = 0.66667;
+"ED70A957-8AC1-4977-BF37-207E470C4E2E" = 0.33333;
 };
 name = "SemiBold Proportional";
 properties = (
 {
 key = variablePostscriptFontName;
-value = "GoogleSansCode-SemiBold";
+value = "GoogleSansCode-SemiBoldProp";
 }
 );
 weightClass = 600;
@@ -2791,13 +2757,9 @@ weightClass = 600;
 {
 axesValues = (
 700,
-0
+1
 );
 customParameters = (
-{
-name = "Style Name as STAT entry";
-value = wght;
-},
 {
 name = panose;
 value = (
@@ -2828,7 +2790,7 @@ Location = 1;
 }
 );
 instanceInterpolations = {
-"50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0" = 1;
+"1DFF5E08-190B-46A4-A527-B6F0A79A5803" = 1;
 };
 isBold = 1;
 linkStyle = Regular;
@@ -2836,7 +2798,7 @@ name = "Bold Proportional";
 properties = (
 {
 key = variablePostscriptFontName;
-value = "GoogleSansCode-Bold";
+value = "GoogleSansCode-BoldProp";
 }
 );
 weightClass = 700;
@@ -2844,13 +2806,9 @@ weightClass = 700;
 {
 axesValues = (
 800,
-0
+1
 );
 customParameters = (
-{
-name = "Style Name as STAT entry";
-value = wght;
-},
 {
 name = panose;
 value = (
@@ -2881,13 +2839,13 @@ Location = 1;
 }
 );
 instanceInterpolations = {
-"D010C1AA-6BDD-4F06-9849-880CC2F29E88" = 1;
+"F632DC93-BEFD-4CC9-8CF6-AC4643A09268" = 1;
 };
 name = "ExtraBold Proportional";
 properties = (
 {
 key = variablePostscriptFontName;
-value = "GoogleSansCode-ExtraBold";
+value = "GoogleSansCode-ExtraBoldProp";
 }
 );
 weightClass = 800;
