@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = euro;
 kernLeft = euro_left;
 kernRight = euro_right;
@@ -317,7 +317,7 @@ nodes = (
 );
 }
 );
-width = 1256;
+width = 1246;
 },
 {
 layerId = m007;
@@ -380,7 +380,7 @@ nodes = (
 );
 }
 );
-width = 1254;
+width = 1246;
 },
 {
 layerId = m008;
@@ -443,7 +443,7 @@ nodes = (
 );
 }
 );
-width = 1247;
+width = 1246;
 },
 {
 layerId = m009;
@@ -506,7 +506,7 @@ nodes = (
 );
 }
 );
-width = 1245;
+width = 1246;
 }
 );
 unicode = 8364;

@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = currency;
 kernLeft = currency_left;
 kernRight = currency_right;

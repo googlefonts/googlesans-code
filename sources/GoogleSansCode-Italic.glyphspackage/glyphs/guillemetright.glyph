@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = guillemetright;
 kernLeft = guilsinglright_left;
 kernRight = guilsinglright_right;
@@ -53,44 +53,44 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (1196,1064);
+pos = (1126,1064);
 ref = guillemetleft;
 }
 );
-width = 1192;
+width = 1122;
 },
 {
 layerId = m007;
 shapes = (
 {
 angle = 180;
-pos = (1201,1064);
+pos = (1149,1064);
 ref = guillemetleft;
 }
 );
-width = 1198;
+width = 1146;
 },
 {
 layerId = m008;
 shapes = (
 {
 angle = 180;
-pos = (1217,1064);
+pos = (1219,1064);
 ref = guillemetleft;
 }
 );
-width = 1215;
+width = 1217;
 },
 {
 layerId = m009;
 shapes = (
 {
 angle = 180;
-pos = (1222,1064);
+pos = (1242,1064);
 ref = guillemetleft;
 }
 );
-width = 1220;
+width = 1240;
 }
 );
 unicode = 187;

@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = quotedblbase;
 kernLeft = comma_left;
 kernRight = period_right;
@@ -68,6 +68,14 @@ ref = quoteright;
 width = 1200;
 },
 {
+background = {
+shapes = (
+{
+pos = (-215,-1217);
+ref = quotedblright;
+}
+);
+};
 layerId = m005;
 shapes = (
 {
@@ -81,54 +89,54 @@ pos = (268,-1217);
 ref = quoteright;
 }
 );
-width = 1200;
+width = 965;
 },
 {
 layerId = m007;
 shapes = (
 {
 alignment = -1;
-pos = (-212,-1189);
+pos = (-210,-1189);
 ref = quoteright;
 },
 {
 alignment = -1;
-pos = (279,-1189);
+pos = (281,-1189);
 ref = quoteright;
 }
 );
-width = 1191;
+width = 992;
 },
 {
 layerId = m008;
 shapes = (
 {
 alignment = -1;
-pos = (-203,-1106);
+pos = (-195,-1106);
 ref = quoteright;
 },
 {
 alignment = -1;
-pos = (310,-1106);
+pos = (318,-1106);
 ref = quoteright;
 }
 );
-width = 1165;
+width = 1070;
 },
 {
 layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-200,-1078);
+pos = (-190,-1078);
 ref = quoteright;
 },
 {
-pos = (320,-1078);
+pos = (330,-1078);
 ref = quoteright;
 }
 );
-width = 1156;
+width = 1096;
 }
 );
 unicode = 8222;
