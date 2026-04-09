@@ -1,113 +1,113 @@
 {
 displayStrings = (
-"__Setter:
-nnoonooÆoonoonn
-nnoonooĐoonoonn
-nnoonooƊoonoonn HHƊHH
-nnoonooŊoonoonn
-nnoonoo/Eng.loclNSM oonoonn
-nnoonooĦoonoonn
-nnoonooĲoonoonn
-nnoonooƘoonoonn
-nnoonooĽoonoonn
-nnoonooŁoonoonn
-nnoonooØoonoonn
-nnoonooƠoonoonn
-nnoonooẞoonoonn
-nnoonooƏoonoonn
-nnoonooÞoonoonn
-nnoonooƯoonoonn
-nnoonooƳoonoonn
+"__Letter:
+nnoonoqÆqonoonn
+nnoonoqĐqonoonn
+nnoonoqƊqonoonn HHƊHH
+nnoonoqŊqonoonn
+nnoonoq/Eng.loclNSM qonoonn
+nnoonoqĦqonoonn
+nnoonoqĲqonoonn
+nnoonoqƘqonoonn
+nnoonoqĽqonoonn
+nnoonoqŁqonoonn
+nnoonoqØqonoonn
+nnoonoqƠqonoonn
+nnoonoqẞqonoonn
+nnoonoqƏqonoonn
+nnoonoqÞqonoonn
+nnoonoqƯqonoonn
+nnoonoqƳqonoonn
 
-nnoonoo/g.ss01 oonoonn
-nnoonooæoonoonn
-nnoonooɓoonoonn
-nnoonooďoonoonn
-nnoonoođoonoonn
-nnoonooɗoonoonn
-nnoonooðoonoonn
-nnoonooŋoonoonn
-nnoonooħoonoonn
-nnoonooĳoonoonn
-nnoonooƙoonoonn
-nnoonooľoonoonn
-nnoonoołoonoonn
-nnoonooŉoonoonn
-nnoonooøoonoonn
-nnoonooơoonoonn
-nnoonooßoonoonn
-nnoonooſoonoonn
-nnoonooəoonoonn
-nnoonooťoonoonn
-nnoonooþoonoonn
-nnoonooưoonoonn
-nnoonooƴoonoonn
+nnoonoq/g.ss01 qonoonn
+nnoonoqæqonoonn
+nnoonoqɓqonoonn
+nnoonoqďqonoonn
+nnoonoqđqonoonn
+nnoonoqɗqonoonn
+nnoonoqðqonoonn
+nnoonoqŋqonoonn
+nnoonoqħqonoonn
+nnoonoqĳqonoonn
+nnoonoqƙqonoonn
+nnoonoqľqonoonn
+nnoonoqłqonoonn
+nnoonoqŉqonoonn
+nnoonoqøqonoonn
+nnoonoqơqonoonn
+nnoonoqßqonoonn
+nnoonoqſqonoonn
+nnoonoqəqonoonn
+nnoonoqťqonoonn
+nnoonoqþqonoonn
+nnoonoqưqonoonn
+nnoonoqƴqonoonn
 
 __Number:
-nnoonoo0oonoonn
-nnoonoo1oonoonn
-nnoonoo2oonoonn
-nnoonoo3oonoonn
-nnoonoo4oonoonn
-nnoonoo5oonoonn
-nnoonoo6oonoonn
-nnoonoo7oonoonn
-nnoonoo8oonoonn
-nnoonoo9oonoonn
-nnoonoo¹oonoonn
-nnoonoo²oonoonn
-nnoonoo³oonoonn
-nnoonoo⁴oonoonn
-nnoonooªoonoonn HHªHH
-nnoonooºoonoonn HHºHH
+nnoonoq0qonoonn
+nnoonoq1qonoonn
+nnoonoq2qonoonn
+nnoonoq3qonoonn
+nnoonoq4qonoonn
+nnoonoq5qonoonn
+nnoonoq6qonoonn
+nnoonoq7qonoonn
+nnoonoq8qonoonn
+nnoonoq9qonoonn
+nnoonoq¹qonoonn
+nnoonoq²qonoonn
+nnoonoq³qonoonn
+nnoonoq⁴qonoonn
+nnoonoqªqonoonn HHªHH
+nnoonoqºqonoonn HHºHH
 
-__Sunctuation:
-nnoonoo‘oonoonn
-nnoonoo’oonoonn
-nnoonoo·oonoonn
-nnoonoo¡oonoonn
-nnoonoo¿oonoonn
-nnoonoo‚oonoonn
-nnoonoo„oonoonn
-nnoonoo•oonoonn
-nnoonoo‹oonoonn
-nnoonoo›oonoonn
+__Punctuation:
+nnoonoq'qonoonn
+nnoonoq'qonoonn
+nnoonoq·qonoonn
+nnoonoq¡qonoonn
+nnoonoq¿qonoonn
+nnoonoq‚qonoonn
+nnoonoq„qonoonn
+nnoonoq•qonoonn
+nnoonoq‹qonoonn
+nnoonoq›qonoonn
 
 __Symbol:
-nnoonoo©oonoonn
-nnoonoo™oonoonn
+nnoonoq©qonoonn
+nnoonoq™qonoonn
 
 
-__Setter (check):
-nnoonoo/Ohorn.alt oonoonn
-nnoonoo/ohorn.alt oonoonn
-nnoonoooonoonn
-nnoonoo/ohorn.alt oonoonn
-nnoonoo/uhorn.alt oonoonn
-nnoonooaoonoonn
-nnoonooąoonoonn
-nnoonooeoonoonn
-nnoonooęoonoonn
-nnoonoojoonoonn
-nnoonooȷoonoonn
-nnoonooioonoonn
-nnoonooıoonoonn
-nnoonooìoonoonn
-nnoonooïoonoonn
-nnoonooįoonoonn
+__Letter (check only):
+nnoonoq/Ohorn.alt qonoonn
+nnoonoqqonoonn
+nnoonoqqonoonn
+nnoonoq/ohorn.alt qonoonn
+nnoonoq/uhorn.alt qonoonn
+nnoonoqaqonoonn
+nnoonoqąqonoonn
+nnoonoqeqonoonn
+nnoonoqęqonoonn
+nnoonoqjqonoonn
+nnoonoqȷqonoonn
+nnoonoqiqonoonn
+nnoonoqıqonoonn
+nnoonoqìqonoonn
+nnoonoqïqonoonn
+nnoonoqįqonoonn
 
-nnoonoo|oonoonn
-nnoonoo¦oonoonn
-nnoonoo¢oonoonn
-nnoonoo€oonoonn
-nnoonoo£oonoonn
-nnoonoo¥oonoonn
-nnoonoo¤oonoonn
-nnoonoo₫oonoonn
-nnoonoo^oonoonn
-nnoonoo~oonoonn
-nnoonoo′oonoonn
-nnoonoo″oonoonn
-nnoonoo°oonoonn"
+nnoonoq|qonoonn
+nnoonoq¦qonoonn
+nnoonoq¢qonoonn
+nnoonoq€qonoonn
+nnoonoq£qonoonn
+nnoonoq¥qonoonn
+nnoonoq¤qonoonn
+nnoonoq₫qonoonn
+nnoonoq^qonoonn
+nnoonoq~qonoonn
+nnoonoq′qonoonn
+nnoonoq″qonoonn
+nnoonoq°qonoonn"
 );
 }

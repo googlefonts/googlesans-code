@@ -67,7 +67,7 @@ pos = (497,-30);
 ref = dotbelowcomb;
 }
 );
-width = 1281;
+width = 1261;
 },
 {
 layerId = m007;
@@ -80,7 +80,7 @@ pos = (492,-31);
 ref = dotbelowcomb;
 }
 );
-width = 1281;
+width = 1265;
 },
 {
 layerId = m008;
@@ -89,11 +89,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (476,-34);
+pos = (477,-34);
 ref = dotbelowcomb;
 }
 );
-width = 1279;
+width = 1275;
 },
 {
 layerId = m009;
