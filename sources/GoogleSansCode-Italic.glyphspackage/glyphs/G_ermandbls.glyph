@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 7;
 glyphname = Germandbls;
 kernLeft = Germandbls_left;
 kernRight = Germandbls_right;
@@ -805,7 +805,7 @@ nodes = (
 );
 }
 );
-width = 1277;
+width = 1287;
 },
 {
 layerId = m007;
@@ -857,7 +857,7 @@ nodes = (
 );
 }
 );
-width = 1285;
+width = 1297;
 },
 {
 layerId = m008;
@@ -909,7 +909,7 @@ nodes = (
 );
 }
 );
-width = 1308;
+width = 1326;
 },
 {
 layerId = m009;
@@ -961,7 +961,7 @@ nodes = (
 );
 }
 );
-width = 1315;
+width = 1335;
 }
 );
 unicode = 7838;
