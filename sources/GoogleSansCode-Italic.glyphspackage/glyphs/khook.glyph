@@ -1,7 +1,7 @@
 {
 color = 4;
 glyphname = khook;
-kernLeft = k_left;
+kernLeft = b_left;
 kernRight = k_right;
 layers = (
 {
