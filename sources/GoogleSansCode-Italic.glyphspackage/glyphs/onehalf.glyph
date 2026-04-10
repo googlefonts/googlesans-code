@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = onehalf;
+kernLeft = onehalf_left;
+kernRight = onehalf_right;
 layers = (
 {
 background = {
