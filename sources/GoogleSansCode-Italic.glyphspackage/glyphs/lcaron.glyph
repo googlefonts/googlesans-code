@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 7;
 glyphname = lcaron;
 kernLeft = l_left;
 kernRight = lcaron_right;
