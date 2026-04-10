@@ -1,5 +1,6 @@
 {
 color = 9;
+export = 0;
 glyphname = y.ss02;
 kernLeft = y_left;
 kernRight = v_right;

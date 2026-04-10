@@ -1,5 +1,6 @@
 {
 color = 4;
+export = 0;
 glyphname = j.original;
 kernLeft = j_left;
 kernRight = j_right;
