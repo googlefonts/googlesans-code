@@ -1191,7 +1191,7 @@ pos = -436;
 pos = 10;
 }
 );
-name = "Light Italic Mono";
+name = "Light Italic";
 userData = {
 GSSlanterCursivy = 0;
 GSSlanterCursivyContrastFactor = 0.79731;
@@ -1313,7 +1313,7 @@ pos = -436;
 pos = 10;
 }
 );
-name = "Italic Mono";
+name = Italic;
 },
 {
 axesValues = (
@@ -1424,7 +1424,7 @@ pos = -436;
 pos = 10;
 }
 );
-name = "Bold Italic Mono";
+name = "Bold Italic";
 },
 {
 axesValues = (
@@ -1543,7 +1543,7 @@ pos = -436;
 pos = 10;
 }
 );
-name = "ExtraBold Italic Mono";
+name = "ExtraBold Italic";
 },
 {
 axesValues = (
@@ -1670,7 +1670,6 @@ GSSlanterCursivyThicknessFactor = 1;
 GSSlanterGeometric = 0;
 GSSlanterRotate = 10;
 };
-visible = 1;
 },
 {
 axesValues = (
