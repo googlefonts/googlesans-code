@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 6;
 glyphname = khook;
 kernLeft = b_left;
 kernRight = k_right;
