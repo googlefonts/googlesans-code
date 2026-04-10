@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 7;
 glyphname = Uhorn;
 kernLeft = U_left;
 kernRight = Uhorn_right;
