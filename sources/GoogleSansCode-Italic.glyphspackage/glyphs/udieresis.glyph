@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = udieresis;
 kernLeft = u_left;
 kernRight = a_right;

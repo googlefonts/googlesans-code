@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = quoteleft;
 kernLeft = quoteleft_left;
 kernRight = quoteleft_right;

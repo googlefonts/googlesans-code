@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = gdotaccent;
 kernLeft = g_left;
 kernRight = g_right;
@@ -7,9 +6,6 @@ layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
 shapes = (
-{
-ref = g.original;
-},
 {
 pos = (604,0);
 ref = dotaccentcomb;
@@ -21,9 +17,6 @@ width = 1200;
 layerId = m006;
 shapes = (
 {
-ref = g.original;
-},
-{
 pos = (602,0);
 ref = dotaccentcomb;
 }
@@ -33,9 +26,6 @@ width = 1200;
 {
 layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
 shapes = (
-{
-ref = g.original;
-},
 {
 pos = (596,0);
 ref = dotaccentcomb;
@@ -47,9 +37,6 @@ width = 1200;
 layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
 shapes = (
 {
-ref = g.original;
-},
-{
 pos = (595,0);
 ref = dotaccentcomb;
 }
@@ -59,9 +46,6 @@ width = 1200;
 {
 layerId = m005;
 shapes = (
-{
-ref = g.original;
-},
 {
 pos = (612,0);
 ref = dotaccentcomb;
@@ -73,9 +57,6 @@ width = 1178;
 layerId = m007;
 shapes = (
 {
-ref = g.original;
-},
-{
 pos = (602,0);
 ref = dotaccentcomb;
 }
@@ -86,9 +67,6 @@ width = 1200;
 layerId = m008;
 shapes = (
 {
-ref = g.original;
-},
-{
 pos = (596,0);
 ref = dotaccentcomb;
 }
@@ -98,9 +76,6 @@ width = 1200;
 {
 layerId = m009;
 shapes = (
-{
-ref = g.original;
-},
 {
 pos = (595,0);
 ref = dotaccentcomb;

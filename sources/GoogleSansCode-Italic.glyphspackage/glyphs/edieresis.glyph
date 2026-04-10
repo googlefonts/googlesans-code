@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = edieresis;
 kernLeft = o_left;
 kernRight = e_right;

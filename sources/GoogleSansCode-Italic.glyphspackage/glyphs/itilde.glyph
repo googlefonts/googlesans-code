@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = itilde;
 kernLeft = idieresis_left;
 kernRight = idieresis_right;

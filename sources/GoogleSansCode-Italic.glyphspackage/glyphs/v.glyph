@@ -1,5 +1,4 @@
 {
-color = 7;
 glyphname = v;
 kernLeft = v_left;
 kernRight = v_right;

@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Ydotbelow;
 kernLeft = Y_left;
 kernRight = Y_right;

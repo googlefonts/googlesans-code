@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Ohungarumlaut;
 kernLeft = O_left;
 kernRight = O_right;

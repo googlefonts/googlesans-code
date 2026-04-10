@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = nacute;
 kernLeft = n_left;
 kernRight = n_right;

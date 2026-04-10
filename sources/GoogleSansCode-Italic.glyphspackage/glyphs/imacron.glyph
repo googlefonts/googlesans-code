@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = imacron;
 kernLeft = i_left;
 kernRight = idieresis_right;

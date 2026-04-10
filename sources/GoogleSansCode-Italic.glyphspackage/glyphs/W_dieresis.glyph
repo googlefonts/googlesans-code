@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Wdieresis;
 kernLeft = W_left;
 kernRight = W_right;

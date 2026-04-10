@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = uogonek;
 kernLeft = u_left;
 kernRight = aogonek_right;

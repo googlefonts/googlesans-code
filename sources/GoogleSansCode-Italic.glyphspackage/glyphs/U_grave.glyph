@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Ugrave;
 kernLeft = U_left;
 kernRight = U_right;

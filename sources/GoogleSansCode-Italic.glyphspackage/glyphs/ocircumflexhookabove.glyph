@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = ocircumflexhookabove;
 kernLeft = o_left;
 kernRight = o_right;

@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = asciicircum;
 kernLeft = asciicircum_left;
 kernRight = asciicircum_right;
