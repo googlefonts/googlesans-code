@@ -1,5 +1,4 @@
 {
-color = 10;
 glyphname = verticallinebelowcomb;
 layers = (
 {
@@ -69,86 +68,6 @@ name = _bottom;
 }
 );
 layerId = "D010C1AA-6BDD-4F06-9849-880CC2F29E88";
-shapes = (
-{
-closed = 1;
-nodes = (
-(147,-685,l),
-(147,-165,l),
-(-147,-165,l),
-(-147,-685,l)
-);
-}
-);
-width = 1200;
-},
-{
-anchors = (
-{
-name = _bottom;
-}
-);
-layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
-shapes = (
-{
-closed = 1;
-nodes = (
-(83,-595,l),
-(83,-195,l),
-(-83,-195,l),
-(-83,-595,l)
-);
-}
-);
-width = 1200;
-},
-{
-anchors = (
-{
-name = _bottom;
-}
-);
-layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
-shapes = (
-{
-closed = 1;
-nodes = (
-(96,-613,l),
-(96,-189,l),
-(-96,-189,l),
-(-96,-613,l)
-);
-}
-);
-width = 1200;
-},
-{
-anchors = (
-{
-name = _bottom;
-}
-);
-layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
-shapes = (
-{
-closed = 1;
-nodes = (
-(134,-667,l),
-(134,-171,l),
-(-134,-171,l),
-(-134,-667,l)
-);
-}
-);
-width = 1200;
-},
-{
-anchors = (
-{
-name = _bottom;
-}
-);
-layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;

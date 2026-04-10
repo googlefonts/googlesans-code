@@ -1,7 +1,5 @@
 {
 glyphname = second;
-kernLeft = minute_left;
-kernRight = minute_right;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
@@ -47,62 +45,6 @@ width = 1200;
 },
 {
 layerId = "D010C1AA-6BDD-4F06-9849-880CC2F29E88";
-shapes = (
-{
-pos = (-152,0);
-ref = minute;
-},
-{
-pos = (328,0);
-ref = minute;
-}
-);
-width = 1200;
-},
-{
-layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
-shapes = (
-{
-pos = (-161,0);
-ref = minute;
-},
-{
-pos = (224,0);
-ref = minute;
-}
-);
-width = 1200;
-},
-{
-layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
-shapes = (
-{
-pos = (-159,0);
-ref = minute;
-},
-{
-pos = (245,0);
-ref = minute;
-}
-);
-width = 1200;
-},
-{
-layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
-shapes = (
-{
-pos = (-154,0);
-ref = minute;
-},
-{
-pos = (307,0);
-ref = minute;
-}
-);
-width = 1200;
-},
-{
-layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 pos = (-152,0);
