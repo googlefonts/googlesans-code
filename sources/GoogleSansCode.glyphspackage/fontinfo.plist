@@ -3447,5 +3447,5 @@ value = "1.5";
 };
 };
 versionMajor = 6;
-versionMinor = 1;
+versionMinor = 2;
 }
