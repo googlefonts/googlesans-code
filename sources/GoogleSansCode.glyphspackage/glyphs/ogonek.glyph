@@ -40,6 +40,46 @@ ref = ogonekcomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (702,0);
+ref = ogonekcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (705,0);
+ref = ogonekcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (715,0);
+ref = ogonekcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+pos = (718,0);
+ref = ogonekcomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 731;

@@ -84,6 +84,90 @@ ref = gravecomb;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (600,16);
+ref = gravecomb;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = uhorn.alt;
+},
+{
+pos = (600,16);
+ref = gravecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (600,17);
+ref = gravecomb;
+}
+);
+};
+layerId = m006;
+shapes = (
+{
+ref = uhorn.alt;
+},
+{
+pos = (600,17);
+ref = gravecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (600,19);
+ref = gravecomb;
+}
+);
+};
+layerId = m007;
+shapes = (
+{
+ref = uhorn.alt;
+},
+{
+pos = (600,19);
+ref = gravecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (600,20);
+ref = gravecomb;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+ref = uhorn.alt;
+},
+{
+pos = (600,20);
+ref = gravecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 7915;

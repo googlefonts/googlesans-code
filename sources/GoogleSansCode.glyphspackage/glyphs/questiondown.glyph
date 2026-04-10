@@ -44,6 +44,50 @@ ref = question;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (1200,1232);
+ref = question;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+angle = 180;
+pos = (1200,1232);
+ref = question;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (1200,1232);
+ref = question;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (1200,1232);
+ref = question;
+}
+);
+width = 1200;
 }
 );
 unicode = 191;

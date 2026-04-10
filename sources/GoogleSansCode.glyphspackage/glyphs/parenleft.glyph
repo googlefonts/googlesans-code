@@ -50,6 +50,54 @@ ref = parenright;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1200,1328);
+ref = parenright;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1200,1329);
+ref = parenright;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1200,1333);
+ref = parenright;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1200,1334);
+ref = parenright;
+}
+);
+width = 1200;
 }
 );
 metricLeft = "=|parenright";
