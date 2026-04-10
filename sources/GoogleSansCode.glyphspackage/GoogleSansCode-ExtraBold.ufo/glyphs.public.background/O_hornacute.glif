@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohornacute" format="2">
+  <outline>
+    <contour>
+      <point x="441" y="1658" type="line"/>
+      <point x="739" y="1658" type="line"/>
+      <point x="1049" y="2028" type="line"/>
+      <point x="1049" y="2042" type="line"/>
+      <point x="659" y="2042" type="line"/>
+      <point x="441" y="1672" type="line"/>
+    </contour>
+  </outline>
+</glyph>

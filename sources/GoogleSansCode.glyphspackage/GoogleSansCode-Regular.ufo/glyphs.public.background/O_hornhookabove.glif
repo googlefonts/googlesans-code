@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohornhookabove" format="2">
+  <outline>
+    <contour>
+      <point x="578" y="1581" type="line"/>
+      <point x="764" y="1604"/>
+      <point x="873" y="1701"/>
+      <point x="873" y="1848" type="curve" smooth="yes"/>
+      <point x="873" y="1995"/>
+      <point x="764" y="2092"/>
+      <point x="598" y="2092" type="curve" smooth="yes"/>
+      <point x="524" y="2092"/>
+      <point x="451" y="2076"/>
+      <point x="384" y="2048" type="curve"/>
+      <point x="429" y="1905" type="line"/>
+      <point x="483" y="1925"/>
+      <point x="539" y="1936"/>
+      <point x="594" y="1936" type="curve" smooth="yes"/>
+      <point x="680" y="1936"/>
+      <point x="724" y="1903"/>
+      <point x="724" y="1842" type="curve" smooth="yes"/>
+      <point x="724" y="1776"/>
+      <point x="667" y="1737"/>
+      <point x="555" y="1725" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

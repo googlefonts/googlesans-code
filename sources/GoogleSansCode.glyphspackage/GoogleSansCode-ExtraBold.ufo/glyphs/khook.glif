@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khook" format="2">
+  <advance width="1200"/>
+  <unicode hex="0199"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="1001" type="line" smooth="yes"/>
+      <point x="432" y="1165"/>
+      <point x="494" y="1249"/>
+      <point x="618" y="1249" type="curve" smooth="yes"/>
+      <point x="667" y="1249"/>
+      <point x="701" y="1242"/>
+      <point x="746" y="1223" type="curve"/>
+      <point x="852" y="1508" type="line"/>
+      <point x="768" y="1542"/>
+      <point x="683" y="1559"/>
+      <point x="593" y="1559" type="curve" smooth="yes"/>
+      <point x="287" y="1559"/>
+      <point x="90" y="1359"/>
+      <point x="90" y="1019" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="788" y="0" type="line"/>
+      <point x="1162" y="0" type="line"/>
+      <point x="742" y="626" type="line"/>
+      <point x="742" y="512" type="line"/>
+      <point x="1152" y="1054" type="line"/>
+      <point x="774" y="1054" type="line"/>
+      <point x="417" y="572" type="line"/>
+      <point x="417" y="564" type="line"/>
+    </contour>
+  </outline>
+</glyph>

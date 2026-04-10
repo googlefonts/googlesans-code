@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="1200"/>
+  <unicode hex="013D"/>
+  <anchor x="634" y="0" name="bottom"/>
+  <anchor x="322" y="1432" name="top"/>
+  <outline>
+    <contour>
+      <point x="677" y="872" type="line"/>
+      <point x="959" y="872" type="line"/>
+      <point x="1070" y="1432" type="line"/>
+      <point x="722" y="1432" type="line"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

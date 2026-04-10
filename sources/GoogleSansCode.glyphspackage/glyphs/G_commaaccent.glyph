@@ -56,6 +56,62 @@ ref = commaaccentcomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = G;
+},
+{
+alignment = -1;
+pos = (666,0);
+ref = commaaccentcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = G;
+},
+{
+alignment = -1;
+pos = (671,0);
+ref = commaaccentcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = G;
+},
+{
+alignment = -1;
+pos = (687,0);
+ref = commaaccentcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = G;
+},
+{
+alignment = -1;
+pos = (692,0);
+ref = commaaccentcomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 290;

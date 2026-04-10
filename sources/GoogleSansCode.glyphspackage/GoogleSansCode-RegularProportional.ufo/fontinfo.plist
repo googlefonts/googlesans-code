@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>1460</integer>
+    <key>capHeight</key>
+    <integer>1432</integer>
+    <key>copyright</key>
+    <string>Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)</string>
+    <key>descender</key>
+    <integer>-436</integer>
+    <key>familyName</key>
+    <string>Google Sans Code</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>y</key>
+        <integer>1464</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>y</key>
+        <integer>1492</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>y</key>
+        <integer>626</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>y</key>
+        <integer>1134</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>y</key>
+        <integer>1944</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>y</key>
+        <integer>-656</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Base of Tittle [locked]</string>
+        <key>y</key>
+        <integer>1278</integer>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeGaspRangeRecords</key>
+    <array>
+      <dict>
+        <key>rangeGaspBehavior</key>
+        <array>
+          <integer>0</integer>
+          <integer>1</integer>
+          <integer>2</integer>
+          <integer>3</integer>
+        </array>
+        <key>rangeMaxPPEM</key>
+        <integer>65535</integer>
+      </dict>
+    </array>
+    <key>openTypeHeadCreated</key>
+    <string>2025/03/31 23:28:34</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1932</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-572</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Google Sans Code Authors</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://openfontlicense.org</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Google LLC</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://design.google</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>8</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>612</integer>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1932</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-572</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>3</integer>
+      <integer>4</integer>
+      <integer>5</integer>
+      <integer>6</integer>
+      <integer>29</integer>
+      <integer>31</integer>
+      <integer>33</integer>
+      <integer>37</integer>
+      <integer>38</integer>
+      <integer>43</integer>
+      <integer>44</integer>
+      <integer>45</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>GOOG</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>2377</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>930</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-32</integer>
+      <integer>0</integer>
+      <integer>1047</integer>
+      <integer>1079</integer>
+      <integer>1432</integer>
+      <integer>1464</integer>
+      <integer>1460</integer>
+      <integer>1492</integer>
+    </array>
+    <key>postscriptIsFixedPitch</key>
+    <true/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-468</integer>
+      <integer>-436</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-320</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>168</integer>
+    <key>styleName</key>
+    <string>Regular Proportional</string>
+    <key>trademark</key>
+    <string>“Google”, “Google Sans” and “Google Sans Code” are trademarks of Google LLC.</string>
+    <key>unitsPerEm</key>
+    <integer>2000</integer>
+    <key>versionMajor</key>
+    <integer>6</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>xHeight</key>
+    <integer>1047</integer>
+  </dict>
+</plist>

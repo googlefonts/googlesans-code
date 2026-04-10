@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="optionKey" format="2">
+  <advance width="1200"/>
+  <unicode hex="2325"/>
+  <outline>
+    <contour>
+      <point x="709" y="143" type="line"/>
+      <point x="989" y="143" type="line"/>
+      <point x="490" y="1289" type="line"/>
+      <point x="210" y="1289" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="1019" type="line"/>
+      <point x="480" y="1019" type="line"/>
+      <point x="444" y="1289" type="line"/>
+      <point x="19" y="1289" type="line"/>
+    </contour>
+    <contour>
+      <point x="768" y="143" type="line"/>
+      <point x="1181" y="143" type="line"/>
+      <point x="1181" y="413" type="line"/>
+      <point x="715" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="720" y="1019" type="line"/>
+      <point x="1181" y="1019" type="line"/>
+      <point x="1181" y="1289" type="line"/>
+      <point x="720" y="1289" type="line"/>
+    </contour>
+  </outline>
+</glyph>

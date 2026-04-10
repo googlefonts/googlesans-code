@@ -10,7 +10,7 @@ help:
 	@echo "  make test:   Tests the fonts with fontbakery"
 	@echo
 
-build: build.stamp
+build: build.stamp android
 
 venv: venv/touchfile
 
@@ -41,6 +41,13 @@ test: venv-test build.stamp
 		qa/check-gscode.py \
 		$$TOCHECK
 
+android: build.stamp
+	mkdir -p fonts/android
+	-@rm fonts/android/*.ttf
+	cp fonts/variable/GoogleSansCode[MONO,wght].ttf fonts/android/
+	cp fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf fonts/android/
+	. venv/bin/activate; python3 scripts/prune_hvar.py fonts/android/GoogleSansCode[MONO,wght].ttf
+	. venv/bin/activate; python3 scripts/prune_hvar.py fonts/android/GoogleSansCode-Italic[MONO,wght].ttf
 clean:
 	rm -rf venv
 	find . -name "*.pyc" -delete

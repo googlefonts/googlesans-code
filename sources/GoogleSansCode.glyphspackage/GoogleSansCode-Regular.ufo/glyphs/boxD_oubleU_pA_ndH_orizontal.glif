@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxDoubleUpAndHorizontal" format="2">
+  <advance width="1200"/>
+  <unicode hex="2569"/>
+  <outline>
+    <contour>
+      <point x="690" y="734" type="line"/>
+      <point x="1290" y="734" type="line"/>
+      <point x="1290" y="914" type="line"/>
+      <point x="870" y="914" type="line"/>
+      <point x="870" y="1944" type="line"/>
+      <point x="690" y="1944" type="line"/>
+    </contour>
+    <contour>
+      <point x="-90" y="374" type="line"/>
+      <point x="1290" y="374" type="line"/>
+      <point x="1290" y="554" type="line"/>
+      <point x="-90" y="554" type="line"/>
+    </contour>
+    <contour>
+      <point x="-90" y="734" type="line"/>
+      <point x="510" y="734" type="line"/>
+      <point x="510" y="1944" type="line"/>
+      <point x="330" y="1944" type="line"/>
+      <point x="330" y="914" type="line"/>
+      <point x="-90" y="914" type="line"/>
+    </contour>
+  </outline>
+</glyph>

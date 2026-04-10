@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxHeavyRight" format="2">
+  <advance width="1200"/>
+  <unicode hex="257A"/>
+  <outline>
+    <contour>
+      <point x="450" y="374" type="line"/>
+      <point x="1350" y="374" type="line"/>
+      <point x="1350" y="914" type="line"/>
+      <point x="450" y="914" type="line"/>
+    </contour>
+  </outline>
+</glyph>

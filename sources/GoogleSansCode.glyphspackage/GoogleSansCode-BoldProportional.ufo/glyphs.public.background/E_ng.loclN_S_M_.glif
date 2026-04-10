@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng.loclNSM" format="2">
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="368" y="615" type="line"/>
+      <point x="348" y="944" type="line"/>
+      <point x="356" y="944" type="line"/>
+      <point x="849" y="0" type="line"/>
+      <point x="1130" y="0" type="line"/>
+      <point x="1130" y="1432" type="line"/>
+      <point x="831" y="1432" type="line"/>
+      <point x="831" y="861" type="line"/>
+      <point x="851" y="532" type="line"/>
+      <point x="843" y="532" type="line"/>
+      <point x="375" y="1432" type="line"/>
+      <point x="70" y="1432" type="line"/>
+    </contour>
+  </outline>
+</glyph>

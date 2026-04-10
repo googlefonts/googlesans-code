@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightArcUpAndRight" format="2">
+  <advance width="1200"/>
+  <unicode hex="2570"/>
+  <outline>
+    <contour>
+      <point x="1110" y="554" type="curve" smooth="yes"/>
+      <point x="1290" y="554" type="line"/>
+      <point x="1290" y="734" type="line"/>
+      <point x="1110" y="734" type="line" smooth="yes"/>
+      <point x="848" y="734"/>
+      <point x="690" y="892"/>
+      <point x="690" y="1154" type="curve" smooth="yes"/>
+      <point x="690" y="1944" type="line"/>
+      <point x="510" y="1944" type="line"/>
+      <point x="510" y="1154" type="line" smooth="yes"/>
+      <point x="510" y="786"/>
+      <point x="742" y="554"/>
+    </contour>
+  </outline>
+</glyph>

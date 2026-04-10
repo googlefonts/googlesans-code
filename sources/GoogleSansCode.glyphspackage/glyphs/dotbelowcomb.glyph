@@ -60,6 +60,66 @@ ref = dotaccentcomb;
 }
 );
 width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (0,-1752);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+}
+);
+layerId = m006;
+shapes = (
+{
+pos = (0,-1763);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+}
+);
+layerId = m007;
+shapes = (
+{
+pos = (0,-1798);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+}
+);
+layerId = m008;
+shapes = (
+{
+pos = (0,-1809);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 803;

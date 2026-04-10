@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng.loclNSM" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="689" y="-471" type="curve" smooth="yes"/>
+      <point x="958" y="-471"/>
+      <point x="1142" y="-277"/>
+      <point x="1142" y="8" type="curve" smooth="yes"/>
+      <point x="1142" y="1432" type="line"/>
+      <point x="806" y="1432" type="line"/>
+      <point x="806" y="924" type="line"/>
+      <point x="826" y="596" type="line"/>
+      <point x="817" y="596" type="line"/>
+      <point x="398" y="1432" type="line"/>
+      <point x="58" y="1432" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="394" y="551" type="line"/>
+      <point x="374" y="879" type="line"/>
+      <point x="383" y="879" type="line"/>
+      <point x="824" y="0" type="line"/>
+      <point x="798" y="154" type="line"/>
+      <point x="798" y="2" type="line" smooth="yes"/>
+      <point x="798" y="-85"/>
+      <point x="751" y="-137"/>
+      <point x="670" y="-137" type="curve" smooth="yes"/>
+      <point x="612" y="-137"/>
+      <point x="560" y="-116"/>
+      <point x="505" y="-71" type="curve"/>
+      <point x="320" y="-349" type="line"/>
+      <point x="425" y="-430"/>
+      <point x="549" y="-471"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

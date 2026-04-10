@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="1200"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="518" y="628" type="curve" smooth="yes"/>
+      <point x="738" y="628"/>
+      <point x="896" y="794"/>
+      <point x="896" y="1030" type="curve" smooth="yes"/>
+      <point x="896" y="1060" type="line" smooth="yes"/>
+      <point x="896" y="1296"/>
+      <point x="738" y="1462"/>
+      <point x="518" y="1462" type="curve" smooth="yes"/>
+      <point x="298" y="1462"/>
+      <point x="140" y="1296"/>
+      <point x="140" y="1060" type="curve" smooth="yes"/>
+      <point x="140" y="1030" type="line" smooth="yes"/>
+      <point x="140" y="794"/>
+      <point x="298" y="628"/>
+    </contour>
+    <contour>
+      <point x="518" y="762" type="curve" smooth="yes"/>
+      <point x="375" y="762"/>
+      <point x="286" y="864"/>
+      <point x="286" y="1032" type="curve" smooth="yes"/>
+      <point x="286" y="1058" type="line" smooth="yes"/>
+      <point x="286" y="1226"/>
+      <point x="375" y="1328"/>
+      <point x="518" y="1328" type="curve" smooth="yes"/>
+      <point x="661" y="1328"/>
+      <point x="750" y="1226"/>
+      <point x="750" y="1058" type="curve" smooth="yes"/>
+      <point x="750" y="1032" type="line" smooth="yes"/>
+      <point x="750" y="864"/>
+      <point x="661" y="762"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>40</integer>
+        <key>height</key>
+        <integer>75</integer>
+        <key>verticalShift</key>
+        <integer>651</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

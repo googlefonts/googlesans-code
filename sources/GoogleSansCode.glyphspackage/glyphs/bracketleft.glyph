@@ -78,6 +78,82 @@ ref = bracketright;
 }
 );
 width = 1200;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (2,0);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1200,1330);
+ref = bracketright;
+}
+);
+width = 1200;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (2,0);
+type = Stem;
+}
+);
+layerId = m006;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1200,1330);
+ref = bracketright;
+}
+);
+width = 1200;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (1,0);
+type = Stem;
+}
+);
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1200,1330);
+ref = bracketright;
+}
+);
+width = 1200;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (1,0);
+type = Stem;
+}
+);
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1200,1330);
+ref = bracketright;
+}
+);
+width = 1200;
 }
 );
 metricLeft = "=|bracketright";

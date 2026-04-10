@@ -82,6 +82,88 @@ ref = ogonekcomb;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (645,0);
+ref = dotaccentcomb;
+},
+{
+pos = (710,0);
+ref = ogonekcomb;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (710,0);
+ref = ogonekcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (714,3);
+ref = ogonekcomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (720,11);
+ref = ogonekcomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (655,0);
+ref = dotaccentcomb;
+},
+{
+pos = (726,14);
+ref = ogonekcomb;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (726,14);
+ref = ogonekcomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 303;
