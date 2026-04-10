@@ -1,7 +1,7 @@
 {
 color = 3;
 glyphname = itilde;
-kernLeft = i_left;
+kernLeft = idieresis_left;
 kernRight = idieresis_right;
 layers = (
 {

@@ -2,7 +2,7 @@
 color = 3;
 glyphname = ihookabove;
 kernLeft = i_left;
-kernRight = iacute_right;
+kernRight = idieresis_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -82,7 +82,7 @@ ref = idotless;
 },
 {
 alignment = -1;
-pos = (297,0);
+pos = (324,0);
 ref = hookabovecomb;
 }
 );
@@ -96,13 +96,20 @@ ref = idotless;
 },
 {
 alignment = -1;
-pos = (308,0);
+pos = (325,0);
 ref = hookabovecomb;
 }
 );
 width = 788;
 },
 {
+background = {
+shapes = (
+{
+ref = i;
+}
+);
+};
 layerId = m009;
 shapes = (
 {
@@ -110,7 +117,7 @@ ref = idotless;
 },
 {
 alignment = -1;
-pos = (242,0);
+pos = (325,0);
 ref = hookabovecomb;
 }
 );
