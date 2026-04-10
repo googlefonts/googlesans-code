@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="1200"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="659" y="700" type="line"/>
+      <point x="797" y="700" type="line"/>
+      <point x="797" y="1702" type="line"/>
+      <point x="651" y="1702" type="line"/>
+      <point x="188" y="1060" type="line"/>
+      <point x="188" y="943" type="line"/>
+      <point x="966" y="943" type="line"/>
+      <point x="966" y="1073" type="line"/>
+      <point x="752" y="1073" type="line"/>
+      <point x="718" y="1069" type="line"/>
+      <point x="352" y="1069" type="line"/>
+      <point x="352" y="1079" type="line"/>
+      <point x="655" y="1499" type="line"/>
+      <point x="720" y="1499" type="line"/>
+      <point x="665" y="1569" type="line"/>
+      <point x="665" y="1028" type="line"/>
+      <point x="659" y="999" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>148</integer>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>700</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

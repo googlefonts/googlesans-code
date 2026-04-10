@@ -56,6 +56,62 @@ ref = circumflexcomb_acutecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = -1;
+pos = (600,70);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = -1;
+pos = (600,67);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = -1;
+pos = (600,57);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = -1;
+pos = (600,54);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 7889;

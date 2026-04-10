@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="1200"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="484" y="815" type="line"/>
+      <point x="760" y="815" type="line"/>
+      <point x="760" y="1713" type="line"/>
+      <point x="586" y="1713" type="line"/>
+      <point x="172" y="1544" type="line"/>
+      <point x="272" y="1310" type="line"/>
+      <point x="484" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="687" type="line"/>
+      <point x="1000" y="687" type="line"/>
+      <point x="1000" y="941" type="line"/>
+      <point x="215" y="941" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>134</integer>
+        <key>height</key>
+        <integer>72</integer>
+        <key>verticalShift</key>
+        <integer>684</integer>
+        <key>weight</key>
+        <integer>-60</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

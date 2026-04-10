@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb" format="2">
+  <anchor x="0" y="1054" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-488" y="1164" type="line"/>
+      <point x="-152" y="1164" type="line"/>
+      <point x="20" y="1379" type="line"/>
+      <point x="-20" y="1379" type="line"/>
+      <point x="152" y="1164" type="line"/>
+      <point x="488" y="1164" type="line"/>
+      <point x="488" y="1178" type="line"/>
+      <point x="130" y="1538" type="line"/>
+      <point x="-130" y="1538" type="line"/>
+      <point x="-488" y="1178" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="1622" type="curve" smooth="yes"/>
+      <point x="357" y="1622"/>
+      <point x="427" y="1708"/>
+      <point x="427" y="1880" type="curve" smooth="yes"/>
+      <point x="427" y="1968" type="line"/>
+      <point x="197" y="1968" type="line"/>
+      <point x="197" y="1910" type="line" smooth="yes"/>
+      <point x="197" y="1865"/>
+      <point x="174" y="1841"/>
+      <point x="137" y="1841" type="curve" smooth="yes"/>
+      <point x="100" y="1841"/>
+      <point x="66" y="1856"/>
+      <point x="-13" y="1905" type="curve" smooth="yes"/>
+      <point x="-80" y="1947"/>
+      <point x="-138" y="1972"/>
+      <point x="-207" y="1972" type="curve" smooth="yes"/>
+      <point x="-344" y="1972"/>
+      <point x="-427" y="1881"/>
+      <point x="-427" y="1714" type="curve" smooth="yes"/>
+      <point x="-427" y="1626" type="line"/>
+      <point x="-197" y="1626" type="line"/>
+      <point x="-197" y="1683" type="line" smooth="yes"/>
+      <point x="-197" y="1727"/>
+      <point x="-172" y="1752"/>
+      <point x="-132" y="1752" type="curve" smooth="yes"/>
+      <point x="-89" y="1752"/>
+      <point x="-54" y="1736"/>
+      <point x="25" y="1687" type="curve" smooth="yes"/>
+      <point x="93" y="1645"/>
+      <point x="152" y="1622"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1200</integer>
+    </dict>
+  </lib>
+</glyph>

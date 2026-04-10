@@ -80,6 +80,86 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(83,-595,l),
+(83,-195,l),
+(-83,-195,l),
+(-83,-595,l)
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+}
+);
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(96,-613,l),
+(96,-189,l),
+(-96,-189,l),
+(-96,-613,l)
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+}
+);
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,-667,l),
+(134,-171,l),
+(-134,-171,l),
+(-134,-667,l)
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,-685,l),
+(147,-165,l),
+(-147,-165,l),
+(-147,-685,l)
+);
+}
+);
+width = 1200;
 }
 );
 unicode = 809;

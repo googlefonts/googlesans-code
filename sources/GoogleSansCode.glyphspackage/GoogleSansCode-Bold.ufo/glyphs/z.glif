@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="1200"/>
+  <unicode hex="007A"/>
+  <anchor x="606" y="1052" name="top"/>
+  <outline>
+    <contour>
+      <point x="153" y="0" type="line"/>
+      <point x="1047" y="0" type="line"/>
+      <point x="1047" y="250" type="line"/>
+      <point x="498" y="250" type="line"/>
+      <point x="1037" y="814" type="line"/>
+      <point x="1037" y="1052" type="line"/>
+      <point x="174" y="1052" type="line"/>
+      <point x="174" y="802" type="line"/>
+      <point x="693" y="802" type="line"/>
+      <point x="153" y="238" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>72</integer>
+        <key>height</key>
+        <real>73.5</real>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

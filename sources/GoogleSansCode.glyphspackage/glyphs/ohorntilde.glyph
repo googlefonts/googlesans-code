@@ -87,6 +87,93 @@ ref = tildecomb;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (600,16);
+ref = tildecomb;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = ohorn.alt;
+},
+{
+pos = (600,16);
+ref = tildecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (598,25);
+ref = tildecomb;
+}
+);
+};
+layerId = m006;
+shapes = (
+{
+ref = ohorn.alt;
+},
+{
+alignment = -1;
+pos = (598,28);
+ref = tildecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (592,51);
+ref = tildecomb;
+}
+);
+};
+layerId = m007;
+shapes = (
+{
+ref = ohorn.alt;
+},
+{
+alignment = -1;
+pos = (592,64);
+ref = tildecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (590,60);
+ref = tildecomb;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+ref = ohorn.alt;
+},
+{
+alignment = -1;
+pos = (590,76);
+ref = tildecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 7905;

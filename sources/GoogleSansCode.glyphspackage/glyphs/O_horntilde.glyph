@@ -88,6 +88,94 @@ ref = tildecomb;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (600,400);
+ref = tildecomb;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = Ohorn.alt;
+},
+{
+alignment = -1;
+pos = (590,410);
+ref = tildecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (598,411);
+ref = tildecomb;
+}
+);
+};
+layerId = m006;
+shapes = (
+{
+ref = Ohorn.alt;
+},
+{
+alignment = -1;
+pos = (590,419);
+ref = tildecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (592,443);
+ref = tildecomb;
+}
+);
+};
+layerId = m007;
+shapes = (
+{
+ref = Ohorn.alt;
+},
+{
+alignment = -1;
+pos = (590,445);
+ref = tildecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (590,454);
+ref = tildecomb;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+ref = Ohorn.alt;
+},
+{
+alignment = -1;
+pos = (590,454);
+ref = tildecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 7904;

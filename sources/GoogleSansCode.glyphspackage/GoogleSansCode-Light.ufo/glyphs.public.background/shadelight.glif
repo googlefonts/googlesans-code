@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadelight" format="2">
+  <outline>
+    <contour>
+      <point x="0" y="1896" type="line"/>
+      <point x="82" y="1896" type="line"/>
+      <point x="82" y="1978" type="line"/>
+      <point x="0" y="1978" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="1896" type="line"/>
+      <point x="529" y="1896" type="line"/>
+      <point x="529" y="1978" type="line"/>
+      <point x="447" y="1978" type="line"/>
+    </contour>
+    <contour>
+      <point x="894" y="1896" type="line"/>
+      <point x="976" y="1896" type="line"/>
+      <point x="976" y="1978" type="line"/>
+      <point x="894" y="1978" type="line"/>
+    </contour>
+  </outline>
+</glyph>

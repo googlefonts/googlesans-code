@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="1200"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="808" y="0" type="line"/>
+      <point x="1132" y="0" type="line"/>
+      <point x="718" y="621" type="line"/>
+      <point x="674" y="639" type="line"/>
+      <point x="407" y="1052" type="line"/>
+      <point x="82" y="1052" type="line"/>
+      <point x="457" y="493" type="line"/>
+      <point x="502" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="682" y="460" type="line"/>
+      <point x="722" y="471" type="line"/>
+      <point x="1118" y="1052" type="line"/>
+      <point x="808" y="1052" type="line"/>
+      <point x="516" y="611" type="line"/>
+      <point x="477" y="601" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>73.5</real>
+        <key>weight</key>
+        <integer>-20</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -84,6 +84,90 @@ ref = tildecomb;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (530,403);
+ref = tildecomb;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (530,403);
+ref = tildecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (532,401);
+ref = tildecomb;
+}
+);
+};
+layerId = m006;
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (524,406);
+ref = tildecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (536,413);
+ref = tildecomb;
+}
+);
+};
+layerId = m007;
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (505,415);
+ref = tildecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (537,418);
+ref = tildecomb;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (499,418);
+ref = tildecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 7918;

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute" format="2">
+  <outline>
+    <contour>
+      <point x="431" y="1277" type="line"/>
+      <point x="697" y="1277" type="line"/>
+      <point x="987" y="1642" type="line"/>
+      <point x="987" y="1655" type="line"/>
+      <point x="639" y="1655" type="line"/>
+      <point x="431" y="1291" type="line"/>
+    </contour>
+  </outline>
+</glyph>

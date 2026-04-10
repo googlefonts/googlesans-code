@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute" format="2">
+  <advance width="1200"/>
+  <unicode hex="1EE9"/>
+  <outline>
+    <contour>
+      <point x="397" y="-35" type="curve" smooth="yes"/>
+      <point x="523" y="-35"/>
+      <point x="618" y="40"/>
+      <point x="676" y="143" type="curve"/>
+      <point x="687" y="143" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="1014" y="0" type="line"/>
+      <point x="1014" y="1054" type="line"/>
+      <point x="790" y="938" type="line"/>
+      <point x="835" y="938" type="line" smooth="yes"/>
+      <point x="1090" y="938"/>
+      <point x="1250" y="1041"/>
+      <point x="1250" y="1214" type="curve" smooth="yes"/>
+      <point x="1250" y="1270" type="line"/>
+      <point x="922" y="1270" type="line"/>
+      <point x="922" y="1204" type="line" smooth="yes"/>
+      <point x="922" y="1102"/>
+      <point x="867" y="1054"/>
+      <point x="762" y="1054" type="curve" smooth="yes"/>
+      <point x="688" y="1054" type="line"/>
+      <point x="688" y="402" type="line" smooth="yes"/>
+      <point x="688" y="299"/>
+      <point x="640" y="237"/>
+      <point x="557" y="237" type="curve" smooth="yes"/>
+      <point x="485" y="237"/>
+      <point x="441" y="284"/>
+      <point x="441" y="363" type="curve" smooth="yes"/>
+      <point x="441" y="1054" type="line"/>
+      <point x="115" y="1054" type="line"/>
+      <point x="115" y="288" type="line" smooth="yes"/>
+      <point x="115" y="89"/>
+      <point x="220" y="-35"/>
+    </contour>
+    <component base="acutecomb" xOffset="565" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

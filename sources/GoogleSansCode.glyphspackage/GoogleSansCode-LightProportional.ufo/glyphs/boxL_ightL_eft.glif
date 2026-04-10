@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightLeft" format="2">
+  <advance width="1200"/>
+  <unicode hex="2574"/>
+  <outline>
+    <contour>
+      <point x="-70" y="574" type="line"/>
+      <point x="670" y="574" type="line"/>
+      <point x="670" y="714" type="line"/>
+      <point x="-70" y="714" type="line"/>
+    </contour>
+  </outline>
+</glyph>

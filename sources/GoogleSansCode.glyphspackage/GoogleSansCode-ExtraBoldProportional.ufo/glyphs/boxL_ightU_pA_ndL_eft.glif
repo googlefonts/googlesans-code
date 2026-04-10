@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightUpAndLeft" format="2">
+  <advance width="1200"/>
+  <unicode hex="2518"/>
+  <outline>
+    <contour>
+      <point x="-170" y="474" type="line"/>
+      <point x="770" y="474" type="line"/>
+      <point x="770" y="1944" type="line"/>
+      <point x="430" y="1944" type="line"/>
+      <point x="430" y="814" type="line"/>
+      <point x="-170" y="814" type="line"/>
+    </contour>
+  </outline>
+</glyph>

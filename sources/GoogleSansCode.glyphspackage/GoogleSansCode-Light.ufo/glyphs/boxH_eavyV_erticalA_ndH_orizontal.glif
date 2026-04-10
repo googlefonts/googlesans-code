@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxHeavyVerticalAndHorizontal" format="2">
+  <advance width="1200"/>
+  <unicode hex="254B"/>
+  <outline>
+    <contour>
+      <point x="474" y="-656" type="line"/>
+      <point x="726" y="-656" type="line"/>
+      <point x="726" y="518" type="line"/>
+      <point x="1270" y="518" type="line"/>
+      <point x="1270" y="770" type="line"/>
+      <point x="726" y="770" type="line"/>
+      <point x="726" y="1944" type="line"/>
+      <point x="474" y="1944" type="line"/>
+      <point x="474" y="770" type="line"/>
+      <point x="-70" y="770" type="line"/>
+      <point x="-70" y="518" type="line"/>
+      <point x="474" y="518" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>CD48F611-FE47-4E18-AA73-BCA87473B9A0</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb_hookabovecomb</key>
+      <integer>19</integer>
+    </dict>
+  </dict>
+</plist>

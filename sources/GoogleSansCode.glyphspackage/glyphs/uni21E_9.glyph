@@ -1,0 +1,159 @@
+{
+glyphname = uni21E9;
+layers = (
+{
+layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
+shapes = (
+{
+pos = (0,1425);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+layerId = "68A78E10-2392-4B34-B44D-B6A5B48D0FD1";
+shapes = (
+{
+pos = (0,1425);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+layerId = "50ED6B91-33B7-40F5-8C2C-B1BEC3C77CF0";
+shapes = (
+{
+pos = (0,1425);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+layerId = "D010C1AA-6BDD-4F06-9849-880CC2F29E88";
+shapes = (
+{
+pos = (0,1430);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (0,1425);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (0,1425);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+pos = (0,1430);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+associatedMasterId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
+layerId = m009;
+name = "ExtraBold Italic Proportional";
+shapes = (
+{
+pos = (0,1430);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+associatedMasterId = m005;
+layerId = "30D47F96-550C-4F43-BA9A-22694C068DB2";
+name = "Light Italic Proportional";
+shapes = (
+{
+pos = (0,1425);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+associatedMasterId = m005;
+layerId = "267670C7-2A42-42DA-8BDB-2EE5776745EB";
+name = "Italic Proportional";
+shapes = (
+{
+pos = (0,1425);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+associatedMasterId = m005;
+layerId = "E3E64DDA-BA81-468D-B40E-EDB20FDFE306";
+name = "Bold Italic Proportional";
+shapes = (
+{
+pos = (0,1425);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+associatedMasterId = m005;
+layerId = "A5750B56-519A-49B5-9885-0976CFE016CA";
+name = "ExtraBold Italic Proportional";
+shapes = (
+{
+pos = (0,1430);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (0,1425);
+ref = uni21E7;
+scale = (1,-1);
+}
+);
+width = 1200;
+}
+);
+unicode = 8681;
+}

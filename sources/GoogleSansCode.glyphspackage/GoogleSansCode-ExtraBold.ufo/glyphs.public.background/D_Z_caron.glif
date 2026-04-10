@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DZcaron" format="2">
+  <outline>
+    <contour>
+      <point x="402" y="0" type="line"/>
+      <point x="1418" y="0" type="line"/>
+      <point x="1418" y="324" type="line"/>
+      <point x="816" y="324" type="line"/>
+      <point x="1405" y="1141" type="line"/>
+      <point x="1405" y="1432" type="line"/>
+      <point x="425" y="1432" type="line"/>
+      <point x="425" y="1108" type="line"/>
+      <point x="991" y="1108" type="line"/>
+      <point x="402" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="751" y="1638" type="line"/>
+      <point x="1079" y="1638" type="line"/>
+      <point x="1375" y="2008" type="line"/>
+      <point x="1375" y="2022" type="line"/>
+      <point x="1045" y="2022" type="line"/>
+      <point x="879" y="1723" type="line"/>
+      <point x="951" y="1723" type="line"/>
+      <point x="785" y="2022" type="line"/>
+      <point x="455" y="2022" type="line"/>
+      <point x="455" y="2008" type="line"/>
+    </contour>
+  </outline>
+</glyph>

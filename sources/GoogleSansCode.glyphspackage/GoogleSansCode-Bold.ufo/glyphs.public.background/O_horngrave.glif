@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorngrave" format="2">
+  <outline>
+    <contour>
+      <point x="463" y="1657" type="line"/>
+      <point x="729" y="1657" type="line"/>
+      <point x="729" y="1671" type="line"/>
+      <point x="522" y="2035" type="line"/>
+      <point x="174" y="2035" type="line"/>
+      <point x="174" y="2022" type="line"/>
+    </contour>
+  </outline>
+</glyph>
