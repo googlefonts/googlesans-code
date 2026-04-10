@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 7;
 glyphname = dcroat;
 kernLeft = o_left;
 kernRight = dcroat_right;
