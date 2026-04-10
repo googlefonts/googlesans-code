@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = bar;
 kernLeft = bar_left;
 kernRight = bar_right;
@@ -63,66 +62,6 @@ nodes = (
 }
 );
 width = 1200;
-},
-{
-layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
-shapes = (
-{
-closed = 1;
-nodes = (
-(392,-346,l),
-(392,1778,l),
-(240,1778,l),
-(240,-346,l)
-);
-}
-);
-width = 632;
-},
-{
-layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
-shapes = (
-{
-closed = 1;
-nodes = (
-(418,-346,l),
-(418,1778,l),
-(226,1778,l),
-(226,-346,l)
-);
-}
-);
-width = 644;
-},
-{
-layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
-shapes = (
-{
-closed = 1;
-nodes = (
-(492,-346,l),
-(492,1778,l),
-(184,1778,l),
-(184,-346,l)
-);
-}
-);
-width = 676;
-},
-{
-layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
-shapes = (
-{
-closed = 1;
-nodes = (
-(514,-346,l),
-(514,1778,l),
-(170,1778,l),
-(170,-346,l)
-);
-}
-);
-width = 684;
 }
 );
 unicode = 124;

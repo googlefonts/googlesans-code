@@ -1,6 +1,5 @@
 {
 case = minor;
-color = 4;
 glyphname = quoteleft;
 kernLeft = quoteleft_left;
 kernRight = quoteleft_right;
@@ -48,50 +47,6 @@ ref = quoteright;
 }
 );
 width = 1200;
-},
-{
-layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
-shapes = (
-{
-angle = 180;
-pos = (568,2369);
-ref = quoteright;
-}
-);
-width = 568;
-},
-{
-layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
-shapes = (
-{
-angle = 180;
-pos = (581,2332);
-ref = quoteright;
-}
-);
-width = 581;
-},
-{
-layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
-shapes = (
-{
-angle = 180;
-pos = (621,2227);
-ref = quoteright;
-}
-);
-width = 621;
-},
-{
-layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
-shapes = (
-{
-angle = 180;
-pos = (634,2190);
-ref = quoteright;
-}
-);
-width = 634;
 }
 );
 metricLeft = "=|quoteright";

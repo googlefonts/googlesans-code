@@ -1,14 +1,10 @@
 {
-.appVersion = "3436";
+.appVersion = "3414";
 .formatVersion = 3;
 axes = (
 {
 name = Weight;
 tag = wght;
-},
-{
-name = Monospaced;
-tag = MONO;
 }
 );
 classes = (
@@ -41,7 +37,7 @@ name = latn_Numerals_DFLT;
 customParameters = (
 {
 name = isFixedPitch;
-value = 0;
+value = 1;
 },
 {
 name = "Use Typo Metrics";
@@ -1025,7 +1021,6 @@ lookup locl_latn_LSM_ISM_Eng {
 language ISM; #Inari Sami
 lookup locl_latn_LSM_ISM_Eng;
 ";
-disabled = 1;
 tag = locl;
 },
 {
@@ -1044,8 +1039,7 @@ tag = ss01;
 fontMaster = (
 {
 axesValues = (
-300,
-0
+300
 );
 customParameters = (
 {
@@ -1098,10 +1092,6 @@ value = (
 {
 Axis = Weight;
 Location = 300;
-},
-{
-Axis = Monospaced;
-Location = 0;
 }
 );
 },
@@ -1195,12 +1185,10 @@ userData = {
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 10;
 };
-visible = 1;
 },
 {
 axesValues = (
-400,
-0
+400
 );
 customParameters = (
 {
@@ -1253,10 +1241,6 @@ value = (
 {
 Axis = Weight;
 Location = 400;
-},
-{
-Axis = Monospaced;
-Location = 0;
 }
 );
 },
@@ -1328,8 +1312,7 @@ name = Regular;
 },
 {
 axesValues = (
-700,
-0
+700
 );
 customParameters = (
 {
@@ -1382,10 +1365,6 @@ value = (
 {
 Axis = Weight;
 Location = 700;
-},
-{
-Axis = Monospaced;
-Location = 0;
 }
 );
 },
@@ -1454,8 +1433,7 @@ name = Bold;
 },
 {
 axesValues = (
-800,
-0
+800
 );
 customParameters = (
 {
@@ -1508,10 +1486,6 @@ value = (
 {
 Axis = Weight;
 Location = 800;
-},
-{
-Axis = Monospaced;
-Location = 0;
 }
 );
 },
@@ -1619,586 +1593,6 @@ userData = {
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 10;
 };
-},
-{
-axesValues = (
-300,
-1
-);
-customParameters = (
-{
-name = typoAscender;
-value = 1932;
-},
-{
-name = typoDescender;
-value = -572;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 1932;
-},
-{
-name = hheaDescender;
-value = -572;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 2377;
-},
-{
-name = winDescent;
-value = 930;
-},
-{
-name = underlineThickness;
-value = 168;
-},
-{
-name = underlinePosition;
-value = -320;
-},
-{
-name = "Master Icon Glyph Name";
-value = n;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-},
-{
-name = weightClass;
-value = 300;
-},
-{
-name = strikeoutPosition;
-value = 612;
-}
-);
-guides = (
-{
-locked = 1;
-pos = (0,1462);
-},
-{
-locked = 1;
-pos = (0,626);
-},
-{
-locked = 1;
-pos = (0,1090);
-},
-{
-locked = 1;
-pos = (0,166);
-},
-{
-locked = 1;
-pos = (0,258);
-},
-{
-locked = 1;
-name = "Android yMax limit";
-pos = (0,1896);
-},
-{
-locked = 1;
-name = "Android yMin limit";
-pos = (0,-608);
-},
-{
-locked = 1;
-name = Comb_Mark_bottom;
-pos = (0,1163);
-},
-{
-locked = 1;
-name = Comb_Mark_top;
-pos = (0,1695);
-},
-{
-locked = 1;
-name = "Base of Tittle";
-pos = (0,1289);
-},
-{
-locked = 1;
-pos = (0,-440);
-}
-);
-iconName = Light;
-id = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
-metricValues = (
-{
-over = 30;
-pos = 1460;
-},
-{
-over = 30;
-pos = 1432;
-},
-{
-over = 30;
-pos = 1045;
-},
-{
-over = -30;
-},
-{
-over = -30;
-pos = -436;
-},
-{
-}
-);
-name = "Light Proportional";
-userData = {
-GSOffsetHorizontal = 10;
-GSOffsetVertical = 10;
-};
-},
-{
-axesValues = (
-400,
-1
-);
-customParameters = (
-{
-name = typoAscender;
-value = 1932;
-},
-{
-name = typoDescender;
-value = -572;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 1932;
-},
-{
-name = hheaDescender;
-value = -572;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 2377;
-},
-{
-name = winDescent;
-value = 930;
-},
-{
-name = underlineThickness;
-value = 168;
-},
-{
-name = underlinePosition;
-value = -320;
-},
-{
-name = "Master Icon Glyph Name";
-value = n;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-},
-{
-name = weightClass;
-value = 400;
-},
-{
-name = strikeoutPosition;
-value = 612;
-}
-);
-guides = (
-{
-locked = 1;
-pos = (0,1464);
-},
-{
-locked = 1;
-pos = (0,1492);
-},
-{
-locked = 1;
-pos = (0,626);
-},
-{
-locked = 1;
-pos = (0,1134);
-},
-{
-locked = 1;
-pos = (0,1944);
-},
-{
-locked = 1;
-pos = (0,-656);
-},
-{
-locked = 1;
-name = "Base of Tittle";
-pos = (0,1278);
-}
-);
-id = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
-metricValues = (
-{
-over = 32;
-pos = 1460;
-},
-{
-over = 32;
-pos = 1432;
-},
-{
-over = 32;
-pos = 1047;
-},
-{
-over = -32;
-},
-{
-over = -32;
-pos = -436;
-},
-{
-}
-);
-name = "Regular Proportional";
-},
-{
-axesValues = (
-700,
-1
-);
-customParameters = (
-{
-name = typoAscender;
-value = 1932;
-},
-{
-name = typoDescender;
-value = -572;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 1932;
-},
-{
-name = hheaDescender;
-value = -572;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 2377;
-},
-{
-name = winDescent;
-value = 930;
-},
-{
-name = underlineThickness;
-value = 168;
-},
-{
-name = underlinePosition;
-value = -320;
-},
-{
-name = "Master Icon Glyph Name";
-value = n;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-},
-{
-name = weightClass;
-value = 700;
-},
-{
-name = strikeoutPosition;
-value = 612;
-}
-);
-guides = (
-{
-locked = 1;
-pos = (0,1466);
-},
-{
-locked = 1;
-pos = (0,1494);
-},
-{
-locked = 1;
-pos = (0,646);
-},
-{
-locked = 1;
-pos = (0,-656);
-},
-{
-locked = 1;
-pos = (0,1944);
-},
-{
-locked = 1;
-name = "Base of Tittle";
-pos = (0,1246);
-}
-);
-iconName = SemiBold;
-id = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
-metricValues = (
-{
-over = 34;
-pos = 1460;
-},
-{
-over = 34;
-pos = 1432;
-},
-{
-over = 34;
-pos = 1052;
-},
-{
-over = -34;
-},
-{
-over = -34;
-pos = -436;
-},
-{
-}
-);
-name = "Bold Proportional";
-},
-{
-axesValues = (
-800,
-1
-);
-customParameters = (
-{
-name = typoAscender;
-value = 1932;
-},
-{
-name = typoDescender;
-value = -572;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 1932;
-},
-{
-name = hheaDescender;
-value = -572;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 2377;
-},
-{
-name = winDescent;
-value = 930;
-},
-{
-name = underlineThickness;
-value = 168;
-},
-{
-name = underlinePosition;
-value = -320;
-},
-{
-name = "Master Icon Glyph Name";
-value = n;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-},
-{
-name = weightClass;
-value = 800;
-},
-{
-name = strikeoutPosition;
-value = 612;
-}
-);
-guides = (
-{
-locked = 1;
-pos = (0,1460);
-},
-{
-locked = 1;
-pos = (0,1494);
-},
-{
-locked = 1;
-pos = (0,645);
-},
-{
-locked = 1;
-pos = (0,1300);
-},
-{
-locked = 1;
-pos = (0,136);
-},
-{
-locked = 1;
-pos = (0,1296);
-},
-{
-locked = 1;
-pos = (0,318);
-},
-{
-locked = 1;
-pos = (0,1114);
-},
-{
-locked = 1;
-pos = (0,1896);
-},
-{
-locked = 1;
-pos = (0,-608);
-},
-{
-locked = 1;
-name = Comb_Mark_bottom;
-pos = (0,1260);
-},
-{
-locked = 1;
-name = Comb_Mark_top;
-pos = (0,1644);
-},
-{
-locked = 1;
-pos = (0,1768);
-},
-{
-locked = 1;
-name = "Base of Tittle";
-pos = (0,1235);
-},
-{
-locked = 1;
-pos = (0,-451);
-},
-{
-pos = (846,1527);
-}
-);
-iconName = Bold;
-id = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
-metricValues = (
-{
-over = 35;
-pos = 1460;
-},
-{
-over = 35;
-pos = 1432;
-},
-{
-over = 35;
-pos = 1054;
-},
-{
-over = -35;
-},
-{
-over = -35;
-pos = -436;
-},
-{
-}
-);
-name = "ExtraBold Proportional";
-userData = {
-GSOffsetHorizontal = 10;
-GSOffsetVertical = 10;
-};
 }
 );
 instances = (
@@ -2259,8 +1653,7 @@ type = variable;
 },
 {
 axesValues = (
-300,
-0
+300
 );
 customParameters = (
 {
@@ -2281,19 +1674,6 @@ value = (
 2,
 4
 );
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = Monospaced;
-Location = 0;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -2310,8 +1690,7 @@ weightClass = 300;
 },
 {
 axesValues = (
-400,
-0
+400
 );
 customParameters = (
 {
@@ -2336,19 +1715,6 @@ value = (
 2,
 4
 );
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-},
-{
-Axis = Monospaced;
-Location = 0;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -2364,8 +1730,7 @@ value = "GoogleSansCode-Regular";
 },
 {
 axesValues = (
-500,
-0
+500
 );
 customParameters = (
 {
@@ -2393,10 +1758,6 @@ value = (
 {
 Axis = Weight;
 Location = 500;
-},
-{
-Axis = Monospaced;
-Location = 0;
 }
 );
 }
@@ -2416,8 +1777,7 @@ weightClass = 500;
 },
 {
 axesValues = (
-600,
-0
+600
 );
 customParameters = (
 {
@@ -2445,10 +1805,6 @@ value = (
 {
 Axis = Weight;
 Location = 600;
-},
-{
-Axis = Monospaced;
-Location = 0;
 }
 );
 }
@@ -2468,8 +1824,7 @@ weightClass = 600;
 },
 {
 axesValues = (
-700,
-0
+700
 );
 customParameters = (
 {
@@ -2489,19 +1844,6 @@ value = (
 4,
 2,
 4
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-},
-{
-Axis = Monospaced;
-Location = 0;
-}
 );
 }
 );
@@ -2521,8 +1863,7 @@ weightClass = 700;
 },
 {
 axesValues = (
-800,
-0
+800
 );
 customParameters = (
 {
@@ -2550,10 +1891,6 @@ value = (
 {
 Axis = Weight;
 Location = 800;
-},
-{
-Axis = Monospaced;
-Location = 0;
 }
 );
 }
@@ -2566,276 +1903,6 @@ properties = (
 {
 key = variablePostscriptFontName;
 value = "GoogleSansCode-ExtraBold";
-}
-);
-weightClass = 800;
-},
-{
-axesValues = (
-300,
-1
-);
-customParameters = (
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"88819DE9-98C6-4AB7-BD8B-9DF84621D738" = 1;
-};
-name = "Light Proportional";
-properties = (
-{
-key = variablePostscriptFontName;
-value = "GoogleSansCode-LightProp";
-}
-);
-weightClass = 300;
-},
-{
-axesValues = (
-400,
-1
-);
-customParameters = (
-{
-name = panose;
-value = (
-2,
-11,
-5,
-9,
-3,
-5,
-2,
-4,
-2,
-4
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"ED70A957-8AC1-4977-BF37-207E470C4E2E" = 1;
-};
-name = "Regular Proportional";
-properties = (
-{
-key = variablePostscriptFontName;
-value = "GoogleSansCode-RegularProp";
-}
-);
-},
-{
-axesValues = (
-500,
-1
-);
-customParameters = (
-{
-name = panose;
-value = (
-2,
-11,
-6,
-9,
-3,
-5,
-2,
-4,
-2,
-4
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"1DFF5E08-190B-46A4-A527-B6F0A79A5803" = 0.33333;
-"ED70A957-8AC1-4977-BF37-207E470C4E2E" = 0.66667;
-};
-name = "Medium Proportional";
-properties = (
-{
-key = variablePostscriptFontName;
-value = "GoogleSansCode-MediumProp";
-}
-);
-weightClass = 500;
-},
-{
-axesValues = (
-600,
-1
-);
-customParameters = (
-{
-name = panose;
-value = (
-2,
-11,
-7,
-9,
-3,
-5,
-2,
-4,
-2,
-4
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"1DFF5E08-190B-46A4-A527-B6F0A79A5803" = 0.66667;
-"ED70A957-8AC1-4977-BF37-207E470C4E2E" = 0.33333;
-};
-name = "SemiBold Proportional";
-properties = (
-{
-key = variablePostscriptFontName;
-value = "GoogleSansCode-SemiBoldProp";
-}
-);
-weightClass = 600;
-},
-{
-axesValues = (
-700,
-1
-);
-customParameters = (
-{
-name = panose;
-value = (
-2,
-11,
-8,
-9,
-3,
-5,
-2,
-4,
-2,
-4
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"1DFF5E08-190B-46A4-A527-B6F0A79A5803" = 1;
-};
-isBold = 1;
-linkStyle = Regular;
-name = "Bold Proportional";
-properties = (
-{
-key = variablePostscriptFontName;
-value = "GoogleSansCode-BoldProp";
-}
-);
-weightClass = 700;
-},
-{
-axesValues = (
-800,
-1
-);
-customParameters = (
-{
-name = panose;
-value = (
-2,
-11,
-9,
-9,
-3,
-5,
-2,
-4,
-2,
-4
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-},
-{
-Axis = Monospaced;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"F632DC93-BEFD-4CC9-8CF6-AC4643A09268" = 1;
-};
-name = "ExtraBold Proportional";
-properties = (
-{
-key = variablePostscriptFontName;
-value = "GoogleSansCode-ExtraBoldProp";
 }
 );
 weightClass = 800;

@@ -1,7 +1,5 @@
 {
 glyphname = tcedilla;
-kernLeft = t_left;
-kernRight = t_right;
 layers = (
 {
 background = {
@@ -94,98 +92,6 @@ ref = cedillacomb;
 }
 );
 width = 1200;
-},
-{
-background = {
-shapes = (
-{
-alignment = -1;
-pos = (698,0);
-ref = cedillacomb;
-}
-);
-};
-layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
-shapes = (
-{
-ref = t;
-},
-{
-alignment = -1;
-pos = (698,0);
-ref = cedillacomb;
-}
-);
-width = 905;
-},
-{
-background = {
-shapes = (
-{
-alignment = -1;
-pos = (702,0);
-ref = cedillacomb;
-}
-);
-};
-layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
-shapes = (
-{
-ref = t;
-},
-{
-alignment = -1;
-pos = (702,0);
-ref = cedillacomb;
-}
-);
-width = 897;
-},
-{
-background = {
-shapes = (
-{
-alignment = -1;
-pos = (685,0);
-ref = cedillacomb;
-}
-);
-};
-layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
-shapes = (
-{
-ref = t;
-},
-{
-alignment = -1;
-pos = (699,0);
-ref = cedillacomb;
-}
-);
-width = 871;
-},
-{
-background = {
-shapes = (
-{
-alignment = -1;
-pos = (698,0);
-ref = cedillacomb;
-}
-);
-};
-layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
-shapes = (
-{
-ref = t;
-},
-{
-alignment = -1;
-pos = (699,0);
-ref = cedillacomb;
-}
-);
-width = 862;
 }
 );
 unicode = 355;
