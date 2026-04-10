@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = threequarters;
+kernLeft = threequarters_left;
+kernRight = threequarters_right;
 layers = (
 {
 background = {
