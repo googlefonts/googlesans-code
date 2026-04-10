@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = divisionslash;
 kernLeft = divisionslash_left;
 kernRight = divisionslash_right;

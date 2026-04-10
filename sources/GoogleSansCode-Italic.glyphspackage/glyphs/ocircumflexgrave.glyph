@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = ocircumflexgrave;
 kernLeft = o_left;
 kernRight = o_right;

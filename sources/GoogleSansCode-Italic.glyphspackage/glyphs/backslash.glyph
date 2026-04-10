@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = backslash;
 kernLeft = backslash_left;
 kernRight = backslash_right;

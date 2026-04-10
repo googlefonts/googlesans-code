@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = rcaron;
 kernLeft = r_left;
 kernRight = r_right;

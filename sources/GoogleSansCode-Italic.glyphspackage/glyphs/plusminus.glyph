@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = plusminus;
 kernLeft = plusminus_left;
 kernRight = plusminus_right;

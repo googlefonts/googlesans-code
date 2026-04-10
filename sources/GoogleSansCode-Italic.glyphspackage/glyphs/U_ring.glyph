@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Uring;
 kernLeft = U_left;
 kernRight = U_right;

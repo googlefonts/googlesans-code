@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Tcaron;
 kernLeft = T_left;
 kernRight = T_right;

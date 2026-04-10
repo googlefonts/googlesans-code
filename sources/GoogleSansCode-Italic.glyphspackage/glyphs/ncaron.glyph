@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = ncaron;
 kernLeft = ntilde_right;
 kernRight = n_right;

@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = uhorngrave;
 kernLeft = u_left;
 kernRight = uhorn_right;

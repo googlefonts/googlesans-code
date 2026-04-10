@@ -1,5 +1,4 @@
 {
-color = 7;
 glyphname = igrave;
 kernLeft = igrave_left;
 kernRight = i_right;

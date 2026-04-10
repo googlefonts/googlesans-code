@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Ytilde;
 kernLeft = Y_left;
 kernRight = Y_right;

@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = umacron;
 kernLeft = u_left;
 kernRight = a_right;

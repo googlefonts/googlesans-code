@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Zcaron;
 kernLeft = Z_left;
 kernRight = Z_right;

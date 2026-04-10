@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = lessequal;
 kernLeft = lessequal_left;
 kernRight = lessequal_right;

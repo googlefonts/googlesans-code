@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Dcaron;
 kernLeft = H_left;
 kernRight = O_right;

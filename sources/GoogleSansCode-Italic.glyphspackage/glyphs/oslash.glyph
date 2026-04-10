@@ -1,5 +1,4 @@
 {
-color = 7;
 glyphname = oslash;
 kernLeft = oslash_left;
 kernRight = oslash_right;

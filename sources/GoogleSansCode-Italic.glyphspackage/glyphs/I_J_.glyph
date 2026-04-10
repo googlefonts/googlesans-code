@@ -1,5 +1,4 @@
 {
-color = 6;
 glyphname = IJ;
 kernLeft = U_left;
 kernRight = U_right;

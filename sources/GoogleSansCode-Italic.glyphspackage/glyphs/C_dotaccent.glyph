@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Cdotaccent;
 kernLeft = O_left;
 kernRight = C_right;
