@@ -20,6 +20,13 @@ build.stamp: venv sources/config.yaml $(SOURCES)
 	rm -rf fonts
 	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
 
+android: build.stamp
+	mkdir -p fonts/android
+	-@rm fonts/android/*.ttf
+	cp fonts/variable/GoogleSansCode[wght].ttf fonts/variable/GoogleSansCode-Italic[wght].ttf fonts/android
+	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode[wght].ttf
+	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode-Italic[wght].ttf
+
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
 	. venv/bin/activate; pip install -Ur requirements.txt
@@ -65,3 +72,10 @@ update: venv venv-test
 
 	git commit -m "Update requirements" requirements.txt requirements-test.txt
 	git push
+
+# ---------------------------
+# Generate BASE table records
+# ---------------------------
+autobase: build
+	cargo binstall autobase-cli --no-confirm || cargo install --locked autobase-cli
+	autobase --min-max --config sources/autobase.toml --words 1000000 fonts/variable/GoogleSansCode*.ttf

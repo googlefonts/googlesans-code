@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 10
     steps:
     - name: Checkout ${{ inputs.before }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         ref: ${{ inputs.before }}
     - name: Setup Python
@@ -29,7 +29,7 @@ jobs:
     - name: Build fonts
       run: source .venv/bin/activate && make build
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: Before VFs (${{ inputs.before }})
         path: fonts/variable
@@ -38,7 +38,7 @@ jobs:
     timeout-minutes: 10
     steps:
     - name: Checkout ${{ inputs.after }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         ref: ${{ inputs.after }}
     - name: Setup Python
@@ -51,7 +51,7 @@ jobs:
     - name: Build fonts
       run: source .venv/bin/activate && make build
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: After VFs (${{ inputs.after }})
         path: fonts/variable
@@ -63,16 +63,16 @@ jobs:
     - build-after
     steps:
     - name: Checkout python-version.txt from main
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         sparse-checkout: .github/python-version.txt
     - name: Download before fonts
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
         name: Before VFs (${{ inputs.before }})
         path: before
     - name: Download after fonts
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
         name: After VFs (${{ inputs.after }})
         path: after
@@ -89,7 +89,7 @@ jobs:
         diffenator2 diff --fonts-before before/*.ttf --fonts-after after/*.ttf \
           --out diffenator_report
     - name: Upload diffenator report
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: Diffenator2 report (${{ inputs.before }} vs ${{ inputs.after }})
         path: diffenator_report

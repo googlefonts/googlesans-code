@@ -16,20 +16,29 @@ jobs:
     timeout-minutes: 10
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         ref: ${{ github.head_ref || github.ref_name }}
+    - name: Setup Python
+      uses: actions/setup-python@v6
+      with:
+        python-version-file: .github/python-version.txt
+        cache: pip
     - name: Create folder
-      run: |
-        mkdir -p fonts/variable
+      run: mkdir -p fonts/variable
     - name: Install cargo-binstall
-      uses: cargo-bins/cargo-binstall@v1.14.4
+      uses: cargo-bins/cargo-binstall@v1.17.9
     - name: Use cargo-binstall to grab precompiled fontc
-      run: cargo binstall fontc@0.3.1
+      run: cargo binstall fontc@0.5.0
     - name: Build upright font
       run: fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[wght].ttf
     - name: Build italic font
       run: fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[wght].ttf
+    - name: Build Android fonts
+      run: |
+        make venv
+        touch build.stamp
+        make android
     - name: Generate artifact name
       id: zip-name
       uses: alpha-tango-kilo/gha-artifact-name@v1
@@ -38,7 +47,7 @@ jobs:
         overrides: |
           build-test: build
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: ${{ steps.zip-name.outputs.artifact-name }}
         path: |
@@ -52,11 +61,11 @@ jobs:
     - build
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         ref: ${{ github.head_ref || github.ref_name }}
     - name: Download built fonts
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
         name: ${{ needs.build.outputs.artifact-name }}
         path: build
@@ -80,7 +89,7 @@ jobs:
       id: fontbakery
       run: make test
     - name: Upload Fontbakery report(s)
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       # Always upload reports (even during a pipeline fail), so long as Fontbakery completed
       if: ${{ !cancelled() && (steps.fontbakery.conclusion == 'success' || steps.fontbakery.conclusion == 'failure') }}
       with:
@@ -99,27 +108,28 @@ jobs:
       contents: write
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         ref: ${{ github.head_ref || github.ref_name }}
     - name: Download built fonts
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
         name: ${{ needs.build.outputs.artifact-name }}
-        path: ${{ needs.build.outputs.artifact-name }}
-    - name: Bundle license
+    - name: Create release archives
       run: |
-        cp OFL.txt "${{ needs.build.outputs.artifact-name }}"
-    - name: Create release archive
-      run: |
-        release_zip_name="GoogleSansCode-${GITHUB_REF#refs/*/}.zip"
-        echo "RELEASE_ZIP_NAME=$release_zip_name" >> "$GITHUB_ENV"
-        cd "${{ needs.build.outputs.artifact-name }}" && zip "../$release_zip_name" OFL.txt **/*.ttf
+        cp "$GITHUB_WORKSPACE/OFL.txt" "$GITHUB_WORKSPACE/variable"
+        cd "$GITHUB_WORKSPACE/variable" \
+          && zip "../GoogleSansCode-${GITHUB_REF#refs/*/}.zip" OFL.txt *.ttf
+        
+        cp "$GITHUB_WORKSPACE/OFL.txt" "$GITHUB_WORKSPACE/android"
+        cd "$GITHUB_WORKSPACE/android" \
+          && zip "../GoogleSansCode-Android-${GITHUB_REF#refs/*/}.zip" OFL.txt *.ttf
     - name: Upload binaries to release
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: ${{ env.RELEASE_ZIP_NAME }}
+        file: GoogleSansCode*.zip
+        file_glob: true
         asset_name: ${{ env.RELEASE_ZIP_NAME }}
         tag: ${{ github.ref }}
         overwrite: true

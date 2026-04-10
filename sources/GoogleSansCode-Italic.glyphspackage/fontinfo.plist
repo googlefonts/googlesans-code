@@ -876,6 +876,16 @@ code = "table STAT {
 } STAT;
 ";
 name = STAT;
+},
+{
+code = "table BASE {
+	HorizAxis.BaseTagList romn;
+	HorizAxis.BaseScriptList latn romn 0;
+	HorizAxis.MinMax latn dflt -930, 2165;
+	HorizAxis.MinMax latn VIT  -930, 2350;
+} BASE;
+";
+name = BASE;
 }
 );
 features = (
