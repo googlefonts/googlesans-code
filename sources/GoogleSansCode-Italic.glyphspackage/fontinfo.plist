@@ -804,7 +804,7 @@ value = {
 };
 }
 );
-date = "2025-03-31 23:28:59 +0000";
+date = "2026-04-10 16:27:46 +0000";
 familyName = "Google Sans Code";
 featurePrefixes = (
 {
@@ -26212,7 +26212,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)";
+value = "Copyright 2026 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)";
 }
 );
 },
@@ -26779,6 +26779,6 @@ value = "1.5";
 };
 };
 };
-versionMajor = 6;
-versionMinor = 1;
+versionMajor = 7;
+versionMinor = 0;
 }
