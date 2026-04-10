@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="quotedblbase" format="2">
-  <advance width="1200"/>
-  <unicode hex="201E"/>
-  <outline>
-    <component base="comma" xOffset="-206"/>
-    <component base="comma" xOffset="272"/>
-  </outline>
-</glyph>
