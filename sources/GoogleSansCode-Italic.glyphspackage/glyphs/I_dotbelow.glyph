@@ -62,11 +62,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (366,0);
+pos = (386,0);
 ref = dotbelowcomb;
 }
 );
-width = 980;
+width = 1020;
 },
 {
 layerId = m007;
@@ -75,11 +75,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (346,0);
+pos = (366,0);
 ref = dotbelowcomb;
 }
 );
-width = 941;
+width = 981;
 },
 {
 layerId = m008;
@@ -88,11 +88,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (371,0);
+pos = (391,0);
 ref = dotbelowcomb;
 }
 );
-width = 1000;
+width = 1040;
 },
 {
 layerId = m009;
@@ -101,11 +101,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (390,0);
+pos = (410,0);
 ref = dotbelowcomb;
 }
 );
-width = 1020;
+width = 1060;
 }
 );
 unicode = 7882;

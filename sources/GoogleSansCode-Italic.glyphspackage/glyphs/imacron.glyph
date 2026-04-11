@@ -1,6 +1,6 @@
 {
 glyphname = imacron;
-kernLeft = i_left;
+kernLeft = idieresis_left;
 kernRight = idieresis_right;
 layers = (
 {
