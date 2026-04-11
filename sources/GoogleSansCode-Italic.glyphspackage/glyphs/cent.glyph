@@ -513,7 +513,7 @@ associatedMasterId = m006;
 attr = {
 coordinates = (
 599.99,
-0
+1
 );
 };
 background = {
@@ -647,7 +647,7 @@ associatedMasterId = m006;
 attr = {
 coordinates = (
 600,
-0
+1
 );
 };
 background = {
@@ -907,7 +907,7 @@ associatedMasterId = m007;
 attr = {
 coordinates = (
 599.99,
-1
+0
 );
 };
 layerId = "127A8675-9B70-4B83-90DC-894802836790";
@@ -978,7 +978,7 @@ associatedMasterId = m007;
 attr = {
 coordinates = (
 600,
-1
+0
 );
 };
 layerId = "1849AE86-63D4-4D1B-B15C-B361157CBD27";

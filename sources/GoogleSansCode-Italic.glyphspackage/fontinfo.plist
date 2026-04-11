@@ -1091,7 +1091,7 @@ fontMaster = (
 {
 axesValues = (
 300,
-0
+1
 );
 customParameters = (
 {
@@ -1147,7 +1147,7 @@ Location = 300;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 },
@@ -1217,7 +1217,7 @@ GSSlanterRotate = 10;
 {
 axesValues = (
 400,
-0
+1
 );
 customParameters = (
 {
@@ -1273,7 +1273,7 @@ Location = 400;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 },
@@ -1328,7 +1328,7 @@ name = Italic;
 {
 axesValues = (
 700,
-0
+1
 );
 customParameters = (
 {
@@ -1384,7 +1384,7 @@ Location = 700;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 },
@@ -1439,7 +1439,7 @@ name = "Bold Italic";
 {
 axesValues = (
 800,
-0
+1
 );
 customParameters = (
 {
@@ -1495,7 +1495,7 @@ Location = 800;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 },
@@ -1558,7 +1558,7 @@ name = "ExtraBold Italic";
 {
 axesValues = (
 300,
-1
+0
 );
 customParameters = (
 {
@@ -1614,7 +1614,7 @@ Location = 300;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 },
@@ -1684,7 +1684,7 @@ GSSlanterRotate = 10;
 {
 axesValues = (
 400,
-1
+0
 );
 customParameters = (
 {
@@ -1740,7 +1740,7 @@ Location = 400;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 },
@@ -1799,7 +1799,7 @@ name = "Italic Proportional";
 {
 axesValues = (
 700,
-1
+0
 );
 customParameters = (
 {
@@ -1855,7 +1855,7 @@ Location = 700;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 },
@@ -1910,7 +1910,7 @@ name = "Bold Italic Proportional";
 {
 axesValues = (
 800,
-1
+0
 );
 customParameters = (
 {
@@ -1966,7 +1966,7 @@ Location = 800;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 },
@@ -2086,7 +2086,7 @@ type = variable;
 {
 axesValues = (
 300,
-0
+1
 );
 customParameters = (
 {
@@ -2117,7 +2117,7 @@ Location = 300;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2140,7 +2140,7 @@ weightClass = 300;
 {
 axesValues = (
 400,
-0
+1
 );
 customParameters = (
 {
@@ -2175,7 +2175,7 @@ Location = 400;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2197,7 +2197,7 @@ visible = 0;
 {
 axesValues = (
 500,
-0
+1
 );
 customParameters = (
 {
@@ -2228,7 +2228,7 @@ Location = 500;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2252,7 +2252,7 @@ weightClass = 500;
 {
 axesValues = (
 600,
-0
+1
 );
 customParameters = (
 {
@@ -2283,7 +2283,7 @@ Location = 600;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2307,7 +2307,7 @@ weightClass = 600;
 {
 axesValues = (
 700,
-0
+1
 );
 customParameters = (
 {
@@ -2338,7 +2338,7 @@ Location = 700;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2362,7 +2362,7 @@ weightClass = 700;
 {
 axesValues = (
 800,
-0
+1
 );
 customParameters = (
 {
@@ -2393,7 +2393,7 @@ Location = 800;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2416,7 +2416,7 @@ weightClass = 800;
 {
 axesValues = (
 300,
-1
+0
 );
 customParameters = (
 {
@@ -2443,7 +2443,7 @@ Location = 300;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2465,7 +2465,7 @@ weightClass = 300;
 {
 axesValues = (
 400,
-1
+0
 );
 customParameters = (
 {
@@ -2492,7 +2492,7 @@ Location = 400;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2513,7 +2513,7 @@ value = "GoogleSansCode-ItalicProp";
 {
 axesValues = (
 500,
-1
+0
 );
 customParameters = (
 {
@@ -2540,7 +2540,7 @@ Location = 500;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2563,7 +2563,7 @@ weightClass = 500;
 {
 axesValues = (
 600,
-1
+0
 );
 customParameters = (
 {
@@ -2590,7 +2590,7 @@ Location = 600;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2613,7 +2613,7 @@ weightClass = 600;
 {
 axesValues = (
 700,
-1
+0
 );
 customParameters = (
 {
@@ -2640,7 +2640,7 @@ Location = 700;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2663,7 +2663,7 @@ weightClass = 700;
 {
 axesValues = (
 800,
-1
+0
 );
 customParameters = (
 {
@@ -2690,7 +2690,7 @@ Location = 800;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }

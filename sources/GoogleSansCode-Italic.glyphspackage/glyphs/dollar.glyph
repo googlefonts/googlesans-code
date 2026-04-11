@@ -331,7 +331,7 @@ associatedMasterId = m006;
 attr = {
 coordinates = (
 599.99,
-0
+1
 );
 };
 background = {
@@ -501,7 +501,7 @@ associatedMasterId = m006;
 attr = {
 coordinates = (
 600,
-0
+1
 );
 };
 guides = (
@@ -1330,7 +1330,7 @@ associatedMasterId = m007;
 attr = {
 coordinates = (
 599,
-1
+0
 );
 };
 background = {
@@ -1490,7 +1490,7 @@ associatedMasterId = m007;
 attr = {
 coordinates = (
 600,
-1
+0
 );
 };
 background = {

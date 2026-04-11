@@ -50,7 +50,6 @@ test: venv-test build.stamp
 
 android: build.stamp
 	mkdir -p fonts/android
-	-@rm fonts/android/*.ttf
 	cp fonts/variable/GoogleSansCode[MONO,wght].ttf fonts/android/
 	cp fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf fonts/android/
 	. venv/bin/activate; python3 scripts/prune_hvar.py fonts/android/GoogleSansCode[MONO,wght].ttf

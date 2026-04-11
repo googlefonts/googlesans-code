@@ -1063,7 +1063,7 @@ fontMaster = (
 {
 axesValues = (
 300,
-0
+1
 );
 customParameters = (
 {
@@ -1119,7 +1119,7 @@ Location = 300;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 },
@@ -1217,7 +1217,7 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 400,
-0
+1
 );
 customParameters = (
 {
@@ -1273,7 +1273,7 @@ Location = 400;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 },
@@ -1346,7 +1346,7 @@ name = Regular;
 {
 axesValues = (
 700,
-0
+1
 );
 customParameters = (
 {
@@ -1402,7 +1402,7 @@ Location = 700;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 },
@@ -1472,7 +1472,7 @@ name = Bold;
 {
 axesValues = (
 800,
-0
+1
 );
 customParameters = (
 {
@@ -1528,7 +1528,7 @@ Location = 800;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 },
@@ -1640,7 +1640,7 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 300,
-1
+0
 );
 customParameters = (
 {
@@ -1696,7 +1696,7 @@ Location = 300;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 },
@@ -1794,7 +1794,7 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 400,
-1
+0
 );
 customParameters = (
 {
@@ -1850,7 +1850,7 @@ Location = 400;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 },
@@ -1923,7 +1923,7 @@ name = "Regular Proportional";
 {
 axesValues = (
 700,
-1
+0
 );
 customParameters = (
 {
@@ -1979,7 +1979,7 @@ Location = 700;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 },
@@ -2049,7 +2049,7 @@ name = "Bold Proportional";
 {
 axesValues = (
 800,
-1
+0
 );
 customParameters = (
 {
@@ -2105,7 +2105,7 @@ Location = 800;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 },
@@ -2274,7 +2274,7 @@ type = variable;
 {
 axesValues = (
 300,
-0
+1
 );
 customParameters = (
 {
@@ -2305,7 +2305,7 @@ Location = 300;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2325,7 +2325,7 @@ weightClass = 300;
 {
 axesValues = (
 400,
-0
+1
 );
 customParameters = (
 {
@@ -2360,7 +2360,7 @@ Location = 400;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2379,7 +2379,7 @@ value = "GoogleSansCode-Regular";
 {
 axesValues = (
 500,
-0
+1
 );
 customParameters = (
 {
@@ -2410,7 +2410,7 @@ Location = 500;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2431,7 +2431,7 @@ weightClass = 500;
 {
 axesValues = (
 600,
-0
+1
 );
 customParameters = (
 {
@@ -2462,7 +2462,7 @@ Location = 600;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2483,7 +2483,7 @@ weightClass = 600;
 {
 axesValues = (
 700,
-0
+1
 );
 customParameters = (
 {
@@ -2514,7 +2514,7 @@ Location = 700;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2536,7 +2536,7 @@ weightClass = 700;
 {
 axesValues = (
 800,
-0
+1
 );
 customParameters = (
 {
@@ -2567,7 +2567,7 @@ Location = 800;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2587,7 +2587,7 @@ weightClass = 800;
 {
 axesValues = (
 300,
-1
+0
 );
 customParameters = (
 {
@@ -2599,7 +2599,7 @@ Location = 300;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2619,7 +2619,7 @@ weightClass = 300;
 {
 axesValues = (
 400,
-1
+0
 );
 customParameters = (
 {
@@ -2646,7 +2646,7 @@ Location = 400;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2665,7 +2665,7 @@ value = "GoogleSansCode-RegularProp";
 {
 axesValues = (
 500,
-1
+0
 );
 customParameters = (
 {
@@ -2692,7 +2692,7 @@ Location = 500;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2713,7 +2713,7 @@ weightClass = 500;
 {
 axesValues = (
 600,
-1
+0
 );
 customParameters = (
 {
@@ -2740,7 +2740,7 @@ Location = 600;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2761,7 +2761,7 @@ weightClass = 600;
 {
 axesValues = (
 700,
-1
+0
 );
 customParameters = (
 {
@@ -2788,7 +2788,7 @@ Location = 700;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
@@ -2810,7 +2810,7 @@ weightClass = 700;
 {
 axesValues = (
 800,
-1
+0
 );
 customParameters = (
 {
@@ -2837,7 +2837,7 @@ Location = 800;
 },
 {
 Axis = Monospaced;
-Location = 1;
+Location = 0;
 }
 );
 }
