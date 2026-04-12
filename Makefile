@@ -10,7 +10,7 @@ help:
 	@echo "  make test:   Tests the fonts with fontbakery"
 	@echo
 
-build: build.stamp android
+build: build.stamp
 
 venv: venv/touchfile
 
@@ -19,6 +19,13 @@ venv-test: venv-test/touchfile
 build.stamp: venv sources/config.yaml $(SOURCES)
 	rm -rf fonts
 	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
+
+android: build.stamp
+	mkdir -p fonts/android
+	-@rm fonts/android/*.ttf
+	cp fonts/variable/GoogleSansCode[wght].ttf fonts/variable/GoogleSansCode-Italic[wght].ttf fonts/android
+	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode[wght].ttf
+	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode-Italic[wght].ttf
 
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
@@ -41,12 +48,6 @@ test: venv-test build.stamp
 		qa/check-gscode.py \
 		$$TOCHECK
 
-android: build.stamp
-	mkdir -p fonts/android
-	cp fonts/variable/GoogleSansCode[MONO,wght].ttf fonts/android/
-	cp fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf fonts/android/
-	. venv/bin/activate; python3 scripts/prune_hvar.py fonts/android/GoogleSansCode[MONO,wght].ttf
-	. venv/bin/activate; python3 scripts/prune_hvar.py fonts/android/GoogleSansCode-Italic[MONO,wght].ttf
 clean:
 	rm -rf venv
 	find . -name "*.pyc" -delete
