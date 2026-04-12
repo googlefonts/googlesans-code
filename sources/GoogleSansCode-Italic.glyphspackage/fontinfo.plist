@@ -41,7 +41,7 @@ name = latn_Numerals_DFLT;
 customParameters = (
 {
 name = isFixedPitch;
-value = 0;
+value = 1;
 },
 {
 name = "Use Typo Metrics";
