@@ -1,11 +1,13 @@
 {
 glyphname = iogonek;
+kernLeft = i_left;
+kernRight = i_right;
 layers = (
 {
 background = {
 shapes = (
 {
-ref = i;
+ref = i.original;
 }
 );
 };
@@ -59,6 +61,65 @@ ref = ogonekcomb;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+ref = i.original;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (528,0);
+ref = ogonekcomb;
+}
+);
+width = 756;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (547,4);
+ref = ogonekcomb;
+}
+);
+width = 764;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (602,14);
+ref = ogonekcomb;
+}
+);
+width = 788;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (620,17);
+ref = ogonekcomb;
+}
+);
+width = 796;
 }
 );
 unicode = 303;

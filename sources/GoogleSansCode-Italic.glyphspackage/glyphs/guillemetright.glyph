@@ -1,5 +1,8 @@
 {
+color = 4;
 glyphname = guillemetright;
+kernLeft = guilsinglright_left;
+kernRight = guilsinglright_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -44,6 +47,50 @@ ref = guillemetleft;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (1126,1064);
+ref = guillemetleft;
+}
+);
+width = 1122;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (1149,1064);
+ref = guillemetleft;
+}
+);
+width = 1146;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (1219,1064);
+ref = guillemetleft;
+}
+);
+width = 1217;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (1242,1064);
+ref = guillemetleft;
+}
+);
+width = 1240;
 }
 );
 unicode = 187;

@@ -1,6 +1,6 @@
 {
 glyphname = semicolon;
-kernLeft = colon_left;
+kernLeft = semicolon_left;
 kernRight = colon_right;
 layers = (
 {
@@ -84,8 +84,67 @@ ref = comma;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (143,807);
+ref = period;
+},
+{
+alignment = -1;
+ref = comma;
 }
 );
-metricLeft = comma;
+width = 552;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+pos = (138,782);
+ref = period;
+},
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 571;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+pos = (124,708);
+ref = period;
+},
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 627;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (120,683);
+ref = period;
+},
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 647;
+}
+);
 unicode = 59;
 }

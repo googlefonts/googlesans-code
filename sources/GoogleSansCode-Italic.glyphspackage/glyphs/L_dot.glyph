@@ -1,5 +1,7 @@
 {
 glyphname = Ldot;
+kernLeft = H_left;
+kernRight = Ldot_right;
 layers = (
 {
 background = {
@@ -84,6 +86,58 @@ ref = periodcentered;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (557,0);
+ref = periodcentered;
+}
+);
+width = 1070;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (566,0);
+ref = periodcentered;
+}
+);
+width = 1084;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (591,0);
+ref = periodcentered;
+}
+);
+width = 1119;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (599,0);
+ref = periodcentered;
+}
+);
+width = 1132;
 }
 );
 unicode = 319;

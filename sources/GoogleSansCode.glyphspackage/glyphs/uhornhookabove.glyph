@@ -84,6 +84,90 @@ ref = hookabovecomb;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (552,16);
+ref = hookabovecomb;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = uhorn.alt;
+},
+{
+pos = (542,16);
+ref = hookabovecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (533,17);
+ref = hookabovecomb;
+}
+);
+};
+layerId = m006;
+shapes = (
+{
+ref = uhorn.alt;
+},
+{
+pos = (533,17);
+ref = hookabovecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (545,19);
+ref = hookabovecomb;
+}
+);
+};
+layerId = m007;
+shapes = (
+{
+ref = uhorn.alt;
+},
+{
+pos = (505,19);
+ref = hookabovecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (545,20);
+ref = hookabovecomb;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+ref = uhorn.alt;
+},
+{
+pos = (495,20);
+ref = hookabovecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 7917;

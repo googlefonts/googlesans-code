@@ -1,5 +1,8 @@
 {
+color = 4;
 glyphname = questiondown;
+kernLeft = questiondown_left;
+kernRight = questiondown_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -44,6 +47,50 @@ ref = question;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (1095,1232);
+ref = question;
+}
+);
+width = 1062;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (1110,1232);
+ref = question;
+}
+);
+width = 1077;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (1154,1232);
+ref = question;
+}
+);
+width = 1122;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (1169,1232);
+ref = question;
+}
+);
+width = 1137;
 }
 );
 unicode = 191;

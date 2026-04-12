@@ -1,7 +1,7 @@
 {
 glyphname = underscore;
-kernLeft = unscore_left;
-kernRight = unscore_right;
+kernLeft = underscore_left;
+kernRight = underscore_right;
 layers = (
 {
 layerId = m006;
@@ -62,6 +62,66 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(996,-170,l),
+(1021,-30,l),
+(33,-30,l),
+(8,-170,l)
+);
+}
+);
+width = 1248;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1012,-202,l),
+(1042,-32,l),
+(42,-32,l),
+(12,-202,l)
+);
+}
+);
+width = 1279;
+},
+{
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(975,-294,l),
+(1021,-34,l),
+(-19,-34,l),
+(-65,-294,l)
+);
+}
+);
+width = 1199;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1006,-325,l),
+(1057,-35,l),
+(1,-35,l),
+(-50,-325,l)
+);
+}
+);
+width = 1236;
 }
 );
 unicode = 95;

@@ -1,12 +1,20 @@
 {
 glyphname = quotedblbase;
+kernLeft = comma_left;
+kernRight = period_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
 shapes = (
 {
-pos = (-215,-1217);
-ref = quotedblright;
+alignment = -1;
+pos = (-452,-1217);
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (31,-1217);
+ref = quoteright;
 }
 );
 width = 1200;
@@ -15,8 +23,14 @@ width = 1200;
 layerId = m006;
 shapes = (
 {
-pos = (-210,-1189);
-ref = quotedblright;
+alignment = -1;
+pos = (-439,-1189);
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (52,-1189);
+ref = quoteright;
 }
 );
 width = 1200;
@@ -26,8 +40,13 @@ layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
 shapes = (
 {
 alignment = -1;
-pos = (-195,-1106);
-ref = quotedblright;
+pos = (-426,-1106);
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (87,-1106);
+ref = quoteright;
 }
 );
 width = 1200;
@@ -36,11 +55,87 @@ width = 1200;
 layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
 shapes = (
 {
-pos = (-190,-1078);
-ref = quotedblright;
+alignment = -1;
+pos = (-423,-1078);
+ref = quoteright;
+},
+{
+pos = (97,-1078);
+ref = quoteright;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (-215,-1217);
+ref = quotedblright;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (-215,-1217);
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (268,-1217);
+ref = quoteright;
+}
+);
+width = 965;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+pos = (-210,-1189);
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (281,-1189);
+ref = quoteright;
+}
+);
+width = 992;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+pos = (-195,-1106);
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (318,-1106);
+ref = quoteright;
+}
+);
+width = 1070;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (-190,-1078);
+ref = quoteright;
+},
+{
+pos = (330,-1078);
+ref = quoteright;
+}
+);
+width = 1096;
 }
 );
 unicode = 8222;

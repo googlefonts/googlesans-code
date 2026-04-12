@@ -1,5 +1,7 @@
 {
 glyphname = Uhornhookabove;
+kernLeft = U_left;
+kernRight = Uhorn_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -55,6 +57,61 @@ ref = hookabovecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Uhorn.alt02;
+},
+{
+pos = (600,403);
+ref = hookabovecomb;
+}
+);
+width = 1268;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = Uhorn.alt02;
+},
+{
+alignment = -1;
+pos = (546,402);
+ref = hookabovecomb;
+}
+);
+width = 1292;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = Uhorn.alt02;
+},
+{
+alignment = -1;
+pos = (512,399);
+ref = hookabovecomb;
+}
+);
+width = 1300;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = Uhorn.alt02;
+},
+{
+alignment = -1;
+pos = (517,398);
+ref = hookabovecomb;
+}
+);
+width = 1280;
 }
 );
 unicode = 7916;

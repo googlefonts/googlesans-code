@@ -1,5 +1,7 @@
 {
 glyphname = itilde;
+kernLeft = idieresis_left;
+kernRight = idieresis_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = tildecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (338,0);
+ref = tildecomb;
+}
+);
+width = 756;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (334,0);
+ref = tildecomb;
+}
+);
+width = 764;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (322,0);
+ref = tildecomb;
+}
+);
+width = 788;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (317,0);
+ref = tildecomb;
+}
+);
+width = 796;
 }
 );
 unicode = 297;

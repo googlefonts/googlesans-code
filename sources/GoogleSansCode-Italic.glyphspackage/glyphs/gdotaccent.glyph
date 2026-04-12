@@ -1,5 +1,7 @@
 {
 glyphname = gdotaccent;
+kernLeft = g_left;
+kernRight = g_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = dotaccentcomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (512,0);
+ref = dotaccentcomb;
+}
+);
+width = 1108;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (539,0);
+ref = dotaccentcomb;
+}
+);
+width = 1146;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (527,0);
+ref = dotaccentcomb;
+}
+);
+width = 1169;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (503,0);
+ref = dotaccentcomb;
+}
+);
+width = 1157;
 }
 );
 unicode = 289;

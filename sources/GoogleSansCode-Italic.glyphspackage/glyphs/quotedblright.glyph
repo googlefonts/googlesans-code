@@ -1,5 +1,7 @@
 {
 glyphname = quotedblright;
+kernLeft = quoteright_left;
+kernRight = quoteright_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -63,6 +65,65 @@ ref = quoteright;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (483,0);
+ref = quoteright;
+}
+);
+width = 976;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (491,0);
+ref = quoteright;
+}
+);
+width = 1002;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (513,0);
+ref = quoteright;
+}
+);
+width = 1080;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+pos = (520,0);
+ref = quoteright;
+}
+);
+width = 1106;
 }
 );
 unicode = 8221;

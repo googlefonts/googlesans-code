@@ -1,5 +1,7 @@
 {
 glyphname = quotedbl;
+kernLeft = quotesingle_left;
+kernRight = quotesingle_right;
 layers = (
 {
 layerId = m006;
@@ -64,6 +66,66 @@ ref = quotesingle;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (413,0);
+ref = quotesingle;
+}
+);
+width = 778;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (429,0);
+ref = quotesingle;
+}
+);
+width = 823;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (476,0);
+ref = quotesingle;
+}
+);
+width = 961;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (492,0);
+ref = quotesingle;
+}
+);
+width = 1007;
 }
 );
 unicode = 34;

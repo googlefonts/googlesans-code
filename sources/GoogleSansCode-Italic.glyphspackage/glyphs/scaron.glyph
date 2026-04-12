@@ -1,5 +1,7 @@
 {
 glyphname = scaron;
+kernLeft = s_left;
+kernRight = s_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = caroncomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (523,0);
+ref = caroncomb;
+}
+);
+width = 1040;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (521,0);
+ref = caroncomb;
+}
+);
+width = 1053;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (515,0);
+ref = caroncomb;
+}
+);
+width = 1061;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (524,0);
+ref = caroncomb;
+}
+);
+width = 1052;
 }
 );
 unicode = 353;

@@ -9,8 +9,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1427,2332);
-ref = quoteright;
+pos = (1217,1143);
+ref = comma;
 }
 );
 width = 1200;
@@ -21,8 +21,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1406,2223);
-ref = quoteright;
+pos = (1210,1117);
+ref = comma;
 }
 );
 width = 1200;
@@ -33,8 +33,8 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1413,2369);
-ref = quoteright;
+pos = (1198,1152);
+ref = comma;
 }
 );
 width = 1200;
@@ -45,11 +45,59 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (1400,2186);
-ref = quoteright;
+pos = (1210,1108);
+ref = comma;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (511,1152);
+ref = comma;
+}
+);
+width = 493;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (528,1143);
+ref = comma;
+}
+);
+width = 511;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (579,1117);
+ref = comma;
+}
+);
+width = 568;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (596,1108);
+ref = comma;
+}
+);
+width = 586;
 }
 );
 unicode = 8216;

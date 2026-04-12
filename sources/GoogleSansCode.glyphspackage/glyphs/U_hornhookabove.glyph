@@ -90,6 +90,96 @@ ref = hookabovecomb;
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (530,403);
+ref = hookabovecomb;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+pos = (510,403);
+ref = hookabovecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (532,402);
+ref = hookabovecomb;
+}
+);
+};
+layerId = m006;
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+alignment = -1;
+pos = (504,402);
+ref = hookabovecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (536,399);
+ref = hookabovecomb;
+}
+);
+};
+layerId = m007;
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+alignment = -1;
+pos = (484,399);
+ref = hookabovecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (537,398);
+ref = hookabovecomb;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+ref = Uhorn.alt;
+},
+{
+alignment = -1;
+pos = (477,398);
+ref = hookabovecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 7916;

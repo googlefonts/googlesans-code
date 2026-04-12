@@ -1,5 +1,7 @@
 {
 glyphname = zacute;
+kernLeft = z_left;
+kernRight = z_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = acutecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (520,0);
+ref = acutecomb;
+}
+);
+width = 1008;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (526,0);
+ref = acutecomb;
+}
+);
+width = 1022;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (547,0);
+ref = acutecomb;
+}
+);
+width = 1063;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (555,0);
+ref = acutecomb;
+}
+);
+width = 1076;
 }
 );
 unicode = 378;

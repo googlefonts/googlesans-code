@@ -1,5 +1,7 @@
 {
 glyphname = fraction;
+kernLeft = divisionslash_left;
+kernRight = divisionslash_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -60,6 +62,66 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(99,-30,l),
+(1321,1460,l),
+(1175,1460,l),
+(-47,-30,l)
+);
+}
+);
+width = 1206;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(97,-31,l),
+(1302,1460,l),
+(1149,1460,l),
+(-56,-31,l)
+);
+}
+);
+width = 1179;
+},
+{
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(95,-34,l),
+(1248,1460,l),
+(1072,1460,l),
+(-81,-34,l)
+);
+}
+);
+width = 1101;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(95,-35,l),
+(1231,1460,l),
+(1047,1460,l),
+(-89,-35,l)
+);
+}
+);
+width = 1076;
 }
 );
 unicode = 8260;

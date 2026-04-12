@@ -1,5 +1,7 @@
 {
 glyphname = Racute;
+kernLeft = H_left;
+kernRight = R_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = acutecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (621,387);
+ref = acutecomb;
+}
+);
+width = 1244;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (628,385);
+ref = acutecomb;
+}
+);
+width = 1250;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (615,380);
+ref = acutecomb;
+}
+);
+width = 1240;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (615,378);
+ref = acutecomb;
+}
+);
+width = 1237;
 }
 );
 unicode = 340;

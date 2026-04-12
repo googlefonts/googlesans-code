@@ -1,5 +1,7 @@
 {
 glyphname = multiply;
+kernLeft = multiply_left;
+kernRight = multiply_right;
 layers = (
 {
 background = {
@@ -184,6 +186,118 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+background = {
+shapes = (
+{
+pos = (-51,0);
+ref = plus;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1011,1059,l),
+(928,1158,l),
+(83,409,l),
+(166,310,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(907,393,l),
+(288,1158,l),
+(187,1075,l),
+(806,310,l)
+);
+}
+);
+width = 1020;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1034,1044,l),
+(930,1172,l),
+(75,422,l),
+(180,294,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(932,401,l),
+(307,1172,l),
+(177,1065,l),
+(802,294,l)
+);
+}
+);
+width = 1036;
+},
+{
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1104,999,l),
+(934,1213,l),
+(50,460,l),
+(221,247,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1006,425,l),
+(363,1213,l),
+(148,1034,l),
+(791,247,l)
+);
+}
+);
+width = 1082;
+},
+{
+background = {
+shapes = (
+{
+pos = (-36,0);
+ref = plus;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1127,984,l),
+(935,1226,l),
+(42,473,l),
+(234,231,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1031,433,l),
+(382,1226,l),
+(138,1024,l),
+(787,231,l)
+);
+}
+);
+width = 1098;
 }
 );
 unicode = 215;

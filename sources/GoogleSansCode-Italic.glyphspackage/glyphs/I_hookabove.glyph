@@ -1,5 +1,7 @@
 {
 glyphname = Ihookabove;
+kernLeft = I_left;
+kernRight = I_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = hookabovecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (578,387);
+ref = hookabovecomb;
+}
+);
+width = 1020;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (559,385);
+ref = hookabovecomb;
+}
+);
+width = 981;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (587,380);
+ref = hookabovecomb;
+}
+);
+width = 1040;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (597,378);
+ref = hookabovecomb;
+}
+);
+width = 1060;
 }
 );
 unicode = 7880;

@@ -46,6 +46,49 @@ ref = comma;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = 1;
+pos = (0,1217);
+ref = comma;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+alignment = 1;
+pos = (0,1189);
+ref = comma;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (0,1108);
+ref = comma;
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = 1;
+pos = (0,1080);
+ref = comma;
+}
+);
+width = 1200;
 }
 );
 unicode = 8217;

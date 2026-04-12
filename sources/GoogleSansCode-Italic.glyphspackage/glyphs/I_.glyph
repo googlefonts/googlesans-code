@@ -1,7 +1,7 @@
 {
 glyphname = I;
-kernLeft = H_left;
-kernRight = H_right;
+kernLeft = I_left;
+kernRight = I_right;
 layers = (
 {
 anchors = (
@@ -190,6 +190,194 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (438,0);
+},
+{
+name = ogonek;
+pos = (547,0);
+},
+{
+name = top;
+pos = (670,1432);
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(505,75,l),
+(731,1357,l),
+(583,1357,l),
+(357,75,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(828,0,l),
+(852,138,l),
+(32,138,l),
+(8,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1056,1294,l),
+(1080,1432,l),
+(260,1432,l),
+(236,1294,l)
+);
+}
+);
+width = 1020;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (419,0);
+},
+{
+name = ogonek;
+pos = (549,0);
+},
+{
+name = top;
+pos = (651,1432);
+}
+);
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(508,91,l),
+(729,1341,l),
+(541,1341,l),
+(320,91,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(820,0,l),
+(851,175,l),
+(7,175,l),
+(-24,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1042,1257,l),
+(1073,1432,l),
+(229,1432,l),
+(198,1257,l)
+);
+}
+);
+width = 981;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (448,0);
+},
+{
+name = ogonek;
+pos = (601,0);
+},
+{
+name = top;
+pos = (680,1432);
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(607,139,l),
+(811,1293,l),
+(501,1293,l),
+(297,139,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(885,0,l),
+(936,288,l),
+(21,288,l),
+(-30,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1086,1144,l),
+(1137,1432,l),
+(222,1432,l),
+(171,1144,l)
+);
+}
+);
+width = 1040;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (468,0);
+},
+{
+name = ogonek;
+pos = (626,0);
+},
+{
+name = top;
+pos = (690,1432);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(639,155,l),
+(837,1277,l),
+(488,1277,l),
+(290,155,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(907,0,l),
+(964,324,l),
+(25,324,l),
+(-32,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1102,1108,l),
+(1159,1432,l),
+(220,1432,l),
+(163,1108,l)
+);
+}
+);
+width = 1060;
 }
 );
 unicode = 73;

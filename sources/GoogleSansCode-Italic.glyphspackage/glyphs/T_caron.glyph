@@ -1,5 +1,7 @@
 {
 glyphname = Tcaron;
+kernLeft = T_left;
+kernRight = T_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = caroncomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (590,387);
+ref = caroncomb;
+}
+);
+width = 1044;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (597,385);
+ref = caroncomb;
+}
+);
+width = 1060;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (621,380);
+ref = caroncomb;
+}
+);
+width = 1108;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (629,378);
+ref = caroncomb;
+}
+);
+width = 1124;
 }
 );
 unicode = 356;

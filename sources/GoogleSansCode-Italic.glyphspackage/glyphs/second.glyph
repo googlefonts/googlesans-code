@@ -1,5 +1,8 @@
 {
+color = 4;
 glyphname = second;
+kernLeft = minute_left;
+kernRight = minute_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -56,6 +59,58 @@ ref = minute;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = minute;
+},
+{
+pos = (390,0);
+ref = minute;
+}
+);
+width = 882;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = minute;
+},
+{
+pos = (410,0);
+ref = minute;
+}
+);
+width = 929;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = minute;
+},
+{
+pos = (471,0);
+ref = minute;
+}
+);
+width = 1070;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = minute;
+},
+{
+pos = (491,0);
+ref = minute;
+}
+);
+width = 1116;
 }
 );
 unicode = 8243;

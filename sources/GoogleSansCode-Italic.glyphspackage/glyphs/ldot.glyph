@@ -1,5 +1,7 @@
 {
 glyphname = ldot;
+kernLeft = l_left;
+kernRight = ldot_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,62 @@ ref = periodcentered;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+pos = (488,0);
+ref = periodcentered;
+}
+);
+width = 923;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+pos = (494,-16);
+ref = periodcentered;
+}
+);
+width = 949;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+pos = (513,-64);
+ref = periodcentered;
+}
+);
+width = 1025;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+pos = (519,-80);
+ref = periodcentered;
+}
+);
+width = 1050;
 }
 );
 unicode = 320;

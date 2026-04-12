@@ -1,18 +1,22 @@
 {
 glyphname = quotedblleft;
+kernLeft = quoteleft_left;
+kernRight = quoteleft_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
 shapes = (
 {
 alignment = -1;
-pos = (-253,0);
-ref = quoteleft;
+angle = 180;
+pos = (945,1152);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (230,0);
-ref = quoteleft;
+angle = 180;
+pos = (1428,1152);
+ref = comma;
 }
 );
 width = 1200;
@@ -22,13 +26,15 @@ layerId = m006;
 shapes = (
 {
 alignment = -1;
-pos = (-262,0);
-ref = quoteleft;
+angle = 180;
+pos = (955,1143);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (229,0);
-ref = quoteleft;
+angle = 180;
+pos = (1446,1143);
+ref = comma;
 }
 );
 width = 1200;
@@ -38,13 +44,15 @@ layerId = "90828D4A-10F7-4870-818F-40FC947ECC22";
 shapes = (
 {
 alignment = -1;
-pos = (-288,0);
-ref = quoteleft;
+angle = 180;
+pos = (922,1117);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (225,0);
-ref = quoteleft;
+angle = 180;
+pos = (1435,1117);
+ref = comma;
 }
 );
 width = 1200;
@@ -54,16 +62,90 @@ layerId = "00586AEE-0022-45ED-9612-7F804652F2C7";
 shapes = (
 {
 alignment = -1;
-pos = (-297,0);
-ref = quoteleft;
+angle = 180;
+pos = (913,1108);
+ref = comma;
 },
 {
 alignment = -1;
-pos = (223,0);
-ref = quoteleft;
+angle = 180;
+pos = (1433,1108);
+ref = comma;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (511,1152);
+ref = comma;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (994,1152);
+ref = comma;
+}
+);
+width = 976;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (528,1143);
+ref = comma;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (1019,1143);
+ref = comma;
+}
+);
+width = 1002;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (579,1117);
+ref = comma;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (1092,1117);
+ref = comma;
+}
+);
+width = 1081;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (596,1108);
+ref = comma;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (1116,1108);
+ref = comma;
+}
+);
+width = 1106;
 }
 );
 unicode = 8220;

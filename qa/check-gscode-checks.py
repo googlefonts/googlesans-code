@@ -276,6 +276,42 @@ def com_google_fonts_check_googlesans_opentype_os2_y_strikeout_size(ttFonts):
     )
 
 
+@check(
+    id="googlesans/font_names",
+    rationale="""
+    Ensures font names match Google Sans Code v1.002 exactly for backward compatibility.
+    This prevents the MONO axis from forcing 'Monospace' into the name strings, 
+    which would break existing user documents and CSS.
+    """,
+)
+def com_google_fonts_check_googlesans_font_names(ttFont):
+    """Font names match Google Sans Code exactly (Legacy Naming)."""
+    
+    is_italic = bool(ttFont["head"].macStyle & 0x02) or ttFont["post"].italicAngle != 0
+    style = "Italic" if is_italic else "Regular"
+    
+    expected = {
+        1: "Google Sans Code",                # Family Name
+        2: style,                             # Subfamily Name
+        4: f"Google Sans Code {style}",       # Full Name
+        6: f"GoogleSansCode-{style}",         # PostScript Name
+        25: f"GoogleSansCode{style if is_italic else ''}" # VF PS Prefix
+    }
+    
+    
+    errors = []
+    for record in ttFont["name"].names:
+        if record.nameID in expected:
+            actual = record.toUnicode()
+            if actual != expected[record.nameID]:
+                errors.append(f"ID {record.nameID}: '{actual}' (expected '{expected[record.nameID]}')")
+
+    if errors:
+        unique_errors = sorted(list(set(errors)))
+        yield FAIL, f"Legacy naming mismatch: {'; '.join(unique_errors)}"
+    else:
+        yield PASS, f"Font names match legacy 'Google Sans Code {style}' strings."
+
 # ================================================
 #
 # End check definitions

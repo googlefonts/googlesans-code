@@ -1,5 +1,7 @@
 {
 glyphname = idotbelow;
+kernLeft = i_left;
+kernRight = i_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = dotbelowcomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (357,0);
+ref = dotbelowcomb;
+}
+);
+width = 756;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (378,0);
+ref = dotbelowcomb;
+}
+);
+width = 764;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (439,0);
+ref = dotbelowcomb;
+}
+);
+width = 788;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (460,0);
+ref = dotbelowcomb;
+}
+);
+width = 796;
 }
 );
 unicode = 7883;

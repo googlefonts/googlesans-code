@@ -1,5 +1,7 @@
 {
 glyphname = ydieresis;
+kernLeft = y_left;
+kernRight = y_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = dieresiscomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (512,0);
+ref = dieresiscomb;
+}
+);
+width = 1085;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (514,0);
+ref = dieresiscomb;
+}
+);
+width = 1103;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (517,0);
+ref = dieresiscomb;
+}
+);
+width = 1115;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (518,0);
+ref = dieresiscomb;
+}
+);
+width = 1122;
 }
 );
 unicode = 255;

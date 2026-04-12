@@ -1,5 +1,8 @@
 {
+color = 4;
 glyphname = exclamdown;
+kernLeft = exclamdown_left;
+kernRight = exclamdown_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -44,6 +47,50 @@ ref = exclam;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (639,1262);
+ref = exclam;
+}
+);
+width = 601;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (647,1262);
+ref = exclam;
+}
+);
+width = 609;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (660,1262);
+ref = exclam;
+}
+);
+width = 623;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (664,1262);
+ref = exclam;
+}
+);
+width = 628;
 }
 );
 unicode = 161;

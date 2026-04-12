@@ -1,5 +1,7 @@
 {
 glyphname = backslash;
+kernLeft = backslash_left;
+kernRight = backslash_right;
 layers = (
 {
 layerId = m006;
@@ -60,6 +62,66 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(845,-176,l),
+(307,1460,l),
+(165,1460,l),
+(703,-176,l)
+);
+}
+);
+width = 968;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(849,-176,l),
+(343,1460,l),
+(165,1460,l),
+(671,-176,l)
+);
+}
+);
+width = 972;
+},
+{
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(891,-176,l),
+(482,1460,l),
+(205,1460,l),
+(614,-176,l)
+);
+}
+);
+width = 1046;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(855,-176,l),
+(478,1460,l),
+(165,1460,l),
+(542,-176,l)
+);
+}
+);
+width = 979;
 }
 );
 unicode = 92;

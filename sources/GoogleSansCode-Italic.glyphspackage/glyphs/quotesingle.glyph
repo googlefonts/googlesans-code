@@ -1,5 +1,7 @@
 {
 glyphname = quotesingle;
+kernLeft = quotesingle_left;
+kernRight = quotesingle_right;
 layers = (
 {
 layerId = m006;
@@ -86,6 +88,66 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(332,906,l),
+(430,1460,l),
+(266,1460,l),
+(168,906,l)
+);
+}
+);
+width = 365;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(365,904,l),
+(463,1460,l),
+(261,1460,l),
+(163,904,l)
+);
+}
+);
+width = 394;
+},
+{
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(467,899,l),
+(565,1460,l),
+(249,1460,l),
+(151,899,l)
+);
+}
+);
+width = 485;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,897,l),
+(599,1460,l),
+(245,1460,l),
+(146,897,l)
+);
+}
+);
+width = 515;
 }
 );
 unicode = 39;

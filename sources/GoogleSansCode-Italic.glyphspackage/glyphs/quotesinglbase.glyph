@@ -1,5 +1,7 @@
 {
 glyphname = quotesinglbase;
+kernLeft = comma_left;
+kernRight = period_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -40,6 +42,46 @@ ref = comma;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+}
+);
+width = 482;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+}
+);
+width = 501;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+}
+);
+width = 557;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+}
+);
+width = 576;
 }
 );
 unicode = 8218;

@@ -1,5 +1,7 @@
 {
 glyphname = scedilla;
+kernLeft = s_left;
+kernRight = s_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = cedillacomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (442,0);
+ref = cedillacomb;
+}
+);
+width = 1040;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (433,0);
+ref = cedillacomb;
+}
+);
+width = 1053;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (435,0);
+ref = cedillacomb;
+}
+);
+width = 1061;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (450,0);
+ref = cedillacomb;
+}
+);
+width = 1052;
 }
 );
 unicode = 351;

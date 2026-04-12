@@ -1,5 +1,7 @@
 {
 glyphname = Wacute;
+kernLeft = W_left;
+kernRight = W_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = acutecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (803,387);
+ref = acutecomb;
+}
+);
+width = 1469;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (810,385);
+ref = acutecomb;
+}
+);
+width = 1495;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (834,380);
+ref = acutecomb;
+}
+);
+width = 1573;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (843,378);
+ref = acutecomb;
+}
+);
+width = 1599;
 }
 );
 unicode = 7810;

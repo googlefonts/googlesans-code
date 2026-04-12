@@ -1,5 +1,7 @@
 {
 glyphname = divisionslash;
+kernLeft = divisionslash_left;
+kernRight = divisionslash_right;
 layers = (
 {
 background = {
@@ -86,6 +88,66 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,-30,l),
+(1245,1460,l),
+(1058,1460,l),
+(-97,-30,l)
+);
+}
+);
+width = 1080;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(119,-31,l),
+(1267,1460,l),
+(1044,1460,l),
+(-104,-31,l)
+);
+}
+);
+width = 1096;
+},
+{
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(207,-34,l),
+(1335,1460,l),
+(1005,1460,l),
+(-123,-34,l)
+);
+}
+);
+width = 1146;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(237,-35,l),
+(1359,1460,l),
+(993,1460,l),
+(-129,-35,l)
+);
+}
+);
+width = 1164;
 }
 );
 unicode = 8725;

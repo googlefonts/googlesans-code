@@ -1,5 +1,7 @@
 {
 glyphname = Eogonek;
+kernLeft = H_left;
+kernRight = E_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = ogonekcomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (819,0);
+ref = ogonekcomb;
+}
+);
+width = 1120;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (829,3);
+ref = ogonekcomb;
+}
+);
+width = 1128;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (861,11);
+ref = ogonekcomb;
+}
+);
+width = 1155;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (870,14);
+ref = ogonekcomb;
+}
+);
+width = 1162;
 }
 );
 unicode = 280;

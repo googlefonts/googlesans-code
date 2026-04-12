@@ -84,6 +84,90 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (92,1045);
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(460,1348,l),
+(485,1486,l),
+(-145,1486,l),
+(-170,1348,l)
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (92,1047);
+}
+);
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(460,1341,l),
+(489,1505,l),
+(-145,1505,l),
+(-174,1341,l)
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (93,1052);
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(462,1315,l),
+(506,1561,l),
+(-140,1561,l),
+(-184,1315,l)
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (93,1054);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(462,1306,l),
+(510,1580,l),
+(-140,1580,l),
+(-188,1306,l)
+);
+}
+);
+width = 1200;
 }
 );
 unicode = 772;

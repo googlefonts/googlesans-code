@@ -1,5 +1,7 @@
 {
 glyphname = Ograve;
+kernLeft = O_left;
+kernRight = O_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = gravecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (676,387);
+ref = gravecomb;
+}
+);
+width = 1253;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (687,385);
+ref = gravecomb;
+}
+);
+width = 1256;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (690,380);
+ref = gravecomb;
+}
+);
+width = 1265;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (682,378);
+ref = gravecomb;
+}
+);
+width = 1268;
 }
 );
 unicode = 210;

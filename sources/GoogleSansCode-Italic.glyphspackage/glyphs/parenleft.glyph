@@ -50,6 +50,54 @@ ref = parenright;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (769,1328);
+ref = parenright;
+}
+);
+width = 769;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (795,1329);
+ref = parenright;
+}
+);
+width = 783;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (872,1333);
+ref = parenright;
+}
+);
+width = 824;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (897,1334);
+ref = parenright;
+}
+);
+width = 838;
 }
 );
 unicode = 40;

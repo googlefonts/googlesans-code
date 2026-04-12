@@ -1,5 +1,7 @@
 {
 glyphname = greater;
+kernLeft = greater_left;
+kernRight = greater_right;
 layers = (
 {
 background = {
@@ -233,6 +235,60 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+guides = (
+{
+pos = (844,97);
+}
+);
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (1107,1253);
+ref = less;
+}
+);
+width = 1070;
+},
+{
+guides = (
+{
+pos = (923,85);
+}
+);
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (1100,1261);
+ref = less;
+}
+);
+width = 1062;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (1158,1283);
+ref = less;
+}
+);
+width = 1117;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (1182,1290);
+ref = less;
+}
+);
+width = 1140;
 }
 );
 unicode = 62;

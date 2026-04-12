@@ -1,5 +1,7 @@
 {
 glyphname = ygrave;
+kernLeft = y_left;
+kernRight = y_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = gravecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (513,0);
+ref = gravecomb;
+}
+);
+width = 1085;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (515,0);
+ref = gravecomb;
+}
+);
+width = 1103;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (518,0);
+ref = gravecomb;
+}
+);
+width = 1115;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (519,0);
+ref = gravecomb;
+}
+);
+width = 1122;
 }
 );
 unicode = 7923;

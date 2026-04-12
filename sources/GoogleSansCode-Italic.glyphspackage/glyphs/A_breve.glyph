@@ -1,5 +1,7 @@
 {
 glyphname = Abreve;
+kernLeft = A_left;
+kernRight = A_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = brevecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (596,387);
+ref = brevecomb;
+}
+);
+width = 1076;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (596,385);
+ref = brevecomb;
+}
+);
+width = 1076;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (626,380);
+ref = brevecomb;
+}
+);
+width = 1136;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (636,378);
+ref = brevecomb;
+}
+);
+width = 1156;
 }
 );
 unicode = 258;

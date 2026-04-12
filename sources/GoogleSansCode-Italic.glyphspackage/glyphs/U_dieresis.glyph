@@ -1,5 +1,7 @@
 {
 glyphname = Udieresis;
+kernLeft = U_left;
+kernRight = U_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = dieresiscomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (692,387);
+ref = dieresiscomb;
+}
+);
+width = 1268;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (704,385);
+ref = dieresiscomb;
+}
+);
+width = 1292;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (702,382);
+ref = dieresiscomb;
+}
+);
+width = 1300;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (692,378);
+ref = dieresiscomb;
+}
+);
+width = 1280;
 }
 );
 unicode = 220;

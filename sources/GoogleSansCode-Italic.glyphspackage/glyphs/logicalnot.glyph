@@ -1,5 +1,8 @@
 {
+color = 4;
 glyphname = logicalnot;
+kernLeft = hyphen_left;
+kernRight = logicalnot_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -88,6 +91,78 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(949,271,l),
+(1044,807,l),
+(172,807,l),
+(146,661,l),
+(911,661,l),
+(874,705,l),
+(797,271,l)
+);
+}
+);
+width = 1116;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(966,252,l),
+(1067,824,l),
+(175,824,l),
+(143,643,l),
+(890,643,l),
+(855,688,l),
+(778,252,l)
+);
+}
+);
+width = 1136;
+},
+{
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(992,194,l),
+(1111,873,l),
+(159,873,l),
+(109,588,l),
+(802,588,l),
+(775,636,l),
+(697,194,l)
+);
+}
+);
+width = 1149;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1000,175,l),
+(1126,889,l),
+(154,889,l),
+(98,569,l),
+(772,569,l),
+(748,618,l),
+(670,175,l)
+);
+}
+);
+width = 1152;
 }
 );
 unicode = 172;

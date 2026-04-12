@@ -1,5 +1,7 @@
 {
 glyphname = ohungarumlaut;
+kernLeft = o_left;
+kernRight = o_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -52,6 +54,58 @@ ref = hungarumlautcomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (565,0);
+ref = hungarumlautcomb;
+}
+);
+width = 1190;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (578,0);
+ref = hungarumlautcomb;
+}
+);
+width = 1196;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (579,0);
+ref = hungarumlautcomb;
+}
+);
+width = 1238;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (584,0);
+ref = hungarumlautcomb;
+}
+);
+width = 1248;
 }
 );
 unicode = 337;

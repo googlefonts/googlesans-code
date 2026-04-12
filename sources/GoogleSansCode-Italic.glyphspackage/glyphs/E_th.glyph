@@ -1,5 +1,7 @@
 {
 glyphname = Eth;
+kernLeft = Dcroat_left;
+kernRight = O_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -36,6 +38,42 @@ ref = Dcroat;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Dcroat;
+}
+);
+width = 1245;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = Dcroat;
+}
+);
+width = 1267;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = Dcroat;
+}
+);
+width = 1254;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = Dcroat;
+}
+);
+width = 1250;
 }
 );
 unicode = 208;

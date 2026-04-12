@@ -1,5 +1,7 @@
 {
 glyphname = slash;
+kernLeft = slash_left;
+kernRight = slash_right;
 layers = (
 {
 layerId = m006;
@@ -60,6 +62,66 @@ nodes = (
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(37,-176,l),
+(1009,1460,l),
+(849,1460,l),
+(-123,-176,l)
+);
+}
+);
+width = 844;
+},
+{
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(76,-176,l),
+(1043,1460,l),
+(844,1460,l),
+(-123,-176,l)
+);
+}
+);
+width = 878;
+},
+{
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(191,-176,l),
+(1144,1460,l),
+(830,1460,l),
+(-124,-176,l)
+);
+}
+);
+width = 979;
+},
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(229,-176,l),
+(1178,1460,l),
+(825,1460,l),
+(-124,-176,l)
+);
+}
+);
+width = 1013;
 }
 );
 unicode = 47;

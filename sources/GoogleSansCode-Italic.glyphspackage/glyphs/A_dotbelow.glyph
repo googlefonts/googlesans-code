@@ -1,5 +1,7 @@
 {
 glyphname = Adotbelow;
+kernLeft = A_left;
+kernRight = A_right;
 layers = (
 {
 layerId = "87470510-D880-4621-BF85-70AEEA552FBA";
@@ -8,7 +10,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (479,20);
+pos = (489,20);
 ref = dotbelowcomb;
 }
 );
@@ -52,6 +54,58 @@ ref = dotbelowcomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (417,20);
+ref = dotbelowcomb;
+}
+);
+width = 1076;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (420,21);
+ref = dotbelowcomb;
+}
+);
+width = 1076;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (457,25);
+ref = dotbelowcomb;
+}
+);
+width = 1136;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (469,26);
+ref = dotbelowcomb;
+}
+);
+width = 1156;
 }
 );
 unicode = 7840;

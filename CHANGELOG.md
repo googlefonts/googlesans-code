@@ -1,5 +1,12 @@
 # Changelog
 
+
+## Version 7.000 (2026-04-12)
+
+### Changed
+
+- added proportional glyphs to the Italic font and packaged them in the MONOSPACED axis. 
+
 ## Version 6.001 (2025-07-21)
 
 ### Changed

@@ -63,6 +63,69 @@ ref = circumflexcomb_hookabovecomb;
 }
 );
 width = 1200;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = a;
+},
+{
+alignment = -1;
+pos = (608,70);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = a;
+},
+{
+alignment = -1;
+pos = (600,67);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 1200;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = a;
+},
+{
+alignment = -1;
+pos = (610,57);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+ref = acircumflex;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+ref = a;
+},
+{
+alignment = -1;
+pos = (613,54);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 1200;
 }
 );
 unicode = 7849;
