@@ -5,7 +5,11 @@
 
 ### Changed
 
-- added beta proportional glyphs to the Italic font and packaged them in the MONOSPACED axis. 
+- added beta proportional glyphs to the Italic font and packaged them in the MONOSPACED axis.
+- added BASE table #67
+- created discrete release archive for Android (no BASE table) #91
+- updated locl feature for Dutch ij #34
+- updated dependencies #97 #94 #87-93 #74 #31 #41
 
 ## Version 6.001 (2025-07-21)
 
