@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = gcommaaccent;
 kernLeft = g_left;
 kernRight = g_right;
@@ -122,8 +123,8 @@ shapes = (
 ref = g;
 },
 {
-alignment = 1;
-pos = (604,0);
+alignment = -1;
+pos = (565,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -136,8 +137,8 @@ shapes = (
 ref = g;
 },
 {
-alignment = 1;
-pos = (602,0);
+alignment = -1;
+pos = (562,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -150,8 +151,8 @@ shapes = (
 ref = g;
 },
 {
-alignment = 1;
-pos = (596,0);
+alignment = -1;
+pos = (551,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -276,8 +277,8 @@ shapes = (
 ref = g;
 },
 {
-alignment = 1;
-pos = (595,0);
+alignment = -1;
+pos = (544,0);
 ref = commaturnedabovecomb;
 }
 );
