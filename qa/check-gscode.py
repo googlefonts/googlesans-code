@@ -49,5 +49,7 @@ PROFILE = {
         # we intentionally include a RFN in this project
         "googlefonts/font_copyright",
         "googlefonts/license/OFL_copyright",
+        "googlefonts/font_names"
+        #we won't rename the font as Monospaced, and that's why we added a customised version of this check
     ],
 }
