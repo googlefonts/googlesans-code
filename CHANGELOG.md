@@ -5,7 +5,7 @@
 
 ### Changed
 
-- added proportional glyphs to the Italic font and packaged them in the MONOSPACED axis. 
+- added beta proportional glyphs to the Italic font and packaged them in the MONOSPACED axis. 
 
 ## Version 6.001 (2025-07-21)
 
