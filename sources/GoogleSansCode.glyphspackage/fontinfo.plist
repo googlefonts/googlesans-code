@@ -3176,6 +3176,6 @@ value = "1.5";
 };
 };
 };
-versionMajor = 6;
-versionMinor = 2;
+versionMajor = 7;
+versionMinor = 0;
 }
