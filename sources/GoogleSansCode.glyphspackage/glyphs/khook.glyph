@@ -1,5 +1,7 @@
 {
 glyphname = khook;
+kernLeft = khook_left;
+kernRight = k_right;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
@@ -331,7 +333,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 closed = 1;
@@ -371,8 +373,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m005;
-layerId = "9E32EA6C-DFE9-4D89-B10B-7BF426DCA6B6";
+associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
+layerId = "B59DD561-19E7-4467-BB64-081E5A69335E";
 name = "Mar 19, 25 at 19:29";
 shapes = (
 {
@@ -413,7 +415,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 closed = 1;
@@ -453,8 +455,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m006;
-layerId = "7391A183-C774-4CEE-BA14-8469EC03CBED";
+associatedMasterId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
+layerId = "76AE8003-22D6-45A3-B506-157538D000B6";
 name = "Mar 19, 25 at 19:29";
 shapes = (
 {
@@ -495,7 +497,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 closed = 1;
@@ -535,8 +537,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m007;
-layerId = "B43C8D3C-4FA8-4BE4-8CFA-F7229CA1AFF9";
+associatedMasterId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
+layerId = "BB071BBF-C66E-4CB3-9B5C-909BF70645D9";
 name = "Mar 19, 25 at 19:29";
 shapes = (
 {
@@ -577,7 +579,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;
@@ -617,8 +619,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m008;
-layerId = "71BEAFAF-844E-47D1-A9BB-50DBF3A68337";
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
+layerId = "D53AB5CA-0577-4620-80DA-48E29F4EFF72";
 name = "Mar 19, 25 at 19:29";
 shapes = (
 {

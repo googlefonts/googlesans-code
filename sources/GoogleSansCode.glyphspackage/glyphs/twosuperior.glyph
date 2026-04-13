@@ -1,5 +1,7 @@
 {
 glyphname = twosuperior;
+kernLeft = twosuperior_left;
+kernRight = twosuperior_right;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
@@ -279,7 +281,7 @@ width = 74;
 width = 1200;
 },
 {
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 closed = 1;
@@ -326,7 +328,7 @@ width = 72;
 width = 1200;
 },
 {
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 closed = 1;
@@ -373,7 +375,7 @@ width = 72;
 width = 1200;
 },
 {
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 closed = 1;
@@ -421,7 +423,7 @@ width = 74;
 width = 1200;
 },
 {
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;
@@ -469,7 +471,7 @@ width = 74;
 width = 1200;
 },
 {
-associatedMasterId = m008;
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 background = {
 shapes = (
 {
@@ -507,7 +509,7 @@ nodes = (
 }
 );
 };
-layerId = "2502268F-3EF1-40BE-8996-D6E71D2B46AD";
+layerId = "985A57B0-7A5B-4B7F-A0A3-337BCAB53DD5";
 name = "Apr 1, 25 at 18:57";
 shapes = (
 {

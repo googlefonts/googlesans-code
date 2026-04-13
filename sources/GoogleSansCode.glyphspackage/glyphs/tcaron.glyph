@@ -1,5 +1,7 @@
 {
 glyphname = tcaron;
+kernLeft = t_left;
+kernRight = t_right;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
@@ -222,7 +224,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 closed = 1;
@@ -267,8 +269,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m005;
-layerId = "131C4946-1154-4606-86F1-D96D93E5EA2D";
+associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
+layerId = "09C17230-751C-4CD5-B623-9E1A580C139B";
 name = "27 Nov 24, 15:08";
 shapes = (
 {
@@ -287,7 +289,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 closed = 1;
@@ -332,7 +334,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 closed = 1;
@@ -377,7 +379,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;
@@ -422,8 +424,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m008;
-layerId = "3D2C1321-11ED-444C-AE2F-96C49A54C6EB";
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
+layerId = "B571EBA8-942C-490A-945A-16E6E3B88BEA";
 name = "27 Nov 24, 15:08";
 shapes = (
 {

@@ -1,5 +1,7 @@
 {
 glyphname = Germandbls;
+kernLeft = Germandbls_left;
+kernRight = Germandbls_right;
 layers = (
 {
 layerId = "D010C1AA-6BDD-4F06-9849-880CC2F29E88";
@@ -552,14 +554,14 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m005;
+associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 guides = (
 {
 angle = 233.2376;
 pos = (1008,1244);
 }
 );
-layerId = "3A539056-F9B9-48B2-A1DA-338D9D3F1A4E";
+layerId = "5DC59719-0F52-4757-B041-0B0E6416D97D";
 name = "29 Nov 24, 09:24";
 shapes = (
 {
@@ -614,14 +616,14 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m005;
+associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 guides = (
 {
 angle = 233.2376;
 pos = (1008,1244);
 }
 );
-layerId = "5B0BBA8E-024F-4EA0-B5DC-EAD1D9366B2E";
+layerId = "3A0EB898-66C6-4067-A051-3B8CC0BC049D";
 name = "29 Nov 24, 15:02";
 shapes = (
 {
@@ -677,7 +679,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 name = Light;
 shapes = (
 {
@@ -729,7 +731,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 closed = 1;
@@ -780,8 +782,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m006;
-layerId = "341B6C47-4DA9-4E0E-A6B5-7D81F3F75E07";
+associatedMasterId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
+layerId = "D9BF3DAB-690E-40E8-B53F-8E3633A5BAA9";
 name = "29 Nov 24, 15:21";
 shapes = (
 {
@@ -836,7 +838,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 closed = 1;
@@ -887,8 +889,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m007;
-layerId = "0BB4D2B5-44CB-40D3-84C0-79359E86C4BD";
+associatedMasterId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
+layerId = "DCD90C95-A282-4545-ADCD-5319C79392BB";
 name = "29 Nov 24, 15:21";
 shapes = (
 {
@@ -943,7 +945,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;
@@ -994,7 +996,7 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m008;
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 background = {
 shapes = (
 {
@@ -1047,7 +1049,7 @@ nodes = (
 }
 );
 };
-layerId = "D07D3AF9-B2D0-4703-867E-85F3169085CD";
+layerId = "F98AC887-A0CD-4D38-BF27-2EA1997F9DA2";
 name = "29 Nov 24, 15:07";
 shapes = (
 {

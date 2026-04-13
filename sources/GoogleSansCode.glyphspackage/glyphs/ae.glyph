@@ -1,5 +1,8 @@
 {
+color = 0;
 glyphname = ae;
+kernLeft = a_left;
+kernRight = e_right;
 layers = (
 {
 anchors = (
@@ -477,7 +480,7 @@ name = top;
 pos = (617,1045);
 }
 );
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 closed = 1;
@@ -570,7 +573,7 @@ name = top;
 pos = (618,1047);
 }
 );
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 closed = 1;
@@ -663,7 +666,7 @@ name = top;
 pos = (619,1052);
 }
 );
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 closed = 1;
@@ -853,7 +856,7 @@ guides = (
 pos = (382,205);
 }
 );
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;

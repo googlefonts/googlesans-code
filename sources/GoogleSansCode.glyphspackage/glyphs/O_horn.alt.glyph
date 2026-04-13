@@ -1,5 +1,7 @@
 {
 glyphname = Ohorn.alt;
+kernLeft = O_left;
+kernRight = Ohorn_right;
 layers = (
 {
 anchors = (
@@ -597,7 +599,7 @@ ref = Ohorn;
 }
 );
 };
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 closed = 1;
@@ -665,7 +667,7 @@ name = bottom;
 pos = (600,-30);
 }
 );
-associatedMasterId = m005;
+associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 background = {
 shapes = (
 {
@@ -673,7 +675,7 @@ ref = O;
 }
 );
 };
-layerId = "254D5655-F551-4180-BF71-D6DDDD2C22CC";
+layerId = "1AD210C6-6368-443D-900D-0681F2705C23";
 name = "Jan 24, 25 at 19:40";
 shapes = (
 {
@@ -736,8 +738,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m005;
-layerId = "A53A8168-D7EE-4536-83F4-D85577F0FD82";
+associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
+layerId = "0471B807-A6D9-466D-807E-8CEAC191EA91";
 name = "Feb 24, 25 at 18:15";
 shapes = (
 {
@@ -813,7 +815,7 @@ ref = O;
 }
 );
 };
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 closed = 1;
@@ -888,7 +890,7 @@ ref = O;
 }
 );
 };
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 closed = 1;
@@ -963,7 +965,7 @@ ref = Ohorn;
 }
 );
 };
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;
@@ -1031,7 +1033,7 @@ name = bottom;
 pos = (595,-35);
 }
 );
-associatedMasterId = m008;
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 background = {
 shapes = (
 {
@@ -1039,7 +1041,7 @@ ref = O;
 }
 );
 };
-layerId = "B8F16D7D-F8E0-4AA5-B433-FC090CF454A4";
+layerId = "14F48B2C-3C69-4DEB-8A25-E1FA8A9941E3";
 name = "Jan 24, 25 at 19:40";
 shapes = (
 {
@@ -1102,8 +1104,8 @@ nodes = (
 width = 1200;
 },
 {
-associatedMasterId = m008;
-layerId = "B80687B4-9463-414F-9C63-20D52DBF0C5C";
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
+layerId = "37F1BD3F-E3BC-4FB0-9712-635B8593B67C";
 name = "Feb 24, 25 at 18:15";
 shapes = (
 {

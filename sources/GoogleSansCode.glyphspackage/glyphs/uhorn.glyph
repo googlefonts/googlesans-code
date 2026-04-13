@@ -1,5 +1,7 @@
 {
 glyphname = uhorn;
+kernLeft = u_left;
+kernRight = uhorn_right;
 layers = (
 {
 anchors = (
@@ -330,7 +332,7 @@ name = bottom;
 pos = (561,-30);
 }
 );
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 closed = 1;
@@ -383,8 +385,8 @@ name = bottom;
 pos = (561,-30);
 }
 );
-associatedMasterId = m005;
-layerId = "F073A75A-9458-468A-B55C-F32BA12DA75D";
+associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
+layerId = "5C10DCBA-A2E3-4E87-BC5F-9C84B1AFCD93";
 name = "Jan 22, 25 at 20:41";
 shapes = (
 {
@@ -438,7 +440,7 @@ name = bottom;
 pos = (562,-31);
 }
 );
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 closed = 1;
@@ -491,7 +493,7 @@ name = bottom;
 pos = (564,-34);
 }
 );
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 closed = 1;
@@ -544,7 +546,7 @@ name = bottom;
 pos = (565,-35);
 }
 );
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;
@@ -597,8 +599,8 @@ name = bottom;
 pos = (565,-35);
 }
 );
-associatedMasterId = m008;
-layerId = "7D0E9305-3B7A-4AF2-AC91-9CA9266B9E6E";
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
+layerId = "9DE66F27-F40F-44D6-A14E-60E2E5BB436E";
 name = "Jan 22, 25 at 20:41";
 shapes = (
 {

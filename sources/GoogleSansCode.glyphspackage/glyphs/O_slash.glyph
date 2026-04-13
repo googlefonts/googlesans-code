@@ -1,5 +1,7 @@
 {
 glyphname = Oslash;
+kernLeft = Oslash_left;
+kernRight = Oslash_right;
 layers = (
 {
 background = {
@@ -506,7 +508,7 @@ angle = 90;
 pos = (1117,734);
 }
 );
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 closed = 1;
@@ -565,7 +567,7 @@ name = top;
 pos = (600,1432);
 }
 );
-associatedMasterId = m005;
+associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 background = {
 shapes = (
 {
@@ -623,7 +625,7 @@ angle = 90;
 pos = (1117,734);
 }
 );
-layerId = "B5DFE65B-E7C8-4416-BB45-88B0CC698DDB";
+layerId = "3EAFBC8C-CFCC-464B-86B8-517A12E53A9C";
 name = "30 Nov 24, 09:25";
 shapes = (
 {
@@ -701,7 +703,7 @@ angle = 90;
 pos = (1124,697);
 }
 );
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 closed = 1;
@@ -778,7 +780,7 @@ angle = 90;
 pos = (1144,694);
 }
 );
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 closed = 1;
@@ -846,7 +848,7 @@ angle = 90;
 pos = (1150,739);
 }
 );
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;
@@ -905,7 +907,7 @@ name = top;
 pos = (600,1432);
 }
 );
-associatedMasterId = m008;
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 background = {
 shapes = (
 {
@@ -930,7 +932,7 @@ angle = 90;
 pos = (1150,739);
 }
 );
-layerId = "C576100E-1864-44B8-BED9-CEE8CCBC62EF";
+layerId = "A8D31DBD-BAC4-474B-B09D-4D3B7139D1FC";
 name = "30 Nov 24, 09:25";
 shapes = (
 {

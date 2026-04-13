@@ -1,5 +1,7 @@
 {
 glyphname = ohorn.alt;
+kernLeft = o_left;
+kernRight = ohorn_right;
 layers = (
 {
 background = {
@@ -637,7 +639,7 @@ ref = ohorn;
 }
 );
 };
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 closed = 1;
@@ -705,8 +707,8 @@ name = bottom;
 pos = (600,-30);
 }
 );
-associatedMasterId = m005;
-layerId = "4F23A095-B6E0-48C9-8A81-CAABDC4C561A";
+associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
+layerId = "9C52835C-C9A1-4612-ABF2-A97A9DC73AF5";
 name = "Jan 24, 25 at 20:04";
 shapes = (
 {
@@ -769,7 +771,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 closed = 1;
@@ -837,8 +839,8 @@ name = top;
 pos = (596,1064);
 }
 );
-associatedMasterId = m006;
-layerId = "77D3620E-DB2E-495E-9EDC-1D5A6119AECA";
+associatedMasterId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
+layerId = "7F7FD083-F402-499D-A1BF-A88277AEB39C";
 name = "Feb 24, 25 at 18:02";
 shapes = (
 {
@@ -901,7 +903,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 closed = 1;
@@ -969,8 +971,8 @@ name = top;
 pos = (584,1071);
 }
 );
-associatedMasterId = m007;
-layerId = "0B43CDFF-8D6C-4FD7-BBE4-B4A79F0420DA";
+associatedMasterId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
+layerId = "F1C33087-B8AF-466A-89E8-A5AA7B6DFA4D";
 name = "Feb 24, 25 at 18:02";
 shapes = (
 {
@@ -1041,7 +1043,7 @@ ref = ohorn;
 }
 );
 };
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 closed = 1;
@@ -1109,7 +1111,7 @@ name = bottom;
 pos = (590,-35);
 }
 );
-associatedMasterId = m008;
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 background = {
 shapes = (
 {
@@ -1117,7 +1119,7 @@ ref = o;
 }
 );
 };
-layerId = "0EE08CB2-FD42-4919-87A2-4C2876CA80A0";
+layerId = "9EF82CDE-C4B9-41EF-9277-09EE6CD77E19";
 name = "Jan 24, 25 at 20:04";
 shapes = (
 {
@@ -1186,7 +1188,7 @@ name = top;
 pos = (568,1074);
 }
 );
-associatedMasterId = m008;
+associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 background = {
 shapes = (
 {
@@ -1195,7 +1197,7 @@ ref = ohorn;
 }
 );
 };
-layerId = "0EFD0BC5-2A5C-4906-8504-A72922BA9057";
+layerId = "933936CD-6C43-4E29-8BCB-E9AB9590FBA7";
 name = "Feb 24, 25 at 18:05";
 shapes = (
 {
