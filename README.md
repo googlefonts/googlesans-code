@@ -48,13 +48,13 @@ and then navigate to the root of the repository directory.
 Compile the Roman variable font:
 
 ```shell
-fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[wght].ttf
+fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[MONO,wght].ttf
 ```
 
 Compile the Italic variable font:
 
 ```shell
-fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[wght].ttf
+fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf
 ```
 
 The compiled fonts are available in the sub-directory: `fonts/variable`.

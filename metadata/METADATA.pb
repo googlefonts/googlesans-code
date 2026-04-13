@@ -6,7 +6,7 @@ fonts {
   name: "Google Sans Code"
   style: "normal"
   weight: 400
-  filename: "GoogleSansCode[wght].ttf"
+  filename: "GoogleSansCode[MONO,wght].ttf"
   post_script_name: "GoogleSansCode-Regular"
   full_name: "Google Sans Code Regular"
   copyright: "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)"
@@ -15,7 +15,7 @@ fonts {
   name: "Google Sans Code"
   style: "italic"
   weight: 400
-  filename: "GoogleSansCode-Italic[wght].ttf"
+  filename: "GoogleSansCode-Italic[MONO,wght].ttf"
   post_script_name: "GoogleSansCode-Italic"
   full_name: "Google Sans Code Italic"
   copyright: "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)"

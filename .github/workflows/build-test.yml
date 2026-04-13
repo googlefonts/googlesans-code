@@ -31,9 +31,9 @@ jobs:
     - name: Use cargo-binstall to grab precompiled fontc
       run: cargo binstall fontc@0.5.0
     - name: Build upright font
-      run: fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[wght].ttf
+      run: fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[MONO,wght].ttf
     - name: Build italic font
-      run: fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[wght].ttf
+      run: fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf
     - name: Build Android fonts
       run: |
         make venv
@@ -84,7 +84,7 @@ jobs:
         python -m venv shaperglot-venv
         shaperglot-venv/bin/pip install --upgrade shaperglot
         echo "::endgroup::"
-        shaperglot-venv/bin/shaperglot report build/variable/GoogleSansCode[wght].ttf
+        shaperglot-venv/bin/shaperglot report build/variable/GoogleSansCode[MONO,wght].ttf
     - name: Run Fontbakery
       id: fontbakery
       run: make test
