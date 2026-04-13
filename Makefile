@@ -23,9 +23,11 @@ build.stamp: venv sources/config.yaml $(SOURCES)
 android: build.stamp
 	mkdir -p fonts/android
 	-@rm fonts/android/*.ttf
-	cp fonts/variable/GoogleSansCode[wght].ttf fonts/variable/GoogleSansCode-Italic[wght].ttf fonts/android
-	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode[wght].ttf
-	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode-Italic[wght].ttf
+	cp fonts/variable/GoogleSansCode[MONO,wght].ttf fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf fonts/android
+	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode[MONO,wght].ttf
+	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode-Italic[MONO,wght].ttf
+	venv/bin/python scripts/prune_hvar.py fonts/android/GoogleSansCode[MONO,wght].ttf
+	venv/bin/python scripts/prune_hvar.py fonts/android/GoogleSansCode-Italic[MONO,wght].ttf
 
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
