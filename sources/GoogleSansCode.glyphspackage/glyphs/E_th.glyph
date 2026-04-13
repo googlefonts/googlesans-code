@@ -46,7 +46,7 @@ shapes = (
 ref = Dcroat;
 }
 );
-width = 1200;
+width = 1250;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -73,7 +73,7 @@ shapes = (
 ref = Dcroat;
 }
 );
-width = 1200;
+width = 1274;
 }
 );
 unicode = 208;
