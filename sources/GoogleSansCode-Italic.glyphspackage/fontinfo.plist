@@ -2050,6 +2050,10 @@ value = (
 2,
 4
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 name = Italic;
