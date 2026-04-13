@@ -40,10 +40,6 @@ name = latn_Numerals_DFLT;
 );
 customParameters = (
 {
-name = isFixedPitch;
-value = 1;
-},
-{
 name = "Use Typo Metrics";
 value = 1;
 },
@@ -2054,6 +2050,10 @@ value = (
 2,
 4
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 name = Italic;
@@ -2120,6 +2120,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2178,6 +2182,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2231,6 +2239,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2286,6 +2298,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2341,6 +2357,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2396,6 +2416,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
