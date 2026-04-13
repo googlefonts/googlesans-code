@@ -1807,6 +1807,7 @@ userData = {
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 10;
 };
+visible = 1;
 },
 {
 axesValues = (
