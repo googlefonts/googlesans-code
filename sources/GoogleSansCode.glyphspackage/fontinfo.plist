@@ -1230,7 +1230,6 @@ userData = {
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 10;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -2610,6 +2609,167 @@ value = "GoogleSansCode-ExtraBold";
 weightClass = 800;
 }
 );
+kerningLTR = {
+"88819DE9-98C6-4AB7-BD8B-9DF84621D738" = {
+"@MMK_L_eight_right" = {
+"@MMK_R_seven_left" = -30;
+"@MMK_R_zero_left" = 10;
+};
+"@MMK_L_five_right" = {
+"@MMK_R_one_left" = -20;
+"@MMK_R_seven_left" = -40;
+"@MMK_R_two_left" = -20;
+"@MMK_R_zero_left" = -20;
+};
+"@MMK_L_four_right" = {
+"@MMK_R_four_left" = -20;
+"@MMK_R_nine_left" = -40;
+"@MMK_R_one_left" = -20;
+"@MMK_R_seven_left" = -20;
+};
+"@MMK_L_nine_right" = {
+"@MMK_R_five_left" = -30;
+"@MMK_R_four_left" = -50;
+"@MMK_R_seven_left" = -10;
+"@MMK_R_three_left" = -20;
+"@MMK_R_two_left" = -30;
+};
+"@MMK_L_one_right" = {
+"@MMK_R_five_left" = -50;
+"@MMK_R_four_left" = -60;
+"@MMK_R_nine_left" = -50;
+"@MMK_R_one_left" = -110;
+"@MMK_R_seven_left" = -40;
+"@MMK_R_three_left" = -50;
+"@MMK_R_two_left" = -40;
+"@MMK_R_zero_left" = -80;
+};
+"@MMK_L_seven_right" = {
+"@MMK_R_five_left" = -40;
+"@MMK_R_four_left" = -100;
+"@MMK_R_nine_left" = 10;
+"@MMK_R_seven_left" = 30;
+"@MMK_R_six_left" = -80;
+"@MMK_R_three_left" = -30;
+"@MMK_R_two_left" = -30;
+"@MMK_R_zero_left" = -50;
+};
+"@MMK_L_six_right" = {
+"@MMK_R_five_left" = -40;
+"@MMK_R_nine_left" = -20;
+};
+"@MMK_L_three_right" = {
+"@MMK_R_one_left" = -40;
+"@MMK_R_three_left" = -30;
+"@MMK_R_zero_left" = -10;
+};
+"@MMK_L_two_right" = {
+"@MMK_R_five_left" = -20;
+"@MMK_R_four_left" = -60;
+"@MMK_R_one_left" = -30;
+"@MMK_R_six_left" = -50;
+"@MMK_R_two_left" = -30;
+"@MMK_R_zero_left" = -50;
+};
+"@MMK_L_zero_right" = {
+"@MMK_R_eight_left" = 10;
+"@MMK_R_five_left" = -30;
+"@MMK_R_four_left" = -20;
+"@MMK_R_one_left" = -20;
+"@MMK_R_seven_left" = -50;
+"@MMK_R_three_left" = -30;
+"@MMK_R_two_left" = -60;
+};
+};
+"F632DC93-BEFD-4CC9-8CF6-AC4643A09268" = {
+"@MMK_L_eight_right" = {
+"@MMK_R_eight_left" = 50;
+"@MMK_R_five_left" = 20;
+"@MMK_R_four_left" = 40;
+"@MMK_R_seven_left" = -20;
+"@MMK_R_six_left" = 20;
+"@MMK_R_two_left" = 20;
+"@MMK_R_zero_left" = 20;
+};
+"@MMK_L_five_right" = {
+"@MMK_R_eight_left" = 20;
+"@MMK_R_one_left" = -20;
+"@MMK_R_seven_left" = -50;
+"@MMK_R_zero_left" = -20;
+};
+"@MMK_L_four_right" = {
+"@MMK_R_eight_left" = 30;
+"@MMK_R_four_left" = -10;
+"@MMK_R_nine_left" = -20;
+"@MMK_R_one_left" = -10;
+"@MMK_R_seven_left" = -30;
+};
+"@MMK_L_nine_right" = {
+"@MMK_R_five_left" = -30;
+"@MMK_R_four_left" = -20;
+"@MMK_R_nine_left" = 10;
+"@MMK_R_seven_left" = 10;
+"@MMK_R_three_left" = -10;
+"@MMK_R_two_left" = -10;
+};
+"@MMK_L_one_right" = {
+"@MMK_R_eight_left" = 20;
+"@MMK_R_five_left" = -20;
+"@MMK_R_four_left" = 0;
+"@MMK_R_nine_left" = -50;
+"@MMK_R_one_left" = -90;
+"@MMK_R_seven_left" = -10;
+"@MMK_R_three_left" = -20;
+"@MMK_R_two_left" = -30;
+"@MMK_R_zero_left" = -50;
+};
+"@MMK_L_seven_right" = {
+"@MMK_R_eight_left" = 10;
+"@MMK_R_five_left" = -50;
+"@MMK_R_four_left" = -80;
+"@MMK_R_nine_left" = 30;
+"@MMK_R_one_left" = 20;
+"@MMK_R_seven_left" = 80;
+"@MMK_R_six_left" = -60;
+"@MMK_R_three_left" = 10;
+"@MMK_R_two_left" = 20;
+"@MMK_R_zero_left" = 0;
+};
+"@MMK_L_six_right" = {
+"@MMK_R_eight_left" = 40;
+"@MMK_R_five_left" = -20;
+"@MMK_R_four_left" = 40;
+"@MMK_R_nine_left" = -20;
+"@MMK_R_six_left" = 10;
+"@MMK_R_two_left" = -10;
+};
+"@MMK_L_three_right" = {
+"@MMK_R_one_left" = -30;
+"@MMK_R_three_left" = -20;
+};
+"@MMK_L_two_right" = {
+"@MMK_R_eight_left" = 20;
+"@MMK_R_five_left" = -20;
+"@MMK_R_four_left" = -30;
+"@MMK_R_one_left" = -20;
+"@MMK_R_seven_left" = 10;
+"@MMK_R_six_left" = -20;
+"@MMK_R_two_left" = -30;
+"@MMK_R_zero_left" = -40;
+};
+"@MMK_L_zero_right" = {
+"@MMK_R_eight_left" = 20;
+"@MMK_R_five_left" = -40;
+"@MMK_R_four_left" = -10;
+"@MMK_R_nine_left" = 10;
+"@MMK_R_one_left" = -30;
+"@MMK_R_seven_left" = -20;
+"@MMK_R_six_left" = -10;
+"@MMK_R_three_left" = -20;
+"@MMK_R_two_left" = -50;
+};
+};
+};
 metrics = (
 {
 type = ascender;
