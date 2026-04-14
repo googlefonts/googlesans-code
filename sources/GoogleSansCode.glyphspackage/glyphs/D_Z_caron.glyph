@@ -437,7 +437,7 @@ pos = (1256,0);
 ref = Zcaron;
 }
 );
-width = 2296;
+width = 2275;
 },
 {
 associatedMasterId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -518,7 +518,7 @@ pos = (1274,0);
 ref = Zcaron;
 }
 );
-width = 2358;
+width = 2336;
 },
 {
 associatedMasterId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -603,11 +603,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1280,0);
+pos = (1260,0);
 ref = Zcaron;
 }
 );
-width = 2356;
+width = 2336;
 }
 );
 unicode = 452;

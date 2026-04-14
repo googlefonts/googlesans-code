@@ -109,6 +109,12 @@ ref = comma;
 width = 615;
 },
 {
+guides = (
+{
+angle = 90;
+pos = (542,524);
+}
+);
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {

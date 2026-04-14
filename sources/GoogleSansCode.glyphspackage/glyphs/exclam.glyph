@@ -393,7 +393,7 @@ nodes = (
 );
 }
 );
-width = 620;
+width = 640;
 }
 );
 unicode = 33;
