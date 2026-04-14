@@ -1012,7 +1012,7 @@ lookup ccmp_latn_catalanRecompose {
 } ccmp_latn_catalanRecompose;
 
 lookup ccmp_latn_ijacute {
-	sub ij acutecomb by ijacute;
+#	sub ij acutecomb by ijacute;
 	sub IJ acutecomb by IJacute;
 } ccmp_latn_ijacute;
 ";
