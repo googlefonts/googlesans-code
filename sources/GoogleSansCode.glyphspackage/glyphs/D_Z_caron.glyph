@@ -420,11 +420,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1310,0);
+pos = (1250,0);
 ref = Zcaron;
 }
 );
-width = 2334;
+width = 2254;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
