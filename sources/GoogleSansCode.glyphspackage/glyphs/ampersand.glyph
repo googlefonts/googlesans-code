@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = ampersand;
 kernLeft = ampersand_left;
 kernRight = ampersand_right;

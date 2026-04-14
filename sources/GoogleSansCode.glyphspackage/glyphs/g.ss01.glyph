@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = g.ss01;
 kernLeft = g_bi_left;
 kernRight = g_bi_right;

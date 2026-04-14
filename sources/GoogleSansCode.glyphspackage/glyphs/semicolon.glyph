@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = semicolon;
 kernLeft = semicolon_left;
 kernRight = colon_right;

@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = asterisk;
 kernLeft = asterisk_left;
 kernRight = asterisk_right;
