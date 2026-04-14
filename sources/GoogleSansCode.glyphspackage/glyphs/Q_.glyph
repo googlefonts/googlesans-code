@@ -1,6 +1,6 @@
 {
 glyphname = Q;
-kernLeft = O_left;
+kernLeft = Q_left;
 kernRight = Q_right;
 layers = (
 {
