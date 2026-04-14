@@ -1807,7 +1807,6 @@ userData = {
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 10;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -2330,7 +2329,7 @@ Location = 300;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2386,7 +2385,7 @@ Location = 400;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2437,7 +2436,7 @@ Location = 500;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2490,7 +2489,7 @@ Location = 600;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2543,7 +2542,7 @@ Location = 700;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }
@@ -2597,7 +2596,7 @@ Location = 800;
 },
 {
 Axis = Monospaced;
-Location = 0;
+Location = 1;
 }
 );
 }

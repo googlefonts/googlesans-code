@@ -75,11 +75,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (690,0);
+pos = (660,0);
 ref = commaaccentcomb;
 }
 );
-width = 1218;
+width = 1172;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -92,7 +92,7 @@ pos = (693,0);
 ref = commaaccentcomb;
 }
 );
-width = 1242;
+width = 1238;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

@@ -278,7 +278,7 @@ ref = b;
 scale = (1,-1);
 }
 );
-width = 1254;
+width = 1206;
 },
 {
 background = {
@@ -359,7 +359,7 @@ ref = b;
 scale = (1,-1);
 }
 );
-width = 1260;
+width = 1218;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

@@ -433,11 +433,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1304,0);
+pos = (1256,0);
 ref = Zcaron;
 }
 );
-width = 2344;
+width = 2296;
 },
 {
 associatedMasterId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -514,11 +514,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1286,0);
+pos = (1274,0);
 ref = Zcaron;
 }
 );
-width = 2370;
+width = 2358;
 },
 {
 associatedMasterId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
