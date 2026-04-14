@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = E;
 kernLeft = H_left;
 kernRight = E_right;
@@ -211,7 +212,7 @@ nodes = (
 );
 }
 );
-width = 1080;
+width = 1090;
 },
 {
 anchors = (
@@ -253,7 +254,7 @@ nodes = (
 );
 }
 );
-width = 1098;
+width = 1109;
 },
 {
 anchors = (
@@ -295,7 +296,7 @@ nodes = (
 );
 }
 );
-width = 1154;
+width = 1171;
 },
 {
 anchors = (
@@ -337,7 +338,7 @@ nodes = (
 );
 }
 );
-width = 1172;
+width = 1192;
 }
 );
 unicode = 69;
