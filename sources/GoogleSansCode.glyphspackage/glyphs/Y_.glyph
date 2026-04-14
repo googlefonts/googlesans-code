@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = Y;
 kernLeft = Y_left;
 kernRight = Y_right;
@@ -321,7 +322,7 @@ nodes = (
 );
 }
 );
-width = 1116;
+width = 1117;
 }
 );
 unicode = 89;
