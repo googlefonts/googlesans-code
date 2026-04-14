@@ -416,7 +416,7 @@ pos = (1250,0);
 ref = zcaron;
 }
 );
-width = 2218;
+width = 2178;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -425,11 +425,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1304,0);
+pos = (1256,0);
 ref = zcaron;
 }
 );
-width = 2284;
+width = 2236;
 },
 {
 associatedMasterId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -506,11 +506,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1286,0);
+pos = (1274,0);
 ref = zcaron;
 }
 );
-width = 2300;
+width = 2288;
 },
 {
 associatedMasterId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -591,7 +591,7 @@ pos = (1280,0);
 ref = zcaron;
 }
 );
-width = 2306;
+width = 2256;
 }
 );
 unicode = 453;

@@ -116,7 +116,7 @@ pos = (698,0);
 ref = cedillacomb;
 }
 );
-width = 905;
+width = 880;
 },
 {
 background = {
@@ -139,7 +139,7 @@ pos = (702,0);
 ref = cedillacomb;
 }
 );
-width = 897;
+width = 892;
 },
 {
 background = {
@@ -162,7 +162,7 @@ pos = (699,0);
 ref = cedillacomb;
 }
 );
-width = 871;
+width = 929;
 },
 {
 background = {
@@ -185,7 +185,7 @@ pos = (699,0);
 ref = cedillacomb;
 }
 );
-width = 862;
+width = 941;
 }
 );
 unicode = 355;

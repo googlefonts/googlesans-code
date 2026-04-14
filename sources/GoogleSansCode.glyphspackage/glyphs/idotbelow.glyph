@@ -62,7 +62,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (452,0);
+pos = (462,0);
 ref = dotbelowcomb;
 }
 );
@@ -101,11 +101,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (452,0);
+pos = (482,0);
 ref = dotbelowcomb;
 }
 );
-width = 834;
+width = 884;
 }
 );
 unicode = 7883;

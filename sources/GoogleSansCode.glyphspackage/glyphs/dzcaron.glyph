@@ -332,11 +332,11 @@ shapes = (
 ref = d;
 },
 {
-pos = (1250,0);
+pos = (1200,0);
 ref = zcaron;
 }
 );
-width = 2218;
+width = 2128;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -371,11 +371,11 @@ shapes = (
 ref = d;
 },
 {
-pos = (1262,0);
+pos = (1222,0);
 ref = zcaron;
 }
 );
-width = 2288;
+width = 2198;
 }
 );
 unicode = 454;

@@ -101,11 +101,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (640,378);
+pos = (670,378);
 ref = circumflexcomb;
 }
 );
-width = 1280;
+width = 1340;
 }
 );
 unicode = 219;

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = less;
 kernLeft = less_left;
 kernRight = less_right;

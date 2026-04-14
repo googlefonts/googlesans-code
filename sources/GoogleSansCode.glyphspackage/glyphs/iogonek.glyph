@@ -105,7 +105,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (499,0);
+pos = (509,0);
 ref = ogonekcomb;
 }
 );
@@ -159,11 +159,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (507,14);
+pos = (537,14);
 ref = ogonekcomb;
 }
 );
-width = 834;
+width = 884;
 }
 );
 unicode = 303;

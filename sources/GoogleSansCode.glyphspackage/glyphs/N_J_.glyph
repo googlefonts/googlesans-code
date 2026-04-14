@@ -199,7 +199,7 @@ pos = (1340,0);
 ref = j;
 }
 );
-width = 2081;
+width = 2042;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -234,11 +234,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (1404,0);
+pos = (1424,0);
 ref = j;
 }
 );
-width = 2237;
+width = 2212;
 }
 );
 unicode = 458;

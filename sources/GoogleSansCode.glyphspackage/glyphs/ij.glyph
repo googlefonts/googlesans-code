@@ -766,7 +766,7 @@ pos = (833,0);
 ref = j;
 }
 );
-width = 1574;
+width = 1535;
 },
 {
 associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
@@ -993,11 +993,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (834,0);
+pos = (884,0);
 ref = j;
 }
 );
-width = 1667;
+width = 1672;
 },
 {
 associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
