@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = trademark;
 kernLeft = trademark_left;
 kernRight = trademark_right;
@@ -246,7 +247,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1240;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -295,7 +296,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1240;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -344,7 +345,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1240;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
@@ -393,7 +394,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1240;
 }
 );
 unicode = 8482;

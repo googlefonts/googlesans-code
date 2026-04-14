@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = fraction;
 kernLeft = slash_left;
 kernRight = slash_right;

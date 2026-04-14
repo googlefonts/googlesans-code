@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = divide;
 kernLeft = hyphen_left;
 kernRight = hyphen_right;

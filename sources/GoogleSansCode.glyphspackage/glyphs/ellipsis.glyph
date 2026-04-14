@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = ellipsis;
 kernLeft = period_left;
 kernRight = period_right;
