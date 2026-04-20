@@ -54,7 +54,7 @@ ref = lessequal;
 scale = (-1,1);
 }
 );
-width = 1200;
+width = 1196;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -65,7 +65,7 @@ ref = lessequal;
 scale = (-1,1);
 }
 );
-width = 1200;
+width = 1196;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";

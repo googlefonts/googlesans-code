@@ -62,11 +62,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (568,0);
+pos = (572,0);
 ref = hungarumlautcomb;
 }
 );
-width = 1155;
+width = 1163;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -75,27 +75,14 @@ shapes = (
 ref = u;
 },
 {
-pos = (572,0);
+pos = (576,0);
 ref = hungarumlautcomb;
 }
 );
-width = 1164;
+width = 1172;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
-shapes = (
-{
-ref = u;
-},
-{
-pos = (585,0);
-ref = hungarumlautcomb;
-}
-);
-width = 1190;
-},
-{
-layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 ref = u;
@@ -105,7 +92,20 @@ pos = (589,0);
 ref = hungarumlautcomb;
 }
 );
-width = 1199;
+width = 1198;
+},
+{
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (593,0);
+ref = hungarumlautcomb;
+}
+);
+width = 1207;
 }
 );
 unicode = 369;

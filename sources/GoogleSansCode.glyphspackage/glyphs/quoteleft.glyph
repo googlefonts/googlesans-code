@@ -53,22 +53,22 @@ layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 angle = 180;
-pos = (548,2369);
+pos = (556,2369);
 ref = quoteright;
 }
 );
-width = 548;
+width = 556;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 angle = 180;
-pos = (565,2332);
+pos = (573,2332);
 ref = quoteright;
 }
 );
-width = 565;
+width = 573;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";

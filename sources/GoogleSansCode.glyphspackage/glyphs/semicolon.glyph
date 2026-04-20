@@ -76,7 +76,7 @@ alignment = -1;
 ref = comma;
 }
 );
-width = 548;
+width = 552;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -91,7 +91,7 @@ alignment = -1;
 ref = comma;
 }
 );
-width = 565;
+width = 569;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -106,7 +106,7 @@ alignment = -1;
 ref = comma;
 }
 );
-width = 615;
+width = 619;
 },
 {
 guides = (
@@ -127,7 +127,7 @@ alignment = -1;
 ref = comma;
 }
 );
-width = 632;
+width = 636;
 }
 );
 metricLeft = comma;

@@ -62,11 +62,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (587,0);
+pos = (591,0);
 ref = acutecomb;
 }
 );
-width = 1125;
+width = 1133;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -75,11 +75,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (594,0);
+pos = (598,0);
 ref = acutecomb;
 }
 );
-width = 1136;
+width = 1144;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -88,11 +88,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (616,0);
+pos = (620,0);
 ref = acutecomb;
 }
 );
-width = 1170;
+width = 1178;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
@@ -101,11 +101,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (624,0);
+pos = (628,0);
 ref = acutecomb;
 }
 );
-width = 1181;
+width = 1189;
 }
 );
 unicode = 233;
