@@ -71,7 +71,7 @@ pos = (578,0);
 ref = acutecomb;
 }
 );
-width = 1109;
+width = 1113;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -85,7 +85,7 @@ pos = (577,0);
 ref = acutecomb;
 }
 );
-width = 1125;
+width = 1129;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -99,7 +99,7 @@ pos = (574,0);
 ref = acutecomb;
 }
 );
-width = 1173;
+width = 1177;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
@@ -113,7 +113,7 @@ pos = (573,0);
 ref = acutecomb;
 }
 );
-width = 1189;
+width = 1193;
 }
 );
 unicode = 225;

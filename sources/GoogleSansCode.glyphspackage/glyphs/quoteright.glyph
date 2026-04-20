@@ -56,7 +56,7 @@ pos = (0,1217);
 ref = comma;
 }
 );
-width = 556;
+width = 560;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -67,7 +67,7 @@ pos = (0,1189);
 ref = comma;
 }
 );
-width = 573;
+width = 577;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -77,7 +77,7 @@ pos = (0,1108);
 ref = comma;
 }
 );
-width = 623;
+width = 627;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
@@ -88,7 +88,7 @@ pos = (0,1080);
 ref = comma;
 }
 );
-width = 640;
+width = 644;
 }
 );
 unicode = 8217;

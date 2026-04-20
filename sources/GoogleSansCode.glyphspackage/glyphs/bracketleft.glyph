@@ -92,11 +92,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (892,1333);
+pos = (896,1333);
 ref = bracketright;
 }
 );
-width = 892;
+width = 896;
 },
 {
 hints = (
@@ -111,11 +111,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (902,1330);
+pos = (906,1330);
 ref = bracketright;
 }
 );
-width = 902;
+width = 906;
 },
 {
 hints = (
@@ -130,11 +130,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (932,1321);
+pos = (936,1321);
 ref = bracketright;
 }
 );
-width = 932;
+width = 936;
 },
 {
 hints = (
@@ -149,11 +149,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (942,1318);
+pos = (946,1318);
 ref = bracketright;
 }
 );
-width = 942;
+width = 946;
 }
 );
 metricLeft = "=|bracketright";
