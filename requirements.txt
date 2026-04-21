@@ -196,7 +196,7 @@ jinja2==3.1.6
     #   gftools
 kurbopy==0.11.1
     # via collidoscope
-lxml==6.0.2
+lxml==6.1.0
     # via
     #   afdko
     #   fontfeatures
