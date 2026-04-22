@@ -24,21 +24,10 @@ jobs:
       with:
         python-version-file: .github/python-version.txt
         cache: pip
-    - name: Create folder
-      run: mkdir -p fonts/variable
-    - name: Install cargo-binstall
-      uses: cargo-bins/cargo-binstall@v1.18.1
-    - name: Use cargo-binstall to grab precompiled fontc
-      run: cargo binstall fontc@0.5.0
-    - name: Build upright font
-      run: fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[MONO,wght].ttf
-    - name: Build italic font
-      run: fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf
+    - name: Build variable fonts
+      run: make build
     - name: Build Android fonts
-      run: |
-        make venv
-        touch build.stamp
-        make android
+      run: make android
     - name: Generate artifact name
       id: zip-name
       uses: alpha-tango-kilo/gha-artifact-name@v1
