@@ -57,7 +57,7 @@ jobs:
       uses: actions/download-artifact@v8
       with:
         name: ${{ needs.build.outputs.artifact-name }}
-        path: build
+        path: fonts
     - name: Setup Python
       uses: actions/setup-python@v6
       with:
@@ -66,17 +66,20 @@ jobs:
     - name: OpenType Sanitizer checks
       uses: f-actions/opentype-sanitizer@v3
       with:
-        path: build/**/*.ttf
+        path: fonts/**/*.ttf
     - name: Shaperglot report
       run: |
         echo "::group::Set up venv"
         python -m venv shaperglot-venv
         shaperglot-venv/bin/pip install --upgrade shaperglot
         echo "::endgroup::"
-        shaperglot-venv/bin/shaperglot report build/variable/GoogleSansCode[MONO,wght].ttf
+        shaperglot-venv/bin/shaperglot report fonts/variable/GoogleSansCode[MONO,wght].ttf
     - name: Run Fontbakery
       id: fontbakery
-      run: make test
+      run: |
+        mkdir -p venv
+        touch venv/touchfile build.stamp
+        make test
     - name: Upload Fontbakery report(s)
       uses: actions/upload-artifact@v7
       # Always upload reports (even during a pipeline fail), so long as Fontbakery completed
