@@ -358,7 +358,7 @@ ref = b;
 scale = (1,-1);
 }
 );
-width = 1226;
+width = 1230;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
