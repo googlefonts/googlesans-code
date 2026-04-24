@@ -62,11 +62,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (530,-30);
+pos = (600,-30);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
+width = 1228;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -101,11 +101,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (532,-35);
+pos = (648,-35);
 ref = dotbelowcomb;
 }
 );
-width = 1200;
+width = 1296;
 }
 );
 unicode = 7920;

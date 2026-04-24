@@ -2198,9 +2198,6 @@ pos = (0,1235);
 {
 locked = 1;
 pos = (0,-451);
-},
-{
-pos = (878,1527);
 }
 );
 iconName = Bold;
@@ -2750,7 +2747,7 @@ kerningLTR = {
 "@MMK_L_E_right" = {
 "@MMK_R_A_left" = 10;
 "@MMK_R_I_left" = 10;
-"@MMK_R_O_left" = -10;
+"@MMK_R_O_left" = -12;
 "@MMK_R_T_left" = 10;
 "@MMK_R_V_left" = 10;
 "@MMK_R_W_left" = 10;

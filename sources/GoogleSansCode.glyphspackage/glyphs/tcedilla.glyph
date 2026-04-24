@@ -112,7 +112,7 @@ ref = t;
 },
 {
 alignment = -1;
-pos = (698,0);
+pos = (538,0);
 ref = cedillacomb;
 }
 );
@@ -135,7 +135,7 @@ ref = t;
 },
 {
 alignment = -1;
-pos = (702,0);
+pos = (548,0);
 ref = cedillacomb;
 }
 );
@@ -158,7 +158,7 @@ ref = t;
 },
 {
 alignment = -1;
-pos = (699,0);
+pos = (579,0);
 ref = cedillacomb;
 }
 );
@@ -181,7 +181,7 @@ ref = t;
 },
 {
 alignment = -1;
-pos = (699,0);
+pos = (599,0);
 ref = cedillacomb;
 }
 );

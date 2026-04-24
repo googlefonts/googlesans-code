@@ -114,7 +114,7 @@ pos = (570,403);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 1286;
 },
 {
 background = {
@@ -137,7 +137,7 @@ pos = (562,406);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 1202;
 },
 {
 background = {
@@ -160,7 +160,7 @@ pos = (537,415);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 1208;
 },
 {
 background = {
@@ -183,7 +183,7 @@ pos = (529,418);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 1291;
 }
 );
 unicode = 7902;

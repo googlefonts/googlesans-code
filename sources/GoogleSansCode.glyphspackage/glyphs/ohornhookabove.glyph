@@ -175,7 +175,7 @@ pos = (520,30);
 ref = hookabovecomb;
 }
 );
-width = 1200;
+width = 1201;
 }
 );
 unicode = 7903;

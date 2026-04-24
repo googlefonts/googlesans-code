@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = quotedblbase;
 kernLeft = comma_left;
 kernRight = period_right;
@@ -65,63 +66,68 @@ width = 1200;
 },
 {
 layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
+metricLeft = "=comma";
+metricRight = "=comma";
 shapes = (
 {
-pos = (-206,0);
 ref = comma;
 },
 {
-pos = (272,0);
+pos = (478,0);
 ref = comma;
 }
 );
-width = 1200;
+width = 1038;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
+metricLeft = "=comma";
+metricRight = "=comma";
 shapes = (
 {
 alignment = -1;
-pos = (-206,-1);
+pos = (0,-1);
 ref = comma;
 },
 {
 alignment = -1;
-pos = (276,0);
+pos = (482,0);
 ref = comma;
 }
 );
-width = 1200;
+width = 1059;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
+metricLeft = "=comma";
+metricRight = "=comma";
 shapes = (
 {
 alignment = -1;
-pos = (-203,0);
 ref = comma;
 },
 {
 alignment = -1;
-pos = (292,0);
+pos = (495,0);
 ref = comma;
 }
 );
-width = 1200;
+width = 1122;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
+metricLeft = "=comma";
+metricRight = "=comma";
 shapes = (
 {
-pos = (-203,0);
 ref = comma;
 },
 {
-pos = (296,0);
+pos = (499,0);
 ref = comma;
 }
 );
-width = 1200;
+width = 1143;
 }
 );
 unicode = 8222;

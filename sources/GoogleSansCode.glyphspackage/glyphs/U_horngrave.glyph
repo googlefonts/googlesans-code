@@ -190,7 +190,7 @@ pos = (580,403);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1234;
 },
 {
 background = {
@@ -211,7 +211,7 @@ pos = (572,402);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1204;
 },
 {
 background = {
@@ -253,7 +253,7 @@ pos = (537,398);
 ref = gravecomb;
 }
 );
-width = 1200;
+width = 1396;
 }
 );
 unicode = 7914;
