@@ -165,7 +165,7 @@ gftools[qa]==0.9.98
     # via -r requirements-test.in
 gitdb==4.0.12
     # via gitpython
-gitpython==3.1.45
+gitpython==3.1.47
     # via font-v
 glyphsets==1.1.0
     # via
