@@ -49,7 +49,36 @@ PROFILE = {
         # we intentionally include a RFN in this project
         "googlefonts/font_copyright",
         "googlefonts/license/OFL_copyright",
-        "googlefonts/font_names"
-        #we won't rename the font as Monospaced, and that's why we added a customised version of this check
+        # We won't rename the font as Monospaced, and that's why we added a
+        # customised version of this check
+        "googlefonts/font_names",
+        # We don't set post.isFixedPitch because we have an axis that lets us be
+        # not-monospace
+        "opentype/monospace",
+        "mandatory_avar_table",
+        # We don't want to add a prep table:
+        # https://github.com/googlefonts/googlesans-code/issues/12
+        "smart_dropout",
+        # We're not overly concerned about being able to make statics from the
+        # VF
+        "googlefonts/varfont/generate_static",
     ],
+    "overrides": {
+        "googlefonts/STAT/axisregistry": [
+            {
+                "code": "bad-coordinate",
+                "status": "INFO",
+                "reason": "expected & approved for GS Code to have Monospaced @ 0 "
+                "and Proportional @ 1 (the inverse to the axis registry's expectation)",
+            },
+        ],
+        "fontdata_namecheck": [
+            {
+                "code": "namecheck-service",
+                "status": "WARN",
+                "reason": "we know Google Sans Code is okay, "
+                "so it doesn't matter if the service is offline for a bit",
+            }
+        ],
+    },
 }
