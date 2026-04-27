@@ -825,11 +825,11 @@ code = "table STAT {
     DesignAxis wght 0 {
         name \"Weight\";
     };
-    DesignAxis ital 1 {
-        name \"Italic\";
-    };
-    DesignAxis MONO 2 {
+    DesignAxis MONO 1 {
         name \"Monospaced\";
+    };
+    DesignAxis ital 2 {
+        name \"Italic\";
     };
 
     # Axis values: Weight
@@ -867,7 +867,7 @@ code = "table STAT {
     };
 
     AxisValue {
-        name \"Monospaced\";
+        name \"Monospace\";
         location MONO 0 1;
     };
 } STAT;
