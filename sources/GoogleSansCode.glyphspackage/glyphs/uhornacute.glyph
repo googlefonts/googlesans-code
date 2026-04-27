@@ -155,7 +155,7 @@ pos = (561,16);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1179;
 },
 {
 background = {
@@ -176,7 +176,7 @@ pos = (552,17);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1134;
 },
 {
 background = {
@@ -197,7 +197,7 @@ pos = (524,19);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1224;
 },
 {
 background = {
@@ -218,7 +218,7 @@ pos = (515,20);
 ref = acutecomb;
 }
 );
-width = 1176;
+width = 1215;
 },
 {
 associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

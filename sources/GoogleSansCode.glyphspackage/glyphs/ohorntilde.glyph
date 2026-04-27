@@ -109,7 +109,7 @@ pos = (600,16);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 1180;
 },
 {
 background = {

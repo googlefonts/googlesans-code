@@ -4912,6 +4912,9 @@ kerningLTR = {
 "@MMK_R_three_left" = -20;
 "@MMK_R_two_left" = -50;
 };
+onehalf = {
+"@MMK_R_H_left" = 100;
+};
 };
 };
 metrics = (

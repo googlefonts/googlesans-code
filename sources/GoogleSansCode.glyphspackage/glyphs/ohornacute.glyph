@@ -118,7 +118,7 @@ pos = (600,16);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1180;
 },
 {
 background = {
