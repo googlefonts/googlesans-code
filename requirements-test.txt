@@ -34,11 +34,11 @@ dehinter==4.0.0
     # via fontbakery
 filelock==3.20.3
     # via youseedee
-fontbakery==1.1.0
+fontbakery[beautifulsoup4,googlefonts,googlefontsalwayslatest,shaperglot]==1.1.0
     # via -r requirements-test.in
 fontmath==0.9.4
     # via ufo2ft
-fonttools==4.60.1
+fonttools[lxml,ufo,unicode]==4.60.2
     # via
     #   axisregistry
     #   babelfont
@@ -49,6 +49,7 @@ fonttools==4.60.1
     #   dehinter
     #   fontbakery
     #   fontmath
+    #   fonttools
     #   glyphsets
     #   glyphslib
     #   kurbopy
@@ -99,8 +100,6 @@ orjson==3.11.6
     # via babelfont
 packaging==25.0
     # via fontbakery
-pip==26.0.1
-    # via pip-api
 pip-api==0.0.34
     # via fontbakery
 protobuf==3.20.3
@@ -129,8 +128,6 @@ rich==14.2.0
     # via fontbakery
 rstr==3.2.2
     # via stringbrewer
-setuptools==82.0.1
-    # via glyphsets
 shaperglot==1.2.0
     # via fontbakery
 skia-pathops==0.9.1
@@ -165,7 +162,7 @@ uharfbuzz==0.53.2
     #   collidoscope
     #   fontbakery
     #   vharfbuzz
-unicodedata2==15.1.0
+unicodedata2==17.0.1
     # via
     #   fontbakery
     #   fonttools
