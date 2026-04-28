@@ -24,21 +24,10 @@ jobs:
       with:
         python-version-file: .github/python-version.txt
         cache: pip
-    - name: Create folder
-      run: mkdir -p fonts/variable
-    - name: Install cargo-binstall
-      uses: cargo-bins/cargo-binstall@v1.18.1
-    - name: Use cargo-binstall to grab precompiled fontc
-      run: cargo binstall fontc@0.5.0
-    - name: Build upright font
-      run: fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[MONO,wght].ttf
-    - name: Build italic font
-      run: fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf
+    - name: Build variable fonts
+      run: make build
     - name: Build Android fonts
-      run: |
-        make venv
-        touch build.stamp
-        make android
+      run: make android
     - name: Generate artifact name
       id: zip-name
       uses: alpha-tango-kilo/gha-artifact-name@v1
@@ -68,7 +57,7 @@ jobs:
       uses: actions/download-artifact@v8
       with:
         name: ${{ needs.build.outputs.artifact-name }}
-        path: build
+        path: fonts
     - name: Setup Python
       uses: actions/setup-python@v6
       with:
@@ -77,17 +66,20 @@ jobs:
     - name: OpenType Sanitizer checks
       uses: f-actions/opentype-sanitizer@v3
       with:
-        path: build/**/*.ttf
+        path: fonts/**/*.ttf
     - name: Shaperglot report
       run: |
         echo "::group::Set up venv"
         python -m venv shaperglot-venv
         shaperglot-venv/bin/pip install --upgrade shaperglot
         echo "::endgroup::"
-        shaperglot-venv/bin/shaperglot report build/variable/GoogleSansCode[MONO,wght].ttf
+        shaperglot-venv/bin/shaperglot report fonts/variable/GoogleSansCode[MONO,wght].ttf
     - name: Run Fontbakery
       id: fontbakery
-      run: make test
+      run: |
+        mkdir -p venv
+        touch venv/touchfile build.stamp
+        make test
     - name: Upload Fontbakery report(s)
       uses: actions/upload-artifact@v7
       # Always upload reports (even during a pipeline fail), so long as Fontbakery completed

@@ -1,9 +1,6 @@
-SOURCES=$(shell python3 scripts/read-config.py --sources)
-FAMILY=$(shell python3 scripts/read-config.py --family)
-
 help:
 	@echo "###"
-	@echo "# Build targets for $(FAMILY)"
+	@echo "# Build targets for Google Sans Code"
 	@echo "###"
 	@echo
 	@echo "  make build:  Builds the fonts and places them in the fonts/ directory"
@@ -16,13 +13,16 @@ venv: venv/touchfile
 
 venv-test: venv-test/touchfile
 
-build.stamp: venv sources/config.yaml $(SOURCES)
-	rm -rf fonts
-	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
+build.stamp: venv sources/GoogleSansCode.glyphspackage sources/GoogleSansCode-Italic.glyphspackage
+	@rm -rf fonts
+	@mkdir -p fonts/variable
+	venv/bin/fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[MONO,wght].ttf
+	venv/bin/fontc sources/GoogleSansCode-Italic.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf
+	@touch build.stamp
 
 android: build.stamp
 	mkdir -p fonts/android
-	-@rm fonts/android/*.ttf
+	@rm -f fonts/android/*.ttf
 	cp fonts/variable/GoogleSansCode[MONO,wght].ttf fonts/variable/GoogleSansCode-Italic[MONO,wght].ttf fonts/android
 	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode[MONO,wght].ttf
 	venv/bin/python scripts/prune_base.py fonts/android/GoogleSansCode-Italic[MONO,wght].ttf
