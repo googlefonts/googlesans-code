@@ -13,7 +13,7 @@ venv: venv/touchfile
 
 venv-test: venv-test/touchfile
 
-build.stamp: venv
+build.stamp: venv sources/GoogleSansCode.glyphspackage sources/GoogleSansCode-Italic.glyphspackage
 	@rm -rf fonts
 	@mkdir -p fonts/variable
 	venv/bin/fontc sources/GoogleSansCode.glyphspackage --flatten-components --decompose-transformed-components --output-file fonts/variable/GoogleSansCode[MONO,wght].ttf
