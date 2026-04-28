@@ -137,14 +137,14 @@ pos = (562,406);
 ref = hookabovecomb;
 }
 );
-width = 1202;
+width = 1286;
 },
 {
 background = {
 shapes = (
 {
 alignment = -1;
-pos = (568,415);
+pos = (650,415);
 ref = hookabovecomb;
 }
 );
@@ -156,11 +156,11 @@ ref = Ohorn.alt;
 },
 {
 alignment = -1;
-pos = (537,415);
+pos = (619,415);
 ref = hookabovecomb;
 }
 );
-width = 1208;
+width = 1290;
 },
 {
 background = {

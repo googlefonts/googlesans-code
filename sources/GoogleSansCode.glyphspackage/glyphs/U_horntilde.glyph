@@ -127,13 +127,13 @@ pos = (524,406);
 ref = tildecomb;
 }
 );
-width = 1345;
+width = 1292;
 },
 {
 background = {
 shapes = (
 {
-pos = (536,413);
+pos = (506,413);
 ref = tildecomb;
 }
 );
@@ -144,11 +144,11 @@ shapes = (
 ref = Uhorn.alt;
 },
 {
-pos = (505,415);
+pos = (475,415);
 ref = tildecomb;
 }
 );
-width = 1370;
+width = 1342;
 },
 {
 background = {

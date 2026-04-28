@@ -128,14 +128,14 @@ width = 1200;
 anchors = (
 {
 name = _top;
-pos = (0,1052);
+pos = (5,1052);
 }
 );
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 angle = 180;
-pos = (-5,1104);
+pos = (0,1104);
 ref = commaaccentcomb;
 }
 );

@@ -143,13 +143,13 @@ pos = (592,17);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1184;
 },
 {
 background = {
 shapes = (
 {
-pos = (584,19);
+pos = (581,19);
 ref = acutecomb;
 }
 );
@@ -161,11 +161,11 @@ ref = ohorn.alt;
 },
 {
 alignment = -1;
-pos = (568,19);
+pos = (565,19);
 ref = acutecomb;
 }
 );
-width = 1200;
+width = 1197;
 },
 {
 background = {

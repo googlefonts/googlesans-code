@@ -81,7 +81,7 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (600,67);
+pos = (582,67);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -95,7 +95,7 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (610,57);
+pos = (611,57);
 ref = circumflexcomb_gravecomb;
 }
 );

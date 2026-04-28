@@ -75,7 +75,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (711,0);
+pos = (709,0);
 ref = commaaccentcomb;
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (745,0);
+pos = (737,0);
 ref = commaaccentcomb;
 }
 );

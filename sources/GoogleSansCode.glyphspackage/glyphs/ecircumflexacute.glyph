@@ -95,7 +95,7 @@ ref = e;
 },
 {
 alignment = -1;
-pos = (626,57);
+pos = (625,57);
 ref = circumflexcomb_acutecomb;
 }
 );

@@ -73,7 +73,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (472,0);
+pos = (473,0);
 ref = gravecomb;
 }
 );

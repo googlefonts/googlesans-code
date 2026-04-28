@@ -75,11 +75,11 @@ shapes = (
 ref = AE;
 },
 {
-pos = (1071,385);
+pos = (1067,385);
 ref = acutecomb;
 }
 );
-width = 1596;
+width = 1544;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -88,11 +88,11 @@ shapes = (
 ref = AE;
 },
 {
-pos = (963,380);
+pos = (962,380);
 ref = acutecomb;
 }
 );
-width = 1591;
+width = 1579;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

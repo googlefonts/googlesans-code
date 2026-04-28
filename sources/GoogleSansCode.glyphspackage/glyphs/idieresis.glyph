@@ -87,7 +87,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (484,0);
+pos = (483,0);
 ref = dieresiscomb;
 }
 );

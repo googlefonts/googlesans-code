@@ -81,7 +81,7 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (600,57);
+pos = (594,57);
 ref = brevecomb_gravecomb;
 }
 );
@@ -95,7 +95,7 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (610,47);
+pos = (606,47);
 ref = brevecomb_gravecomb;
 }
 );

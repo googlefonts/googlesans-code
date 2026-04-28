@@ -131,13 +131,13 @@ pos = (598,28);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 1184;
 },
 {
 background = {
 shapes = (
 {
-pos = (592,51);
+pos = (589,51);
 ref = tildecomb;
 }
 );
@@ -149,11 +149,11 @@ ref = ohorn.alt;
 },
 {
 alignment = -1;
-pos = (592,64);
+pos = (589,64);
 ref = tildecomb;
 }
 );
-width = 1200;
+width = 1197;
 },
 {
 background = {

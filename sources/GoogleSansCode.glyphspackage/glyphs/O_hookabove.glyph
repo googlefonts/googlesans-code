@@ -75,7 +75,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (644,385);
+pos = (645,385);
 ref = hookabovecomb;
 }
 );

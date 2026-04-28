@@ -135,14 +135,14 @@ pos = (504,402);
 ref = hookabovecomb;
 }
 );
-width = 1345;
+width = 1292;
 },
 {
 background = {
 shapes = (
 {
 alignment = -1;
-pos = (536,399);
+pos = (506,399);
 ref = hookabovecomb;
 }
 );
@@ -154,11 +154,11 @@ ref = Uhorn.alt;
 },
 {
 alignment = -1;
-pos = (484,399);
+pos = (454,399);
 ref = hookabovecomb;
 }
 );
-width = 1370;
+width = 1342;
 },
 {
 background = {

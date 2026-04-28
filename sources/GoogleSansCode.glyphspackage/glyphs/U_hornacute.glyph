@@ -173,13 +173,13 @@ pos = (528,402);
 ref = acutecomb;
 }
 );
-width = 1345;
+width = 1292;
 },
 {
 background = {
 shapes = (
 {
-pos = (536,399);
+pos = (506,399);
 ref = acutecomb;
 }
 );
@@ -190,11 +190,11 @@ shapes = (
 ref = Uhorn.alt;
 },
 {
-pos = (520,399);
+pos = (490,399);
 ref = acutecomb;
 }
 );
-width = 1370;
+width = 1342;
 },
 {
 background = {

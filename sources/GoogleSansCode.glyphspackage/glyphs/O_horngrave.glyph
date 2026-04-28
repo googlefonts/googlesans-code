@@ -133,13 +133,13 @@ pos = (598,402);
 ref = gravecomb;
 }
 );
-width = 1202;
+width = 1286;
 },
 {
 background = {
 shapes = (
 {
-pos = (596,399);
+pos = (678,399);
 ref = gravecomb;
 }
 );
@@ -151,11 +151,11 @@ ref = Ohorn.alt;
 },
 {
 alignment = -1;
-pos = (592,399);
+pos = (674,399);
 ref = gravecomb;
 }
 );
-width = 1208;
+width = 1290;
 },
 {
 background = {
