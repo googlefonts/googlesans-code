@@ -66,8 +66,7 @@ shapes = (
 ref = s;
 },
 {
-alignment = -1;
-pos = (625,0);
+pos = (553,0);
 ref = dotbelowcomb;
 }
 );
@@ -80,8 +79,7 @@ shapes = (
 ref = s;
 },
 {
-alignment = -1;
-pos = (625,0);
+pos = (553,0);
 ref = dotbelowcomb;
 }
 );
@@ -94,8 +92,7 @@ shapes = (
 ref = s;
 },
 {
-alignment = -1;
-pos = (626,0);
+pos = (551,0);
 ref = dotbelowcomb;
 }
 );
@@ -108,8 +105,7 @@ shapes = (
 ref = s;
 },
 {
-alignment = -1;
-pos = (626,0);
+pos = (550,0);
 ref = dotbelowcomb;
 }
 );

@@ -110,7 +110,7 @@ ref = Ohorn.alt;
 },
 {
 alignment = -1;
-pos = (600,403);
+pos = (630,403);
 ref = acutecomb;
 }
 );

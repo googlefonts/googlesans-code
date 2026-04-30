@@ -67,7 +67,7 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (608,60);
+pos = (578,60);
 ref = brevecomb_tildecomb;
 }
 );

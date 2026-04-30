@@ -78,11 +78,11 @@ shapes = (
 ref = IJ;
 },
 {
-pos = (236,387);
+pos = (261,387);
 ref = acutecomb;
 },
 {
-pos = (936,387);
+pos = (961,387);
 ref = acutecomb;
 }
 );
@@ -95,11 +95,11 @@ shapes = (
 ref = IJ;
 },
 {
-pos = (233,385);
+pos = (281,385);
 ref = acutecomb;
 },
 {
-pos = (927,385);
+pos = (975,385);
 ref = acutecomb;
 }
 );
@@ -112,11 +112,11 @@ shapes = (
 ref = IJ;
 },
 {
-pos = (224,380);
+pos = (317,380);
 ref = acutecomb;
 },
 {
-pos = (900,380);
+pos = (993,380);
 ref = acutecomb;
 }
 );
@@ -129,11 +129,11 @@ shapes = (
 ref = IJ;
 },
 {
-pos = (219,378);
+pos = (329,378);
 ref = acutecomb;
 },
 {
-pos = (889,378);
+pos = (999,378);
 ref = acutecomb;
 }
 );

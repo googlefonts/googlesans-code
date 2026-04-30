@@ -108,7 +108,7 @@ shapes = (
 ref = Uhorn.alt;
 },
 {
-pos = (510,403);
+pos = (610,403);
 ref = hookabovecomb;
 }
 );
@@ -131,7 +131,7 @@ ref = Uhorn.alt;
 },
 {
 alignment = -1;
-pos = (504,402);
+pos = (602,402);
 ref = hookabovecomb;
 }
 );
@@ -154,7 +154,7 @@ ref = Uhorn.alt;
 },
 {
 alignment = -1;
-pos = (454,399);
+pos = (598,399);
 ref = hookabovecomb;
 }
 );
@@ -177,7 +177,7 @@ ref = Uhorn.alt;
 },
 {
 alignment = -1;
-pos = (477,398);
+pos = (597,398);
 ref = hookabovecomb;
 }
 );

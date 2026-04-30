@@ -144,7 +144,7 @@ shapes = (
 ref = uhorn.alt;
 },
 {
-pos = (584,19);
+pos = (614,19);
 ref = gravecomb;
 }
 );
@@ -165,7 +165,7 @@ shapes = (
 ref = uhorn.alt;
 },
 {
-pos = (600,20);
+pos = (630,20);
 ref = gravecomb;
 }
 );

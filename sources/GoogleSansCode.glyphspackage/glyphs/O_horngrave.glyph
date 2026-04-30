@@ -107,7 +107,7 @@ ref = Ohorn.alt;
 },
 {
 alignment = -1;
-pos = (600,403);
+pos = (640,403);
 ref = gravecomb;
 }
 );
@@ -173,7 +173,7 @@ ref = Ohorn.alt;
 },
 {
 alignment = -1;
-pos = (590,398);
+pos = (620,398);
 ref = gravecomb;
 }
 );

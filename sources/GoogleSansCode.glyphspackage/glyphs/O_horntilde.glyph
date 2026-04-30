@@ -107,7 +107,7 @@ ref = Ohorn.alt;
 },
 {
 alignment = -1;
-pos = (590,410);
+pos = (610,410);
 ref = tildecomb;
 }
 );

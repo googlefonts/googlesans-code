@@ -66,8 +66,7 @@ shapes = (
 ref = s;
 },
 {
-alignment = -1;
-pos = (616,0);
+pos = (553,0);
 ref = cedillacomb;
 }
 );
@@ -80,8 +79,7 @@ shapes = (
 ref = s;
 },
 {
-alignment = -1;
-pos = (627,0);
+pos = (555,0);
 ref = cedillacomb;
 }
 );
@@ -94,8 +92,7 @@ shapes = (
 ref = s;
 },
 {
-alignment = -1;
-pos = (613,0);
+pos = (552,0);
 ref = cedillacomb;
 }
 );
@@ -108,8 +105,7 @@ shapes = (
 ref = s;
 },
 {
-alignment = -1;
-pos = (610,0);
+pos = (550,0);
 ref = cedillacomb;
 }
 );

@@ -66,8 +66,7 @@ shapes = (
 ref = G;
 },
 {
-alignment = -1;
-pos = (666,0);
+pos = (678,0);
 ref = commaaccentcomb;
 }
 );
@@ -80,8 +79,7 @@ shapes = (
 ref = G;
 },
 {
-alignment = -1;
-pos = (671,0);
+pos = (679,0);
 ref = commaaccentcomb;
 }
 );
@@ -94,8 +92,7 @@ shapes = (
 ref = G;
 },
 {
-alignment = -1;
-pos = (687,0);
+pos = (683,0);
 ref = commaaccentcomb;
 }
 );
@@ -108,8 +105,7 @@ shapes = (
 ref = G;
 },
 {
-alignment = -1;
-pos = (692,0);
+pos = (694,0);
 ref = commaaccentcomb;
 }
 );

@@ -60,6 +60,11 @@ ref = circumflexcomb_acutecomb;
 width = 1200;
 },
 {
+guides = (
+{
+pos = (754,1233);
+}
+);
 layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
@@ -67,7 +72,7 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (608,70);
+pos = (568,70);
 ref = circumflexcomb_acutecomb;
 }
 );

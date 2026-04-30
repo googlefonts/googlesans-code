@@ -144,7 +144,7 @@ shapes = (
 ref = uhorn.alt;
 },
 {
-pos = (489,19);
+pos = (509,19);
 ref = hookabovecomb;
 }
 );
@@ -165,7 +165,7 @@ shapes = (
 ref = uhorn.alt;
 },
 {
-pos = (495,20);
+pos = (515,20);
 ref = hookabovecomb;
 }
 );

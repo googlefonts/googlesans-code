@@ -62,11 +62,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (630,-30);
+pos = (625,-30);
 ref = dotbelowcomb;
 }
 );
-width = 1268;
+width = 1263;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";

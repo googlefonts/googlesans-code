@@ -74,7 +74,7 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (608,70);
+pos = (568,70);
 ref = circumflexcomb_hookabovecomb;
 }
 );

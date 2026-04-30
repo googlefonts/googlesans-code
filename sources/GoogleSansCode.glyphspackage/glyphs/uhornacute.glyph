@@ -151,7 +151,7 @@ shapes = (
 ref = uhorn.alt;
 },
 {
-pos = (561,16);
+pos = (581,16);
 ref = acutecomb;
 }
 );
@@ -172,7 +172,7 @@ shapes = (
 ref = uhorn.alt;
 },
 {
-pos = (552,17);
+pos = (572,17);
 ref = acutecomb;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = uhorn.alt;
 },
 {
-pos = (508,19);
+pos = (538,19);
 ref = acutecomb;
 }
 );
@@ -214,7 +214,7 @@ shapes = (
 ref = uhorn.alt;
 },
 {
-pos = (515,20);
+pos = (545,20);
 ref = acutecomb;
 }
 );

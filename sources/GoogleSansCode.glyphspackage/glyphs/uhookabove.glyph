@@ -66,7 +66,7 @@ ref = u;
 },
 {
 alignment = -1;
-pos = (571,0);
+pos = (541,0);
 ref = hookabovecomb;
 }
 );
@@ -80,7 +80,7 @@ ref = u;
 },
 {
 alignment = -1;
-pos = (576,0);
+pos = (559,0);
 ref = hookabovecomb;
 }
 );
@@ -94,7 +94,7 @@ ref = u;
 },
 {
 alignment = -1;
-pos = (592,0);
+pos = (571,0);
 ref = hookabovecomb;
 }
 );
