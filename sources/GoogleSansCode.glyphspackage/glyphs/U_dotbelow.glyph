@@ -62,11 +62,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (630,-30);
+pos = (625,-30);
 ref = dotbelowcomb;
 }
 );
-width = 1260;
+width = 1250;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";

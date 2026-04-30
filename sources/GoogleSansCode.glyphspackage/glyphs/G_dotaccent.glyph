@@ -66,7 +66,7 @@ pos = (683,387);
 ref = dotaccentcomb;
 }
 );
-width = 1278;
+width = 1302;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -105,7 +105,7 @@ pos = (685,378);
 ref = dotaccentcomb;
 }
 );
-width = 1308;
+width = 1318;
 }
 );
 unicode = 288;
