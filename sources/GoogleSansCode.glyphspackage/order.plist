@@ -685,5 +685,6 @@ logicalnot,
 micro,
 optionKey,
 propellor,
-replacementCharacter
+replacementCharacter,
+W.001
 )

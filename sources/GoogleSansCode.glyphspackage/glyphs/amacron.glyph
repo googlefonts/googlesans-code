@@ -62,11 +62,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (560,0);
+pos = (570,0);
 ref = macroncomb;
 }
 );
-width = 1107;
+width = 1117;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";

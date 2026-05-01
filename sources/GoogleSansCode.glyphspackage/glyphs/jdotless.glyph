@@ -1,6 +1,8 @@
 {
 color = 7;
 glyphname = jdotless;
+kernLeft = j_left;
+kernRight = j_right;
 layers = (
 {
 anchors = (
