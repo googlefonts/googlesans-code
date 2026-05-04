@@ -1,5 +1,5 @@
 {
-color = 7;
+color = 2;
 glyphname = Thorn;
 kernLeft = H_left;
 kernRight = Thorn_right;

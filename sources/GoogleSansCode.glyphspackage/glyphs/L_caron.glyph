@@ -1,5 +1,5 @@
 {
-color = 7;
+color = 2;
 glyphname = Lcaron;
 kernLeft = H_left;
 kernRight = Lcaron_right;
@@ -154,7 +154,7 @@ nodes = (
 );
 }
 );
-width = 1154;
+width = 1174;
 }
 );
 unicode = 317;

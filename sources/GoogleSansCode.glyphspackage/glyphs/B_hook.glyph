@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 2;
 glyphname = Bhook;
 kernLeft = Bhook_left;
 kernRight = B_right;
@@ -1335,7 +1335,7 @@ nodes = (
 );
 }
 );
-width = 1510;
+width = 1529;
 },
 {
 associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
