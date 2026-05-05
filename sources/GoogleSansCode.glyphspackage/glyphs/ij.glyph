@@ -762,11 +762,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (845,0);
+pos = (825,0);
 ref = j;
 }
 );
-width = 1559;
+width = 1539;
 },
 {
 associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
@@ -993,11 +993,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (896,0);
+pos = (916,0);
 ref = j;
 }
 );
-width = 1696;
+width = 1716;
 },
 {
 associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

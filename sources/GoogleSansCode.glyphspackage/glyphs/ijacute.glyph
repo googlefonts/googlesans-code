@@ -612,15 +612,15 @@ pos = (468,0);
 ref = acutecomb;
 },
 {
-pos = (845,0);
+pos = (825,0);
 ref = jdotless;
 },
 {
-pos = (1291,0);
+pos = (1271,0);
 ref = acutecomb;
 }
 );
-width = 1559;
+width = 1539;
 },
 {
 associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
@@ -909,15 +909,15 @@ pos = (488,0);
 ref = acutecomb;
 },
 {
-pos = (896,0);
+pos = (916,0);
 ref = jdotless;
 },
 {
-pos = (1358,0);
+pos = (1378,0);
 ref = acutecomb;
 }
 );
-width = 1696;
+width = 1716;
 },
 {
 associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
