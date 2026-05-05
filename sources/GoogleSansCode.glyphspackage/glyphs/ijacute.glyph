@@ -620,7 +620,7 @@ pos = (1291,0);
 ref = acutecomb;
 }
 );
-width = 1507;
+width = 1559;
 },
 {
 associatedMasterId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
@@ -715,11 +715,11 @@ pos = (855,0);
 ref = jdotless;
 },
 {
-pos = (1307,0);
+pos = (1304,0);
 ref = acutecomb;
 }
 );
-width = 1541;
+width = 1586;
 },
 {
 associatedMasterId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -814,11 +814,11 @@ pos = (886,0);
 ref = jdotless;
 },
 {
-pos = (1344,0);
+pos = (1345,0);
 ref = acutecomb;
 }
 );
-width = 1643;
+width = 1669;
 },
 {
 associatedMasterId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -917,7 +917,7 @@ pos = (1358,0);
 ref = acutecomb;
 }
 );
-width = 1676;
+width = 1696;
 },
 {
 associatedMasterId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
