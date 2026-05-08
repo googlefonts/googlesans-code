@@ -3,7 +3,7 @@ color = 8;
 export = 0;
 glyphname = ijacute;
 kernLeft = i_left;
-kernRight = j_right;
+kernRight = ijacute_right;
 layers = (
 {
 layerId = "D010C1AA-6BDD-4F06-9849-880CC2F29E88";

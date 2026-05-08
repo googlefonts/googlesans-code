@@ -2,6 +2,8 @@
 color = 8;
 export = 0;
 glyphname = nj;
+kernLeft = n_left;
+kernRight = j_right;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";

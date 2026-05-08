@@ -1,5 +1,6 @@
 {
 case = minor;
+color = 2;
 glyphname = quoteleft;
 kernLeft = quoteleft_left;
 kernRight = quoteleft_right;

@@ -1,6 +1,6 @@
 {
 glyphname = AEacute;
-kernLeft = A_left;
+kernLeft = AE_left;
 kernRight = E_right;
 layers = (
 {
