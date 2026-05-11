@@ -1,5 +1,5 @@
 {
-color = 7;
+color = 2;
 glyphname = ihookabove;
 kernLeft = ihookabove_left;
 kernRight = ihookabove_right;
