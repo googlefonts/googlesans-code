@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 2;
 glyphname = idieresis;
 kernLeft = idieresis_left;
 kernRight = idieresis_right;
