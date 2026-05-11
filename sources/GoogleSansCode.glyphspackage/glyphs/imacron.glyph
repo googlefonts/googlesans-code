@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 2;
 glyphname = imacron;
 kernLeft = imacron_left;
 kernRight = imacron_right;
