@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 2;
 glyphname = lslash;
 kernLeft = lslash_left;
 kernRight = lslash_right;
@@ -288,12 +288,6 @@ ref = l;
 }
 );
 };
-guides = (
-{
-angle = 28.1441;
-pos = (196,473);
-}
-);
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
