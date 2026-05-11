@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 2;
 glyphname = icircumflex;
 kernLeft = icircumflex_left;
 kernRight = icircumflex_right;
