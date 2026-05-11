@@ -1,5 +1,5 @@
 {
-color = 7;
+color = 2;
 glyphname = itilde;
 kernLeft = itilde_left;
 kernRight = itilde_right;
