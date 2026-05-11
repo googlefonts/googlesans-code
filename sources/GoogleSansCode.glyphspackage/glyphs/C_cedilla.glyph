@@ -1,6 +1,6 @@
 {
 glyphname = Ccedilla;
-kernLeft = C_left;
+kernLeft = O_left;
 kernRight = C_right;
 layers = (
 {
