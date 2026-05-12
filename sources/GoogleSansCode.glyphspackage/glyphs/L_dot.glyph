@@ -1,5 +1,4 @@
 {
-color = 5;
 glyphname = Ldot;
 kernLeft = H_left;
 kernRight = L_right;

@@ -1,5 +1,4 @@
 {
-color = 5;
 glyphname = questiondown;
 kernLeft = questiondown_left;
 kernRight = questiondown_right;

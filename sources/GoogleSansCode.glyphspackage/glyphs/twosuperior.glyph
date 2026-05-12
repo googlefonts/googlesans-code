@@ -1,5 +1,4 @@
 {
-color = 7;
 glyphname = twosuperior;
 kernLeft = twosuperior_left;
 kernRight = twosuperior_right;

@@ -1,5 +1,4 @@
 {
-color = 5;
 glyphname = kgreenlandic;
 kernLeft = n_left;
 kernRight = k_right;

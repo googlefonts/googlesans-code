@@ -1,5 +1,4 @@
 {
-color = 2;
 glyphname = Ohorn;
 kernLeft = O_left;
 kernRight = Ohorn_right;

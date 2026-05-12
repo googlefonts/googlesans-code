@@ -1,5 +1,4 @@
 {
-color = 2;
 glyphname = eth;
 kernLeft = eth_left;
 kernRight = eth_right;
