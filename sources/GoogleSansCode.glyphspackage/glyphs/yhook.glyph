@@ -1,5 +1,5 @@
 {
-color = 7;
+color = 2;
 glyphname = yhook;
 kernLeft = y_left;
 kernRight = yhook_right;
