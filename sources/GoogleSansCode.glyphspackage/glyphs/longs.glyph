@@ -1,5 +1,5 @@
 {
-color = 7;
+color = 2;
 glyphname = longs;
 kernLeft = f_left;
 kernRight = longs_right;
