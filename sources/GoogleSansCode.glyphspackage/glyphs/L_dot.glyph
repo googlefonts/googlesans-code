@@ -1,5 +1,7 @@
 {
 glyphname = Ldot;
+kernLeft = H_left;
+kernRight = L_right;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
@@ -54,56 +56,60 @@ ref = periodcentered;
 width = 1200;
 },
 {
-layerId = m005;
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
+metricLeft = "=H";
 shapes = (
 {
 ref = L;
 },
 {
-pos = (277,0);
+pos = (517,0);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 1062;
 },
 {
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
+metricLeft = "=H";
 shapes = (
 {
 ref = L;
 },
 {
-pos = (285,0);
+pos = (595,0);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 1066;
 },
 {
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
+metricLeft = "=H";
 shapes = (
 {
 ref = L;
 },
 {
-pos = (308,0);
+pos = (588,0);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 1132;
 },
 {
-layerId = m008;
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
+metricLeft = "=H";
 shapes = (
 {
 ref = L;
 },
 {
-pos = (316,0);
+pos = (599,0);
 ref = periodcentered;
 }
 );
-width = 1200;
+width = 1174;
 }
 );
 unicode = 319;
