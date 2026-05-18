@@ -1011,7 +1011,7 @@ lookup ccmp_latn_catalanRecompose {
 } ccmp_latn_catalanRecompose;
 
 lookup ccmp_latn_ijacute {
-#	sub ij acutecomb by ijacute;
+	sub ij acutecomb by ijacute;
 	sub IJ acutecomb by IJacute;
 } ccmp_latn_ijacute;
 ";
@@ -2328,6 +2328,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2384,6 +2388,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2435,6 +2443,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2488,6 +2500,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2541,6 +2557,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -2595,6 +2615,10 @@ Axis = Monospaced;
 Location = 1;
 }
 );
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
 instanceInterpolations = {
@@ -25649,5 +25673,5 @@ value = "1.5";
 };
 };
 versionMajor = 7;
-versionMinor = 0;
+versionMinor = 1;
 }
