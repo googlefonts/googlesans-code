@@ -10,6 +10,9 @@ on:
     # A release, pre-release, or draft of a release was published
     types: [published]
   
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-22.04
