@@ -101,8 +101,9 @@ jobs:
     # Only run on a GitHub release
     if: github.event_name == 'release'
     permissions:
-      # Needed for svenstaro/upload-release-action
       contents: write
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
       uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
@@ -122,15 +123,8 @@ jobs:
         cp "$GITHUB_WORKSPACE/OFL.txt" "$GITHUB_WORKSPACE/android"
         cd "$GITHUB_WORKSPACE/android" \
           && zip "../GoogleSansCode-Android-${GITHUB_REF#refs/*/}.zip" OFL.txt *.ttf
-    - name: Upload binaries to release
-      uses: svenstaro/upload-release-action@29e53e917877a24fad85510ded594ab3c9ca12de # latest
-      with:
-        repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: GoogleSansCode*.zip
-        file_glob: true
-        asset_name: ${{ env.RELEASE_ZIP_NAME }}
-        tag: ${{ github.ref }}
-        overwrite: true
-        body: >
-          Production ready fonts.
-          See [CHANGELOG.md](https://github.com/googlefonts/googlesans-code/blob/main/CHANGELOG.md) for changes
+        
+        cd "$GITHUB_WORKSPACE"
+        # Repo must be explicitly stated as we don't have the repo checked out
+        gh release upload --repo "$GITHUB_REPOSITORY" "$GITHUB_REF_NAME" \
+          GoogleSansCode*.zip
