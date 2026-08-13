@@ -6,3 +6,5 @@ updates:
     schedule:
       interval: "daily"
       time: "00:00"
+    cooldown:
+      default-days: 7
