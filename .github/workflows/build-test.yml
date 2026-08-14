@@ -69,7 +69,7 @@ jobs:
         python-version-file: .github/python-version.txt
         cache: pip
     - name: OpenType Sanitizer checks
-      uses: f-actions/opentype-sanitizer@46198f646fb1b922fa2c88087227f2f4b610cf64 # v3.0.0
+      uses: f-actions/opentype-sanitizer@d5603373a9adccd136dd48b037b9b5178b485bea # v4.0.0
       with:
         path: fonts/**/*.ttf
     - name: Shaperglot report
