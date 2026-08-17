@@ -10,17 +10,21 @@ on:
     # A release, pre-release, or draft of a release was published
     types: [published]
   
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-22.04
     timeout-minutes: 10
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
-      uses: actions/checkout@v6
+      uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       with:
         ref: ${{ github.head_ref || github.ref_name }}
+        persist-credentials: false
     - name: Setup Python
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
       with:
         python-version-file: .github/python-version.txt
         cache: pip
@@ -30,13 +34,13 @@ jobs:
       run: make android
     - name: Generate artifact name
       id: zip-name
-      uses: alpha-tango-kilo/gha-artifact-name@v1
+      uses: alpha-tango-kilo/gha-artifact-name@49459760611c4a5cedffa13dfb36ca29ab1fdcfc # v1.3.0
       with:
         repo-name: Google Sans Code
         overrides: |
           build-test: build
     - name: Upload artifact
-      uses: actions/upload-artifact@v7
+      uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
       with:
         name: ${{ steps.zip-name.outputs.artifact-name }}
         path: |
@@ -50,21 +54,22 @@ jobs:
     - build
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
-      uses: actions/checkout@v6
+      uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       with:
         ref: ${{ github.head_ref || github.ref_name }}
+        persist-credentials: false
     - name: Download built fonts
-      uses: actions/download-artifact@v8
+      uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
       with:
         name: ${{ needs.build.outputs.artifact-name }}
         path: fonts
     - name: Setup Python
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
       with:
         python-version-file: .github/python-version.txt
         cache: pip
     - name: OpenType Sanitizer checks
-      uses: f-actions/opentype-sanitizer@v3
+      uses: f-actions/opentype-sanitizer@d5603373a9adccd136dd48b037b9b5178b485bea # v4.0.0
       with:
         path: fonts/**/*.ttf
     - name: Shaperglot report
@@ -81,7 +86,7 @@ jobs:
         touch venv/touchfile build.stamp
         make test
     - name: Upload Fontbakery report(s)
-      uses: actions/upload-artifact@v7
+      uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
       # Always upload reports (even during a pipeline fail), so long as Fontbakery completed
       if: ${{ !cancelled() && (steps.fontbakery.conclusion == 'success' || steps.fontbakery.conclusion == 'failure') }}
       with:
@@ -96,15 +101,17 @@ jobs:
     # Only run on a GitHub release
     if: github.event_name == 'release'
     permissions:
-      # Needed for svenstaro/upload-release-action
       contents: write
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
     - name: Checkout ${{ github.head_ref || github.ref_name }}
-      uses: actions/checkout@v6
+      uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       with:
         ref: ${{ github.head_ref || github.ref_name }}
+        persist-credentials: false
     - name: Download built fonts
-      uses: actions/download-artifact@v8
+      uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
       with:
         name: ${{ needs.build.outputs.artifact-name }}
     - name: Create release archives
@@ -116,15 +123,8 @@ jobs:
         cp "$GITHUB_WORKSPACE/OFL.txt" "$GITHUB_WORKSPACE/android"
         cd "$GITHUB_WORKSPACE/android" \
           && zip "../GoogleSansCode-Android-${GITHUB_REF#refs/*/}.zip" OFL.txt *.ttf
-    - name: Upload binaries to release
-      uses: svenstaro/upload-release-action@v2
-      with:
-        repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: GoogleSansCode*.zip
-        file_glob: true
-        asset_name: ${{ env.RELEASE_ZIP_NAME }}
-        tag: ${{ github.ref }}
-        overwrite: true
-        body: >
-          Production ready fonts.
-          See [CHANGELOG.md](https://github.com/googlefonts/googlesans-code/blob/main/CHANGELOG.md) for changes
+        
+        cd "$GITHUB_WORKSPACE"
+        # Repo must be explicitly stated as we don't have the repo checked out
+        gh release upload --repo "$GITHUB_REPOSITORY" "$GITHUB_REF_NAME" \
+          GoogleSansCode*.zip
