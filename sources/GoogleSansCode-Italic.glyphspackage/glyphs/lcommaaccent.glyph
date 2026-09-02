@@ -121,7 +121,7 @@ pos = (500,-30);
 ref = commaaccentcomb;
 }
 );
-width = 600;
+width = 736;
 },
 {
 layerId = m007;
