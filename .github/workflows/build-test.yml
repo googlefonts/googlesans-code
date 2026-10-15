@@ -20,7 +20,7 @@ jobs:
       with:
         ref: ${{ github.head_ref || github.ref_name }}
     - name: Setup Python
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@v7
       with:
         python-version-file: .github/python-version.txt
         cache: pip
@@ -59,7 +59,7 @@ jobs:
         name: ${{ needs.build.outputs.artifact-name }}
         path: fonts
     - name: Setup Python
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@v7
       with:
         python-version-file: .github/python-version.txt
         cache: pip
