@@ -32,7 +32,7 @@ defcon==0.12.2
     #   glyphsets
 dehinter==4.0.0
     # via fontbakery
-filelock==3.29.0
+filelock==4.2.1
     # via youseedee
 fontbakery[beautifulsoup4,googlefonts,googlefontsalwayslatest,shaperglot]==1.1.0
     # via -r requirements-test.in
